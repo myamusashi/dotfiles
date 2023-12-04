@@ -1,0 +1,39 @@
+2023-12-02 05:48:46.241 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-02 05:48:48.567 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by Blackbox AI Code Generation, Code Chat, Code Search (Blackboxapp.blackbox)
+2023-12-02 05:48:52.012 [error] [Extension Host] (node:12694) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-12-02 05:48:52.443 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:48:52.444 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:48:52.445 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:48:52.446 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:48:52.449 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:48:52.450 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:48:52.451 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:48:52.452 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:48:54.450 [info] [perf] Render performance baseline is 174ms
+2023-12-02 05:48:58.728 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/gilang/Project/portofolio/index.html' (Error: File Modified Since) file:///home/gilang/Project/portofolio/index.html
+2023-12-02 05:49:12.829 [error] INVALID selection range, must contain the previous range: Error: INVALID selection range, must contain the previous range
+	at x.provideSelectionRanges (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:61430)
+2023-12-02 05:49:20.088 [error] Unable to read file '/home/gilang/Project/portofolio/index.html' (Error: File not modified since): Error: Unable to read file '/home/gilang/Project/portofolio/index.html' (Error: File not modified since)
+    at n.F (vscode-file://vscode-app/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:645:16688)
+    at n.D (vscode-file://vscode-app/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:645:16576)
+    at async b.M (vscode-file://vscode-app/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2418:42819)
+    at async b.readStream (vscode-file://vscode-app/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2418:42576)
+    at async P.Cb (vscode-file://vscode-app/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2407:29172)
+    at async P.resolve (vscode-file://vscode-app/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2407:27619)
+    at async vscode-file://vscode-app/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2418:38687
+2023-12-02 05:50:51.790 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by Blackbox AI Code Generation, Code Chat, Code Search (Blackboxapp.blackbox)
+2023-12-02 05:52:24.462 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-02 05:53:13.015 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-02 05:53:14.602 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by Blackbox AI Code Generation, Code Chat, Code Search (Blackboxapp.blackbox)
+2023-12-02 05:53:17.614 [error] [Extension Host] (node:14096) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-12-02 05:53:17.794 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:53:17.796 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:53:17.797 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:53:17.797 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:53:17.798 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:53:17.801 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:53:17.801 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:53:17.802 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-02 05:53:22.776 [info] [perf] Render performance baseline is 182ms

@@ -1,0 +1,136 @@
+05:53:21 GMT+0700 (Western Indonesia Time) [INFO]: spawning binary with command: /home/gilang/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.53.0/x86_64-unknown-linux-musl/TabNine args: --print-version 
+
+05:53:21 GMT+0700 (Western Indonesia Time) [INFO]: spawning binary with command: /home/gilang/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.53.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.84.2 pluginVersion=3.41.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=MacOS Modern Dark - Xcode Modern vscode-theme-kind=Dark vscode-machine-id=c2d314aa9dbfc6792cf09ef060743aaaa9a0f50e59a72d039f9344eabbbb7a22 vscode-is-new-app-install=true vscode-session-id=1a7c4481-6435-4ba5-96db-685500955bd01701471193031 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown vscode-inline-api-enabled=true vscode-code-lens-enabled=true ide-restart-counter=0 
+
+05:53:21 GMT+0700 (Western Indonesia Time) [DEBUG]: capabilities resolved immediately 
+
+05:53:23 GMT+0700 (Western Indonesia Time) [ERROR]: validating /home/gilang/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.53.0/x86_64-unknown-linux-musl/TabNine timeout 
+
+05:53:25 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+05:53:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:53:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:54:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:54:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:55:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:55:30 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+05:55:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:56:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:56:46 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+05:56:48 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+05:56:49 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+05:56:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:57:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:57:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:57:55 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+05:57:56 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+05:58:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:58:31 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+05:58:32 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+05:58:34 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+05:58:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:59:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:59:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:00:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:00:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:01:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:01:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:02:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:02:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:03:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:03:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:04:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:04:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:05:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:05:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:06:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:06:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:07:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:07:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:08:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:08:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:09:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:09:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:10:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:10:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:11:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:11:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:12:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:12:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:13:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:13:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:14:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:14:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:15:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:15:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:16:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:16:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:17:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:17:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:18:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:18:55 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:19:25 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+06:19:53 GMT+0700 (Western Indonesia Time) [WARN]: assistant is closing 
+

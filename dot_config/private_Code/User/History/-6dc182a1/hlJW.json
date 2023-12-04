@@ -1,0 +1,39 @@
+{
+    "workbench.editor.enablePreview": false,
+    "vscode-edge-devtools.webhint": false,
+    "explorer.confirmDelete": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.commandCenter": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "tabnine.experimentalAutoImports": true,
+    "workbench.productIconTheme": "macos-modern",
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "python.defaultInterpreterPath": "C:\\Users\\user\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "sqltools.connections":[
+
+
+    ],
+    "code-runner.runInTerminal": true,
+    "notebook.outputLineHeight": 1.5,
+    "notebook.output.textLineLimit": 100000,
+    "jupyter.askForKernelRestart": false,
+    "diffEditor.maxFileSize": 1000,
+    "workbench.editorAssociations": {
+        "*.ts": "default",
+        "*.csv": "default"
+    },
+    "workbench.colorTheme": "MacOS Modern Dark - Xcode Modern",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

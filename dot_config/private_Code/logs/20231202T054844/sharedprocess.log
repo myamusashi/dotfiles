@@ -1,0 +1,38 @@
+2023-12-02 05:50:33.242 [info] Getting Manifest... mohd-akram.vscode-html-format
+2023-12-02 05:50:33.268 [info] Installing extension: mohd-akram.vscode-html-format
+2023-12-02 05:50:36.034 [info] Extension signature is verified: mohd-akram.vscode-html-format
+2023-12-02 05:50:36.090 [info] Extracted extension to file:///home/gilang/.vscode/extensions/mohd-akram.vscode-html-format-0.1.2: mohd-akram.vscode-html-format
+2023-12-02 05:50:36.104 [info] Renamed to /home/gilang/.vscode/extensions/mohd-akram.vscode-html-format-0.1.2
+2023-12-02 05:50:36.111 [info] Extracting extension completed. mohd-akram.vscode-html-format
+2023-12-02 05:50:36.140 [info] Extension installed successfully: mohd-akram.vscode-html-format
+2023-12-02 05:50:36.217 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-02 05:50:48.668 [info] Getting Manifest... lonefy.vscode-js-css-html-formatter
+2023-12-02 05:50:48.686 [info] Installing extension: lonefy.vscode-js-css-html-formatter
+2023-12-02 05:50:51.267 [info] Extension signature is verified: lonefy.vscode-js-css-html-formatter
+2023-12-02 05:50:51.605 [info] Extracted extension to file:///home/gilang/.vscode/extensions/lonefy.vscode-js-css-html-formatter-0.2.3: lonefy.vscode-js-css-html-formatter
+2023-12-02 05:50:51.654 [info] Renamed to /home/gilang/.vscode/extensions/lonefy.vscode-js-css-html-formatter-0.2.3
+2023-12-02 05:50:51.657 [info] Extracting extension completed. lonefy.vscode-js-css-html-formatter
+2023-12-02 05:50:51.677 [info] Extension installed successfully: lonefy.vscode-js-css-html-formatter
+2023-12-02 05:50:51.742 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-02 05:53:07.226 [info] Uninstalling extension from the profile: lonefy.vscode-js-css-html-formatter@0.2.3 vscode-userdata:/home/gilang/.vscode/extensions/extensions.json
+2023-12-02 05:53:07.423 [info] Marked extension as uninstalled lonefy.vscode-js-css-html-formatter-0.2.3
+2023-12-02 05:53:07.441 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-02 05:53:07.999 [info] Successfully uninstalled extension from the profile lonefy.vscode-js-css-html-formatter@0.2.3 vscode-userdata:/home/gilang/.vscode/extensions/extensions.json

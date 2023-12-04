@@ -1,0 +1,4 @@
+2023-12-02 05:48:57.885 [error] electron #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_ADDRESS_UNREACHABLE
+2023-12-02 06:00:48.284 [error] electron #90: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_TIMED_OUT
+2023-12-02 06:08:05.190 [error] electron #94: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_TIMED_OUT
+2023-12-02 06:15:22.097 [error] electron #108: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_TIMED_OUT

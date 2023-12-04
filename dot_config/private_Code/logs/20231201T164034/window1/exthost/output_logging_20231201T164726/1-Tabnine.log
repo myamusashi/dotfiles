@@ -1,0 +1,1178 @@
+16:47:43 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Event":{"name":"getting-started-closed"}} 
+
+16:47:55 GMT+0700 (Western Indonesia Time) [INFO]: spawning binary with command: /home/gilang/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.53.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.84.2 pluginVersion=3.41.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=MacOS Modern Dark - Ventura Xcode Default vscode-theme-kind=Dark vscode-machine-id=c2d314aa9dbfc6792cf09ef060743aaaa9a0f50e59a72d039f9344eabbbb7a22 vscode-is-new-app-install=true vscode-session-id=cb6a1b7d-1742-445b-8ffa-a55c95624ff11701424044211 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown vscode-inline-api-enabled=true vscode-code-lens-enabled=true ide-restart-counter=0 
+
+16:47:55 GMT+0700 (Western Indonesia Time) [DEBUG]: capabilities resolved immediately 
+
+16:47:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:47:59 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+16:48:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:48:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:49:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:49:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:50:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:50:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:51:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:51:36 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+16:51:37 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+16:51:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:52:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:52:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:53:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:53:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:54:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:54:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:55:09 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+16:55:10 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+16:55:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:55:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:56:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:56:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:57:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:57:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:58:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:58:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:59:11 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+16:59:13 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+16:59:28 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+16:59:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+16:59:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:00:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:00:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:01:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:01:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:02:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:02:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:03:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:03:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:04:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:04:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:05:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:05:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:06:07 GMT+0700 (Western Indonesia Time) [WARN]: Binary child process exited with code 0 signal unknown 
+
+17:06:09 GMT+0700 (Western Indonesia Time) [INFO]: spawning binary with command: /home/gilang/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.53.0/x86_64-unknown-linux-musl/TabNine args: --print-version 
+
+17:06:09 GMT+0700 (Western Indonesia Time) [INFO]: spawning binary with command: /home/gilang/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.53.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.84.2 pluginVersion=3.41.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=GitHub Dark Dimmed vscode-theme-kind=Dark vscode-machine-id=c2d314aa9dbfc6792cf09ef060743aaaa9a0f50e59a72d039f9344eabbbb7a22 vscode-is-new-app-install=true vscode-session-id=cb6a1b7d-1742-445b-8ffa-a55c95624ff11701424044211 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown vscode-inline-api-enabled=true vscode-code-lens-enabled=true ide-restart-counter=1 
+
+17:06:11 GMT+0700 (Western Indonesia Time) [ERROR]: validating /home/gilang/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.53.0/x86_64-unknown-linux-musl/TabNine timeout 
+
+17:06:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:06:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:07:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:07:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:08:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:08:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:09:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:09:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:10:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:10:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:11:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:11:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:12:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:12:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:13:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:13:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:14:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:14:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:15:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:15:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:16:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:16:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:17:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:17:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:18:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:18:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:19:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:19:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:20:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:20:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:21:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:21:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:22:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:22:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:23:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:23:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:24:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:24:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:25:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:25:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:26:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:26:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:27:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:27:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:28:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:28:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:29:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:29:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:30:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:30:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:31:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:31:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:32:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:32:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:33:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:33:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:34:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:34:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:35:23 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  background-color: #ffffff;\n}\n\n.content-home {\n  padding: 20px;\n  margin: 0 auto;\n  max-width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  align-items: center;\n}\n\n.profile-image0","after":" {\n  padding: 3em 0;\n  /* flex: 0 1 200px; */\n  /* margin-right: 20px; */\n  /* border-radius: 50%; */\n  /* overflow: hidden; */\n}\n\n.profile-image img {\n  width: 15em;\n  height: 15em;\n  border-radius: 50%;\n  object-fit: cover;\n  /* display: inline-flex; */\n  /* width: 100%; */\n  /* height: 120%; */\n}\n\n.container {\n  flex: 1;\n  max-width: 350px;\n  padding: 0 15px;\n}\n\n.text-column h1,\n.text-column p {\n  margin: 0 0 20px;\n  line-height: 1.4;\n}\n\n.text-column h1 {\n  font-size: 2.5em;\n}\n\n.nav {\n  display: flex;\n  padding: 0;\n  width: 95%;\n  justify-content: space-around;\n}\n\nnav ul {\n  list-style-type: none;\n  padding: 0;\n}\n\nnav ul li {\n  margin: 0 10px;\n}\n\nnav ul li a {\n  color: black;\n  font-family: Georgia, serif;\n  font-weight: 800;\n  text-decoration: none;\n}\n\nmain {\n  padding: 20px;\n}\n\n.content-about {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-portofolio {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-blog {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-contact {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.project {\n  padding: 10px;\n  margin-bottom: 10px;\n}\n\n.hidden h2 p{\n  visibility: hidden;\n}\n\n@media screen and (max-width: 768px) {\n  .header a {\n    float: none;\n    display: block;\n    text-align: left;\n  }\n\n  .content-home {\n    flex-direction: column;\n    align-items: center;\n  }\n\n  .profile-image {\n    margin-bottom: 20px;\n    margin-right: 0;\n  }\n\n  .right-side {\n    max-width: none;\n  }\n\n  .text-column {\n    font-size: 1em;\n  }\n\n  .nav {\n    flex-direction: column;\n  }\n\n  nav ul li {\n    margin: 5px 0;\n  }\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":273,"line":20,"character":15,"indentation_size":2}} 
+
+17:35:25 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:35:26 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  background-color: #ffffff;\n}\n\n.content-home {\n  padding: 20px;\n  margin: 0 auto;\n  max-width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  align-items: center;\n}\n\n.profile-image-m","after":" {\n  padding: 3em 0;\n  /* flex: 0 1 200px; */\n  /* margin-right: 20px; */\n  /* border-radius: 50%; */\n  /* overflow: hidden; */\n}\n\n.profile-image img {\n  width: 15em;\n  height: 15em;\n  border-radius: 50%;\n  object-fit: cover;\n  /* display: inline-flex; */\n  /* width: 100%; */\n  /* height: 120%; */\n}\n\n.container {\n  flex: 1;\n  max-width: 350px;\n  padding: 0 15px;\n}\n\n.text-column h1,\n.text-column p {\n  margin: 0 0 20px;\n  line-height: 1.4;\n}\n\n.text-column h1 {\n  font-size: 2.5em;\n}\n\n.nav {\n  display: flex;\n  padding: 0;\n  width: 95%;\n  justify-content: space-around;\n}\n\nnav ul {\n  list-style-type: none;\n  padding: 0;\n}\n\nnav ul li {\n  margin: 0 10px;\n}\n\nnav ul li a {\n  color: black;\n  font-family: Georgia, serif;\n  font-weight: 800;\n  text-decoration: none;\n}\n\nmain {\n  padding: 20px;\n}\n\n.content-about {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-portofolio {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-blog {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-contact {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.project {\n  padding: 10px;\n  margin-bottom: 10px;\n}\n\n.hidden h2 p{\n  visibility: hidden;\n}\n\n@media screen and (max-width: 768px) {\n  .header a {\n    float: none;\n    display: block;\n    text-align: left;\n  }\n\n  .content-home {\n    flex-direction: column;\n    align-items: center;\n  }\n\n  .profile-image {\n    margin-bottom: 20px;\n    margin-right: 0;\n  }\n\n  .right-side {\n    max-width: none;\n  }\n\n  .text-column {\n    font-size: 1em;\n  }\n\n  .nav {\n    flex-direction: column;\n  }\n\n  nav ul li {\n    margin: 5px 0;\n  }\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":274,"line":20,"character":16,"indentation_size":2}} 
+
+17:35:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:35:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:36:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:36:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:36:59 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:37:00 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Notifications":{}} 
+
+17:37:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:37:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:38:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:38:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:39:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:39:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:40:05 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  background-color: #ffffff;\n}\n\n.wrap {\n\n","after":"}\n\n.content-home {\n  padding: 20px;\n  margin: 0 auto;\n  max-width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  align-items: center;\n}\n\n.content-home-media {\n  padding: 3em 0;\n}\n\n.content-home-media img {\n  width: 15em;\n  height: 15em;\n  border-radius: 50%;\n  object-fit: cover;\n  /* display: inline-flex; */\n  /* width: 100%; */\n  /* height: 120%; */\n}\n\n.header__section--menu .menu {\n  display: flex;\n}\n\n.text-column h1,\n.text-column p {\n  margin: 0 0 20px;\n  line-height: 1.4;\n}\n\n.text-column h1 {\n  font-size: 2.5em;\n}\n\n.nav {\n  display: flex;\n  padding: 0;\n  width: 95%;\n  justify-content: space-around;\n}\n\nnav ul {\n  list-style-type: none;\n  padding: 0;\n}\n\nnav ul li {\n  margin: 0 10px;\n}\n\nnav ul li a {\n  color: black;\n  font-family: Georgia, serif;\n  font-weight: 800;\n  text-decoration: none;\n}\n\nmain {\n  padding: 20px;\n}\n\n.content-about {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-portofolio {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-blog {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-contact {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.project {\n  padding: 10px;\n  margin-bottom: 10px;\n}\n\n.hidden h2 p{\n  visibility: hidden;\n}\n\n@media screen and (max-width: 768px) {\n  .header a {\n    float: none;\n    display: block;\n    text-align: left;\n  }\n\n  .content-home {\n    flex-direction: column;\n    align-items: center;\n  }\n\n  .profile-image {\n    margin-bottom: 20px;\n    margin-right: 0;\n  }\n\n  .right-side {\n    max-width: none;\n  }\n\n  .text-column {\n    font-size: 1em;\n  }\n\n  .nav {\n    flex-direction: column;\n  }\n\n  nav ul li {\n    margin: 5px 0;\n  }\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":108,"line":12,"character":0,"indentation_size":2}} 
+
+17:40:06 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:40:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:40:37 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:40:38 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:40:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:41:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:41:39 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  background-color: #ffffff;\n}\n\n.wrap {\n  ","after":"\n  margin-bottom: 0%;\n}\n\n.content-home {\n  padding: 20px;\n  margin: 0 auto;\n  max-width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  align-items: center;\n}\n\n.content-home-media {\n  padding: 3em 0;\n}\n\n.content-home-media img {\n  width: 15em;\n  height: 15em;\n  border-radius: 50%;\n  object-fit: cover;\n  /* display: inline-flex; */\n  /* width: 100%; */\n  /* height: 120%; */\n}\n\n.header__section--menu .menu {\n  display: flex;\n}\n\n.text-column h1,\n.text-column p {\n  margin: 0 0 20px;\n  line-height: 1.4;\n}\n\n.text-column h1 {\n  font-size: 2.5em;\n}\n\n.nav {\n  display: flex;\n  padding: 0;\n  width: 95%;\n  justify-content: space-around;\n}\n\nnav ul {\n  list-style-type: none;\n  padding: 0;\n}\n\nnav ul li {\n  margin: 0 10px;\n}\n\nnav ul li a {\n  color: black;\n  font-family: Georgia, serif;\n  font-weight: 800;\n  text-decoration: none;\n}\n\nmain {\n  padding: 20px;\n}\n\n.content-about {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-portofolio {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-blog {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-contact {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.project {\n  padding: 10px;\n  margin-bottom: 10px;\n}\n\n.hidden h2 p{\n  visibility: hidden;\n}\n\n@media screen and (max-width: 768px) {\n  .header a {\n    float: none;\n    display: block;\n    text-align: left;\n  }\n\n  .content-home {\n    flex-direction: column;\n    align-items: center;\n  }\n\n  .profile-image {\n    margin-bottom: 20px;\n    margin-right: 0;\n  }\n\n  .right-side {\n    max-width: none;\n  }\n\n  .text-column {\n    font-size: 1em;\n  }\n\n  .nav {\n    flex-direction: column;\n  }\n\n  nav ul li {\n    margin: 5px 0;\n  }\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":109,"line":11,"character":2,"indentation_size":2}} 
+
+17:41:40 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:41:41 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:41:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:42:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:42:44 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:42:45 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  background-color: #ffffff;\n}\n\n.wrap {\n  margin-bottom: 0%;\n}\n\n.content-home {\n  padding: 20px;\n  margin: 0 auto;\n  max-width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  align-items: center;\n}\n\n.content-home-media {\n  padding: 3em 0;\n}\n\n.content-home-media img {\n  width: 15em;\n  height: 15em;\n  border-radius: 50%;\n  object-fit: cover;\n  /* display: inline-flex; */\n  /* width: 100%; */\n  /* height: 120%; */\n}\n\n.header__section--menu .menu {\n  display: flex;\n}\n\n.header__section--menu .text-logo {\n  padding-l","after":"\n  font-size: 2.1rem;\n}\n\n.text-column h1,\n.text-column p {\n  margin: 0 0 20px;\n  line-height: 1.4;\n}\n\n.text-column h1 {\n  font-size: 2.5em;\n}\n\n.nav {\n  display: flex;\n  padding: 0;\n  width: 95%;\n  justify-content: space-around;\n}\n\nnav ul {\n  list-style-type: none;\n  padding: 0;\n}\n\nnav ul li {\n  margin: 0 10px;\n}\n\nnav ul li a {\n  color: black;\n  font-family: Georgia, serif;\n  font-weight: 800;\n  text-decoration: none;\n}\n\nmain {\n  padding: 20px;\n}\n\n.content-about {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-portofolio {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-blog {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-contact {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.project {\n  padding: 10px;\n  margin-bottom: 10px;\n}\n\n.hidden h2 p{\n  visibility: hidden;\n}\n\n@media screen and (max-width: 768px) {\n  .header a {\n    float: none;\n    display: block;\n    text-align: left;\n  }\n\n  .content-home {\n    flex-direction: column;\n    align-items: center;\n  }\n\n  .profile-image {\n    margin-bottom: 20px;\n    margin-right: 0;\n  }\n\n  .right-side {\n    max-width: none;\n  }\n\n  .text-column {\n    font-size: 1em;\n  }\n\n  .nav {\n    flex-direction: column;\n  }\n\n  nav ul li {\n    margin: 5px 0;\n  }\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":607,"line":43,"character":11,"indentation_size":2}} 
+
+17:42:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:43:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:43:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:44:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:44:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:45:19 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:45:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:45:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:46:22 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:46:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:46:52 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  background-color: #ffffff;\n}\n\n.wrap {\n  margin-bottom: 0%;\n}\n\n.content-home {\n  padding: 20px;\n  margin: 0 auto;\n  max-width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  align-items: center;\n}\n\n.content-home-media {\n  padding: 3em 0;\n}\n\n.content-home-media img {\n  width: 15em;\n  height: 15em;\n  border-radius: 50%;\n  object-fit: cover;\n  /* display: inline-flex; */\n  /* width: 100%; */\n  /* height: 120%; */\n}\n\n.header__section--menu .menu {\n  display: flex;\n}\n\n.header__section--menu .text-logo {\n  padding-left: 0 auto;\n  font-size: 2.1rem;\n  ","after":"\n  text-decoration: none;\n}\n\n.text-column h1,\n.text-column p {\n  margin: 0 0 20px;\n  line-height: 1.4;\n}\n\n.text-column h1 {\n  font-size: 2.5em;\n}\n\n.nav {\n  display: flex;\n  padding: 0;\n  width: 95%;\n  justify-content: space-around;\n}\n\nnav ul {\n  list-style-type: none;\n  padding: 0;\n}\n\nnav ul li {\n  margin: 0 10px;\n}\n\nnav ul li a {\n  color: black;\n  font-family: Georgia, serif;\n  font-weight: 800;\n  text-decoration: none;\n}\n\nmain {\n  padding: 20px;\n}\n\n.content-about {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-portofolio {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-blog {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-contact {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.project {\n  padding: 10px;\n  margin-bottom: 10px;\n}\n\n.hidden h2 p{\n  visibility: hidden;\n}\n\n@media screen and (max-width: 768px) {\n  .header a {\n    float: none;\n    display: block;\n    text-align: left;\n  }\n\n  .content-home {\n    flex-direction: column;\n    align-items: center;\n  }\n\n  .content-home-media {\n    margin-bottom: 0 auto;\n    margin-right: 0;\n  }\n\n  .right-side {\n    max-width: none;\n  }\n\n  .text-column {\n    font-size: 1em;\n  }\n\n  .nav {\n    flex-direction: column;\n  }\n\n  nav ul li {\n    margin: 5px 0;\n  }\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":643,"line":45,"character":2,"indentation_size":2}} 
+
+17:46:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:47:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:47:37 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  background-color: #ffffff;\n}\n\n.wrap {\n  margin-bottom: 0%;\n}\n\n.content-home {\n  padding: 20px;\n  margin: 0 auto;\n  max-width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  align-items: center;\n}\n\n.content-home-media {\n  padding: 3em 0;\n}\n\n.content-home-media img {\n  width: 15em;\n  height: 15em;\n  border-radius: 50%;\n  object-fit: cover;\n  /* display: inline-flex; */\n  /* width: 100%; */\n  /* height: 120%; */\n}\n\n.header__section--menu .menu {\n  display: flex;\n}\n\n.header__section--menu .text-logo {\n  padding-left: 0 auto;\n  font-size: 2.1rem;\n  ","after":"\n  list-style-type: none;\n  text-decoration: none;\n}\n\n.text-column h1,\n.text-column p {\n  margin: 0 0 20px;\n  line-height: 1.4;\n}\n\n.text-column h1 {\n  font-size: 2.5em;\n}\n\n.nav {\n  display: flex;\n  padding: 0;\n  width: 95%;\n  justify-content: space-around;\n}\n\nnav ul {\n  list-style-type: none;\n  padding: 0;\n}\n\nnav ul li {\n  margin: 0 10px;\n}\n\nnav ul li a {\n  color: black;\n  font-family: Georgia, serif;\n  font-weight: 800;\n  text-decoration: none;\n}\n\nmain {\n  padding: 20px;\n}\n\n.content-about {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-portofolio {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-blog {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-contact {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.project {\n  padding: 10px;\n  margin-bottom: 10px;\n}\n\n.hidden h2 p{\n  visibility: hidden;\n}\n\n@media screen and (max-width: 768px) {\n  .header a {\n    float: none;\n    display: block;\n    text-align: left;\n  }\n\n  .content-home {\n    flex-direction: column;\n    align-items: center;\n  }\n\n  .content-home-media {\n    margin-bottom: 0 auto;\n    margin-right: 0;\n  }\n\n  .right-side {\n    max-width: none;\n  }\n\n  .text-column {\n    font-size: 1em;\n  }\n\n  .nav {\n    flex-direction: column;\n  }\n\n  nav ul li {\n    margin: 5px 0;\n  }\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":643,"line":45,"character":2,"indentation_size":2}} 
+
+17:47:58 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:48:28 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:48:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:49:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:49:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:49:59 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:50:00 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:50:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:50:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:51:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:51:33 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:51:34 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  background-color: #ffffff;\n}\n\n.wrap {\n  margin-bottom: 0%;\n}\n\n.content-home {\n  padding: 20px;\n  margin: 0 auto;\n  max-width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  align-items: center;\n}\n\n.content-home-media {\n  padding: 3em 0;\n}\n\n.content-home-media img {\n  width: 15em;\n  height: 15em;\n  border-radius: 50%;\n  object-fit: cover;\n  /* display: inline-flex; */\n  /* width: 100%; */\n  /* height: 120%; */\n}\n\n.header__section--menu .menu {\n  display: flex;\n}\n\n.header__section--menu .text-logo {\n  padding-left: 0 auto;\n  font-size: 2.1rem;\n}\n\n.header__section--menu a {\n  color: ;","after":"\n  list-style-type: none;\n  text-decoration: none;\n}\n\n.menu .nav,\n.menu .item {\n  margin: 0 0 20px;\n  line-height: 1.4;\n}\n\n.menu h1 {\n  font-size: 2.5em;\n}\n\n.nav {\n  display: flex;\n  padding: 0;\n  width: 95%;\n  justify-content: space-around;\n}\n\nnav ul {\n  list-style-type: none;\n  padding: 0;\n}\n\nnav ul li {\n  margin: 0 10px;\n}\n\nnav ul li a {\n  color: black;\n  font-family: Georgia, serif;\n  font-weight: 800;\n  text-decoration: none;\n}\n\nmain {\n  padding: 20px;\n}\n\n.content-about {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-portofolio {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-blog {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-contact {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.project {\n  padding: 10px;\n  margin-bottom: 10px;\n}\n\n.hidden h2 p{\n  visibility: hidden;\n}\n\n@media screen and (max-width: 768px) {\n  .header a {\n    float: none;\n    display: block;\n    text-align: left;\n  }\n\n  .content-home {\n    flex-direction: column;\n    align-items: center;\n  }\n\n  .content-home-media {\n    margin-bottom: 0 auto;\n    margin-right: 0;\n  }\n\n  .right-side {\n    max-width: none;\n  }\n\n  .text-column {\n    font-size: 1em;\n  }\n\n  .nav {\n    flex-direction: column;\n  }\n\n  nav ul li {\n    margin: 5px 0;\n  }\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":678,"line":48,"character":7,"indentation_size":2,"cached_only":true}} 
+
+17:51:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:52:05 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:52:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:52:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:53:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:53:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:54:05 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  background-color: #ffffff;\n}\n\n.wrap {\n  margin-bottom: 0%;\n}\n\n.content-home {\n  padding: 20px;\n  margin: 0 auto;\n  max-width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  align-items: center;\n}\n\n.content-home-media {\n  padding: 3em 0;\n}\n\n.content-home-media img {\n  width: 15em;\n  height: 15em;\n  border-radius: 50%;\n  object-fit: cover;\n  /* display: inline-flex; */\n  /* width: 100%; */\n  /* height: 120%; */\n}\n\n.header__section--menu .menu {\n  display: flex;\n}\n\n.header__section--menu .text-logo {\n  padding-left: 0 auto;\n  font-size: 2.1rem;\n}\n\n.header__section--menu .text-logo  {\n  color: antiquewhite;\n  text-decoration: none;\n}\n\n.logo {\n  ","after":"\n}\n\n.menu .nav,\n.menu .item {\n  margin: 0 0 20px;\n  line-height: 1.4;\n}\n\n.menu h1 {\n  font-size: 2.5em;\n}\n\n.nav {\n  display: flex;\n  padding: 0;\n  width: 95%;\n  justify-content: space-around;\n}\n\nnav ul {\n  list-style-type: none;\n  padding: 0;\n}\n\nnav ul li {\n  margin: 0 10px;\n}\n\nnav ul li a {\n  color: black;\n  font-family: Georgia, serif;\n  font-weight: 800;\n  text-decoration: none;\n}\n\nmain {\n  padding: 20px;\n}\n\n.content-about {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-portofolio {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-blog {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-contact {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.project {\n  padding: 10px;\n  margin-bottom: 10px;\n}\n\n.hidden h2 p{\n  visibility: hidden;\n}\n\n@media screen and (max-width: 768px) {\n  .header a {\n    float: none;\n    display: block;\n    text-align: left;\n  }\n\n  .content-home {\n    flex-direction: column;\n    align-items: center;\n  }\n\n  .content-home-media {\n    margin-bottom: 0 auto;\n    margin-right: 0;\n  }\n\n  .right-side {\n    max-width: none;\n  }\n\n  .text-column {\n    font-size: 1em;\n  }\n\n  .nav {\n    flex-direction: column;\n  }\n\n  nav ul li {\n    margin: 5px 0;\n  }\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":742,"line":53,"character":2,"indentation_size":2}} 
+
+17:54:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:54:30 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  background-color: #ffffff;\n}\n\n.wrap {\n  margin-bottom: 0%;\n}\n\n.content-home {\n  padding: 20px;\n  margin: 0 auto;\n  max-width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  align-items: center;\n}\n\n.content-home-media {\n  padding: 3em 0;\n}\n\n.content-home-media img {\n  width: 15em;\n  height: 15em;\n  border-radius: 50%;\n  object-fit: cover;\n  /* display: inline-flex; */\n  /* width: 100%; */\n  /* height: 120%; */\n}\n\n.header__section--menu .menu {\n  display: flex;\n}\n\n.header__section--menu .text-logo {\n  padding-left: 0 auto;\n  font-size: 2.1rem;\n}\n\n.header__section--menu .text-logo  {\n  \n}\n\n.logo {\n  text-decoration: none;\n\n","after":"}\n\n.menu .nav,\n.menu .item {\n  margin: 0 0 20px;\n  line-height: 1.4;\n}\n\n.menu h1 {\n  font-size: 2.5em;\n}\n\n.nav {\n  display: flex;\n  padding: 0;\n  width: 95%;\n  justify-content: space-around;\n}\n\nnav ul {\n  list-style-type: none;\n  padding: 0;\n}\n\nnav ul li {\n  margin: 0 10px;\n}\n\nnav ul li a {\n  color: black;\n  font-family: Georgia, serif;\n  font-weight: 800;\n  text-decoration: none;\n}\n\nmain {\n  padding: 20px;\n}\n\n.content-about {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-portofolio {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-blog {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-contact {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.project {\n  padding: 10px;\n  margin-bottom: 10px;\n}\n\n.hidden h2 p{\n  visibility: hidden;\n}\n\n@media screen and (max-width: 768px) {\n  .header a {\n    float: none;\n    display: block;\n    text-align: left;\n  }\n\n  .content-home {\n    flex-direction: column;\n    align-items: center;\n  }\n\n  .content-home-media {\n    margin-bottom: 0 auto;\n    margin-right: 0;\n  }\n\n  .right-side {\n    max-width: none;\n  }\n\n  .text-column {\n    font-size: 1em;\n  }\n\n  .nav {\n    flex-direction: column;\n  }\n\n  nav ul li {\n    margin: 5px 0;\n  }\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":721,"line":54,"character":0,"indentation_size":2}} 
+
+17:54:31 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:54:32 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:54:35 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  background-color: #ffffff;\n}\n\n.wrap {\n  margin-bottom: 0%;\n}\n\n.content-home {\n  padding: 20px;\n  margin: 0 auto;\n  max-width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  align-items: center;\n}\n\n.content-home-media {\n  padding: 3em 0;\n}\n\n.content-home-media img {\n  width: 15em;\n  height: 15em;\n  border-radius: 50%;\n  object-fit: cover;\n  /* display: inline-flex; */\n  /* width: 100%; */\n  /* height: 120%; */\n}\n\n.header__section--menu .menu {\n  display: flex;\n}\n\n.header__section--menu .text-logo {\n  padding-left: 0 auto;\n  font-size: 2.1rem;\n}\n\n.header__section--menu .text-logo  {\n  \n}\n\n.logo {\n  ","after":"\n  text-decoration: none;\n\n}\n\n.menu .nav,\n.menu .item {\n  margin: 0 0 20px;\n  line-height: 1.4;\n}\n\n.menu h1 {\n  font-size: 2.5em;\n}\n\n.nav {\n  display: flex;\n  padding: 0;\n  width: 95%;\n  justify-content: space-around;\n}\n\nnav ul {\n  list-style-type: none;\n  padding: 0;\n}\n\nnav ul li {\n  margin: 0 10px;\n}\n\nnav ul li a {\n  color: black;\n  font-family: Georgia, serif;\n  font-weight: 800;\n  text-decoration: none;\n}\n\nmain {\n  padding: 20px;\n}\n\n.content-about {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-portofolio {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-blog {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-contact {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.project {\n  padding: 10px;\n  margin-bottom: 10px;\n}\n\n.hidden h2 p{\n  visibility: hidden;\n}\n\n@media screen and (max-width: 768px) {\n  .header a {\n    float: none;\n    display: block;\n    text-align: left;\n  }\n\n  .content-home {\n    flex-direction: column;\n    align-items: center;\n  }\n\n  .content-home-media {\n    margin-bottom: 0 auto;\n    margin-right: 0;\n  }\n\n  .right-side {\n    max-width: none;\n  }\n\n  .text-column {\n    font-size: 1em;\n  }\n\n  .nav {\n    flex-direction: column;\n  }\n\n  nav ul li {\n    margin: 5px 0;\n  }\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":697,"line":52,"character":2,"indentation_size":2}} 
+
+17:54:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:55:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:55:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:56:13 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:56:14 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+17:56:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:56:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:57:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:57:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:58:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:58:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:59:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+17:59:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:00:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:00:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:01:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:01:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:02:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:02:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:03:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:03:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:04:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:04:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:05:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:05:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:06:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:06:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:07:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:07:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:08:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:08:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:09:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:09:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:10:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:10:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:11:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:11:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:12:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:12:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:13:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:13:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:14:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:14:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:15:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:15:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:16:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:16:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:17:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:17:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:18:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:18:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:19:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:19:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:20:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:20:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:21:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:21:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:22:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:22:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:23:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:23:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:24:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:24:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:25:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:25:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:26:22 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  background-color: #ffffff;\n}\n\n.wrap {\n  margin-bottom: 0%;\n}\n\n.content-home {\n  padding: 20px;\n  margin: 0 auto;\n  max-width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  align-items: center;\n}\n\n.content-home-media {\n  padding: 3em 0;\n}\n\n.content-home-media img {\n  width: 15em;\n  height: 15em;\n  border-radius: 50%;\n  object-fit: cover;\n","after":"}\n\n.header__section--menu .menu {\n  display: flex;\n}\n\n.header__section--menu .text-logo {\n  padding-left: 0 auto;\n  font-size: 2.1rem;\n}\n\n.header__section--menu .text-logo  {\n  \n}\n\n.logo {\n  color: aquamarine;\n  text-decoration: none;\n\n}\n\n.menu .nav,\n.menu .item {\n  margin: 0 0 20px;\n  line-height: 1.4;\n}\n\n.menu h1 {\n  font-size: 2.5em;\n}\n\n.nav {\n  display: flex;\n  padding: 0;\n  width: 95%;\n  justify-content: space-around;\n}\n\nnav ul {\n  list-style-type: none;\n  padding: 0;\n}\n\nnav ul li {\n  margin: 0 10px;\n}\n\nnav ul li a {\n  color: black;\n  font-family: Georgia, serif;\n  font-weight: 800;\n  text-decoration: none;\n}\n\nmain {\n  padding: 20px;\n}\n\n.content-about {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-portofolio {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-blog {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-contact {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.project {\n  padding: 10px;\n  margin-bottom: 10px;\n}\n\n.hidden h2 p{\n  visibility: hidden;\n}\n\n@media screen and (max-width: 768px) {\n  .header a {\n    float: none;\n    display: block;\n    text-align: left;\n  }\n\n  .content-home {\n    flex-direction: column;\n    align-items: center;\n  }\n\n  .content-home-media {\n    margin-bottom: 0 auto;\n    margin-right: 0;\n  }\n\n  .right-side {\n    max-width: none;\n  }\n\n  .text-column {\n    font-size: 1em;\n  }\n\n  .nav {\n    flex-direction: column;\n  }\n\n  nav ul li {\n    margin: 5px 0;\n  }\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":433,"line":33,"character":0,"indentation_size":2}} 
+
+18:26:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:26:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:27:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:27:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:28:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:28:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:29:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:29:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:30:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:30:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:31:22 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:31:23 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody,\nh1,\nh2,\nh3,\np {\n  margin: 0;\n  padding: 0;\n}\n\n.header {\n  background-color: #333; /* Change to your desired background color */\n  color: white; /* Change to your desired text color */\n  padding: 10px 0;\n}\n\n.wrap {\n  margin-bottom: 0%;\n}\n\n.content-home {\n  padding: 20px;\n  margin: 0 auto;\n  max-width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: space-around","after":";\n  align-items: center;\n}\n\n.content-home-media {\n  padding: 3em 0;\n}\n\n.content-home-media img {\n  width: 15em;\n  height: 15em;\n  border-radius: 50%;\n  object-fit: cover;\n}\n\n.header__section--menu .menu {\n  display: flex;\n}\n\n.header__section--menu .text-logo {\n  padding-left: 0 auto;\n  font-size: 2.1rem;\n}\n\n.header__section--menu .text-logo {\n}\n\n.logo {\n  color: aquamarine;\n  text-decoration: none;\n}\n\n.menu .nav,\n.menu .item {\n  margin: 0 0 20px;\n  line-height: 1.4;\n}\n\n.nav {\n  display: flex;\n  padding: 0;\n  width: 95%;\n  justify-content: space-around;\n}\n\nnav ul {\n  list-style-type: none;\n  padding: 0;\n}\n\nnav ul li {\n  margin: 0 10px;\n}\n\nnav ul li a {\n  color: black;\n  font-family: Georgia, serif;\n  font-weight: 800;\n  text-decoration: none;\n}\n\nmain {\n  padding: 20px;\n}\n\n.content-about {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-portofolio {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-blog {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-contact {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.project {\n  padding: 10px;\n  margin-bottom: 10px;\n}\n\n.hidden h2 p {\n  visibility: hidden;\n}\n\n@media screen and (max-width: 768px) {\n  .header a {\n    float: none;\n    display: block;\n    text-align: left;\n  }\n\n  .content-home {\n    flex-direction: column;\n    align-items: center;\n  }\n\n  .content-home-media {\n    margin-bottom: 0 auto;\n    margin-right: 0;\n  }\n\n  .right-side {\n    max-width: none;\n  }\n\n  .text-column {\n    font-size: 1em;\n  }\n\n  .nav {\n    flex-direction: column;\n  }\n\n  nav ul li {\n    margin: 5px 0;\n  }\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":432,"line":31,"character":22,"indentation_size":2,"cached_only":true}} 
+
+18:31:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:31:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:32:24 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody,\nh1,\nh2,\nh3,\np {\n  margin: 0;\n  padding: 0;\n}\n\n.header {\n  background-color: #333; /* Change to your desired background color */\n  color: white; /* Change to your desired text color */\n  padding: 10px 0;\n}\n\n/* .wrap {\n  margin-bottom: 0%;\n} */\n\n.content-home {\n  padding: 20px;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: space-between;\n  align-items: center;\n}\n\n.content-home-media {\n  padding: 3em 0;\n}\n\n.content-home-media img {\n  ","after":"\n  /* width: 15em;\n  height: 15em;\n  border-radius: 50%;\n  object-fit: cover; */\n}\n\n.header__section--menu .menu {\n  display: flex;\n}\n\n.header__section--menu .text-logo {\n  padding-left: 0 auto;\n  font-size: 2.1rem;\n}\n\n.header__section--menu .text-logo {\n}\n\n.logo {\n  color: aquamarine;\n  text-decoration: none;\n}\n\n.menu .nav,\n.menu .item {\n  margin: 0 0 20px;\n  line-height: 1.4;\n}\n\n.nav {\n  display: flex;\n  padding: 0;\n  width: 95%;\n  justify-content: space-around;\n}\n\nnav ul {\n  list-style-type: none;\n  padding: 0;\n}\n\nnav ul li {\n  margin: 0 10px;\n}\n\nnav ul li a {\n  color: black;\n  font-family: Georgia, serif;\n  font-weight: 800;\n  text-decoration: none;\n}\n\nmain {\n  padding: 20px;\n}\n\n.content-about {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-portofolio {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-blog {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.content-contact {\n  -webkit-flex: 3;\n  -ms-flex: 3;\n  flex: 3;\n  margin-bottom: 30px;\n}\n\n.project {\n  padding: 10px;\n  margin-bottom: 10px;\n}\n\n.hidden h2 p {\n  visibility: hidden;\n}\n\n@media screen and (max-width: 768px) {\n  .header a {\n    float: none;\n    display: block;\n    text-align: left;\n  }\n\n  .content-home {\n    flex-direction: column;\n    align-items: center;\n  }\n\n  .content-home-media {\n    margin-bottom: 0 auto;\n    margin-right: 0;\n  }\n\n  .right-side {\n    max-width: none;\n  }\n\n  .text-column {\n    font-size: 1em;\n  }\n\n  .nav {\n    flex-direction: column;\n  }\n\n  nav ul li {\n    margin: 5px 0;\n  }\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":510,"line":38,"character":2,"indentation_size":2}} 
+
+18:32:25 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:32:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:32:57 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:32:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:33:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:33:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:34:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:34:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:35:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:35:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:36:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:36:35 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:36:36 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:36:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:37:07 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:37:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:37:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:38:10 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:38:11 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:38:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:38:42 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:38:43 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:38:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:39:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:39:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:40:25 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/index.html","before":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Portofolio</title>\n</head>\n<body>\n  <nav id=\"desktop-nav\">\n    ","after":"\n  </nav>\n</body>\n</html>","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":210,"line":9,"character":4,"indentation_size":2}} 
+
+18:40:26 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:40:27 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:40:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:40:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:41:06 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/index.html","before":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Portofolio</title>\n</head>\n<body>\n  <nav id=\"desktop-nav\">\n    <div class=\"logo\">Gilang Ramadhan\n    <div>\n      <ul class=\"nav-links\">\n        ","after":"\n      </ul>\n    </div>\n    </div>\n  </nav>\n</body>\n</html>","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":291,"line":12,"character":8,"indentation_size":2}} 
+
+18:41:07 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:41:08 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:41:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:41:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:42:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:42:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:43:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:43:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:44:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:44:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:45:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:45:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:46:09 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:46:10 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:46:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:46:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:47:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:47:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:48:24 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"@import url(\"<link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap\" rel=\"stylesheet\">\n\");\n","after":"","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":119,"line":2,"character":0,"indentation_size":2}} 
+
+18:48:25 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:48:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:48:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:49:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:49:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:50:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:50:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:51:02 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:51:03 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"@import url(\"https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap\");\n\n* {\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n  font-family: \"Poppins\", sans-serif;\n}\n\nhtml {\n  scroll-behavior: smooth;\n}\n\np {\n  color: black;\n}\n\n/* Tras","after":"","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":237,"line":19,"character":7,"indentation_size":2}} 
+
+18:51:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:51:34 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:51:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:52:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:52:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:53:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:53:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:54:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:54:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:55:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:55:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:56:13 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:56:14 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:56:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:56:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:57:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:57:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:58:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:58:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:59:20 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+18:59:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+18:59:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:00:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:00:53 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"@import url(\"https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap\");\n\n* {\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n  font-family: \"Poppins\", sans-serif;\n}\n\nhtml {\n  scroll-behavior: smooth;\n}\n\np {\n  color: black;\n}\n\n/* Transition */\n\na, .btn {\n  transition: all 300ms ease;\n}\n\n/* Navbar */\n\n","after":"\n\nnav, .nav-links {\n  display: flex;\n}\n\nnav {\n  justify-content: space-around;\n  align-items: center;\n  height: 17vh;\n}\n\n.nav-links {\n  gap: 2rem;\n  list-style: none;\n  font-size: 1.5rem;\n}\n\na {\n  color: black;\n  text-decoration: none;\n  text-decoration-color: blue;\n}\n\na:hover {\n  color: grey;  \n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":305,"line":27,"character":0,"indentation_size":2}} 
+
+19:00:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:01:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:01:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:02:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:02:49 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"@import url(\"https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap\");\n\n* {\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n  font-family: \"Poppins\", sans-serif;\n}\n\nhtml {\n  scroll-behavior: smooth;\n}\n\np {\n  color: black;\n}\n\n/* Transition */\n\na, .btn {\n  transition: all 300ms ease;\n}\n\n/* Navbar */\n\n.logo {\n  font-size: 25px;\n  font-weight: 600;\n}\n\nnav, .nav-links {\n  display: flex;\n}\n\nnav {\n  justify-content: space-around;\n  align-items: center;\n  height: 17vh;\n}\n\n.nav-links {\n  gap: 2rem;\n  list-style: none;\n  font-size: 1.5rem;\n}\n\na {\n  color: black;\n  text-decoration: none;\n  text-decoration-color: blue;\n}\n\na:hover {\n  color: grey;  \n  ","after":"\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":652,"line":56,"character":2,"indentation_size":2}} 
+
+19:02:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:03:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:03:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:04:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:04:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:05:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:05:32 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:05:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:06:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:06:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:07:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:07:37 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:07:38 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:07:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:08:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:08:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:09:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:09:42 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:09:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:10:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:10:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:11:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:11:42 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"@import url(\"https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap\");\n\n* {\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n  font-family: \"Poppins\", sans-serif;\n}\n\nhtml {\n  scroll-behavior: smooth;\n}\n\np {\n  color: black;\n}\n\n/* Transition */\n\na, .btn {\n  transition: all 300ms ease;\n}\n\n/* Navbar */\n\n.logo {\n  font-size: 25px;\n  font-weight: 600;\n}\n\n.logo:hover {\n  cursor: pointer default;\n}\n\nnav, .nav-links {\n  display: flex;\n}\n\nnav {\n  justify-content: space-around;\n  align-items: center;\n  height: 17vh;\n}\n\n.nav-links {\n  gap: 2rem;\n  list-style: none;\n  font-size: 1.5rem;\n}\n\na {\n  color: black;\n  text-decoration: none;\n  text-decoration-color: blue;\n}\n\na:hover {\n  color: grey;  \n}\n\n","after":"\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":697,"line":62,"character":0,"indentation_size":2}} 
+
+19:11:43 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:11:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:12:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:12:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:13:11 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"@import url(\"https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap\");\n\n* {\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n  font-family: \"Poppins\", sans-serif;\n}\n\nhtml {\n  scroll-behavior: smooth;\n}\n\np {\n  color: black;\n}\n\n/* Transition */\n\na, .btn {\n  transition: all 300ms ease;\n}\n\n/* Navbar */\n\n.logo {\n  font-size: 25px;\n  font-weight: 600;\n}\n\n.logo:hover {\n  cursor: pointer default;\n}\n\nnav, .nav-links {\n  display: flex;\n}\n\nnav {\n  justify-content: space-around;\n  align-items: center;\n  height: 17vh;\n}\n\n.nav-links {\n  gap: 2rem;\n  list-style: none;\n  font-size: 1.5rem;\n}\n\na {\n  color: black;\n  text-decoration: none;\n  text-decoration-color: blue;\n}\n\na:hover {\n  color: grey;  \n}\n\n/* Hamburger menu */\n\n#hamburger-nav {\n  display: none;\n}\n\n.hamburger-menu {\n  position: relative;\n  display: inline-block;\n}\n\n.hamburger-icon {\n  display: flex;\n  flex-direction: column;\n  ","after":"\n}\n","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":887,"line":76,"character":2,"indentation_size":2}} 
+
+19:13:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:13:51 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:13:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:14:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:14:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:15:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:15:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:16:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:16:58 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:16:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:16:59 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:17:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:17:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:18:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:18:32 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:18:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:19:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:19:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:20:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:20:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:21:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:21:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:22:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:22:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:23:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:23:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:24:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:24:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:25:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:25:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:26:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:26:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:27:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:27:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:28:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:28:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:29:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:29:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:30:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:30:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:31:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:31:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:32:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:32:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:33:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:33:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:34:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:34:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:35:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:35:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:36:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:36:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:37:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:37:57 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:37:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:38:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:38:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:39:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:39:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:40:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:40:32 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:40:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:41:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:41:35 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:41:44 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"@import url(\"https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap\");\n\n* {\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n  font-family: \"Poppins\", sans-serif;\n}\n\nhtml {\n  scroll-behavior: smooth;\n}\n\np {\n  color: black;\n}\n\n/* Transition */\n\na, .btn {\n  transition: all 300ms ease;\n}\n\n/* Navbar */\n\n.logo {\n  font-size: 25px;\n  font-weight: 600;\n}\n\n.logo:hover {\n  cursor: pointer default;\n}\n\nnav, .nav-links {\n  display: flex;\n}\n\nnav {\n  justify-content: space-around;\n  align-items: center;\n  height: 17vh;\n}\n\n.nav-links {\n  gap: 2rem;\n  list-style: none;\n  font-size: 1.5rem;\n}\n\na {\n  color: black;\n  text-decoration: none;\n  text-decoration-color: blue;\n}\n\na:hover {\n  color: grey;  \n}\n\n/* Hamburger menu */\n\n#hamburger-nav {\n  display: none;\n}\n\n.hamburger-menu {\n  position: relative;\n  display: inline-block;\n}\n\n.hamburger-icon {\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  height: 24px;\n  width: 30px;\n  cursor: pointer;\n}\n\n.hamburger-icon span {\n  width: 100%;\n  height: 2px;\n  background-color: black;\n  transition: all 0.3 ease-in-out;\n}\n\n.menu-links {\n  position: absolute;\n  top: 100%;\n  right: 0;\n  background-color: white;\n  width: fit-content;\n  max-height: 0;\n  overflow: hidden;\n  transition: all;\n}\n\n.menu-links a {\n  display: block;\n  padding: 10px;\n  ","after":"\n}","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":1312,"line":103,"character":2,"indentation_size":2}} 
+
+19:41:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:42:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:42:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:43:07 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"@import url(\"https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap\");\n\n* {\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n  font-family: \"Poppins\", sans-serif;\n}\n\nhtml {\n  scroll-behavior: smooth;\n}\n\np {\n  color: black;\n}\n\n/* Transition */\n\na, .btn {\n  transition: all 300ms ease;\n}\n\n/* Navbar */\n\n.logo {\n  font-size: 25px;\n  font-weight: 600;\n}\n\n.logo:hover {\n  cursor: pointer default;\n}\n\nnav, .nav-links {\n  display: flex;\n}\n\nnav {\n  justify-content: space-around;\n  align-items: center;\n  height: 17vh;\n}\n\n.nav-links {\n  gap: 2rem;\n  list-style: none;\n  font-size: 1.5rem;\n}\n\na {\n  color: black;\n  text-decoration: none;\n  text-decoration-color: blue;\n}\n\na:hover {\n  color: grey;  \n}\n\n/* Hamburger menu */\n\n#hamburger-nav {\n  display: none;\n}\n\n.hamburger-menu {\n  position: relative;\n  display: inline-block;\n}\n\n.hamburger-icon {\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  height: 24px;\n  width: 30px;\n  cursor: pointer;\n}\n\n.hamburger-icon span {\n  width: 100%;\n  height: 2px;\n  background-color: black;\n  transition: all 0.3 ease-in-out;\n}\n\n.menu-links {\n  position: absolute;\n  top: 100%;\n  right: 0;\n  background-color: white;\n  width: fit-content;\n  max-height: 0;\n  overflow: hidden;\n  transition: all;\n}\n\n.menu-links a {\n  display: block;\n  padding: 10px;\n  text-align: center;\n  font-size: 1.5rem;\n  color: black;\n  text-decoration: none;\n  transition: all 0.3 ease-in-out;\n}\n\n.menu-links li {\n  list-style: none;\n}\n\n.menu-links.open {\n  max-height: 300px;\n}\n\n.hamburger-icon.open span {\n  ","after":"\n}","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":1545,"line":119,"character":2,"indentation_size":2}} 
+
+19:43:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:43:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:44:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:44:45 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"@import url(\"https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap\");\n\n* {\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n  font-family: \"Poppins\", sans-serif;\n}\n\nhtml {\n  scroll-behavior: smooth;\n}\n\np {\n  color: black;\n}\n\n/* Transition */\n\na, .btn {\n  transition: all 300ms ease;\n}\n\n/* Navbar */\n\n.logo {\n  font-size: 25px;\n  font-weight: 600;\n}\n\n.logo:hover {\n  cursor: pointer default;\n}\n\nnav, .nav-links {\n  display: flex;\n}\n\nnav {\n  justify-content: space-around;\n  align-items: center;\n  height: 17vh;\n}\n\n.nav-links {\n  gap: 2rem;\n  list-style: none;\n  font-size: 1.5rem;\n}\n\na {\n  color: black;\n  text-decoration: none;\n  text-decoration-color: blue;\n}\n\na:hover {\n  color: grey;  \n}\n\n/* Hamburger menu */\n\n#hamburger-nav {\n  display: none;\n}\n\n.hamburger-menu {\n  position: relative;\n  display: inline-block;\n}\n\n.hamburger-icon {\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  height: 24px;\n  width: 30px;\n  cursor: pointer;\n}\n\n.hamburger-icon span {\n  width: 100%;\n  height: 2px;\n  background-color: black;\n  transition: all 0.3 ease-in-out;\n}\n\n.menu-links {\n  position: absolute;\n  top: 100%;\n  right: 0;\n  background-color: white;\n  width: fit-content;\n  max-height: 0;\n  overflow: hidden;\n  transition: all;\n}\n\n.menu-links a {\n  display: block;\n  padding: 10px;\n  text-align: center;\n  font-size: 1.5rem;\n  color: black;\n  text-decoration: none;\n  transition: all 0.3 ease-in-out;\n}\n\n.menu-links li {\n  list-style: none;\n}\n\n.menu-links.open {\n  max-height: 300px;\n}\n\n.hamburger-icon.open span:first-child {\n  transform: rotate(40deg) translate(10px, 5px);\n}\n.hamburger-icon.open span:nth-child(2) {\n","after":"\n}\n.hamburger-icon.open span:first-child {\n  transform: rotate(40deg) translate(10px, 5px);\n}","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":1647,"line":122,"character":0,"indentation_size":2}} 
+
+19:44:46 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:44:47 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/css/styles.css","before":"@import url(\"https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap\");\n\n* {\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n  font-family: \"Poppins\", sans-serif;\n}\n\nhtml {\n  scroll-behavior: smooth;\n}\n\np {\n  color: black;\n}\n\n/* Transition */\n\na, .btn {\n  transition: all 300ms ease;\n}\n\n/* Navbar */\n\n.logo {\n  font-size: 25px;\n  font-weight: 600;\n}\n\n.logo:hover {\n  cursor: pointer default;\n}\n\nnav, .nav-links {\n  display: flex;\n}\n\nnav {\n  justify-content: space-around;\n  align-items: center;\n  height: 17vh;\n}\n\n.nav-links {\n  gap: 2rem;\n  list-style: none;\n  font-size: 1.5rem;\n}\n\na {\n  color: black;\n  text-decoration: none;\n  text-decoration-color: blue;\n}\n\na:hover {\n  color: grey;  \n}\n\n/* Hamburger menu */\n\n#hamburger-nav {\n  display: none;\n}\n\n.hamburger-menu {\n  position: relative;\n  display: inline-block;\n}\n\n.hamburger-icon {\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  height: 24px;\n  width: 30px;\n  cursor: pointer;\n}\n\n.hamburger-icon span {\n  width: 100%;\n  height: 2px;\n  background-color: black;\n  transition: all 0.3 ease-in-out;\n}\n\n.menu-links {\n  position: absolute;\n  top: 100%;\n  right: 0;\n  background-color: white;\n  width: fit-content;\n  max-height: 0;\n  overflow: hidden;\n  transition: all;\n}\n\n.menu-links a {\n  display: block;\n  padding: 10px;\n  text-align: center;\n  font-size: 1.5rem;\n  color: black;\n  text-decoration: none;\n  transition: all 0.3 ease-in-out;\n}\n\n.menu-links li {\n  list-style: none;\n}\n\n.menu-links.open {\n  max-height: 300px;\n}\n\n.hamburger-icon.open span:first-child {\n  transform: rotate(40deg) translate(10px, 5px);\n}\n.hamburger-icon.open span:nth-child(2) {\n  o","after":"\n}\n.hamburger-icon.open span:first-child {\n  transform: rotate(40deg) translate(10px, 5px);\n}","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":1650,"line":122,"character":3,"indentation_size":2}} 
+
+19:44:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:45:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:45:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:46:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:46:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:47:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:47:48 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:47:49 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:47:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:48:20 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:48:21 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:48:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:48:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:49:23 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:49:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:49:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:50:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:50:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:51:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:51:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:52:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:52:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:53:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:53:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:54:23 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:54:24 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:54:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:54:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:55:27 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:55:28 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:55:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:55:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:55:59 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:56:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:56:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:57:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:57:51 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"Autocomplete":{"filename":"/home/gilang/Project/portofolio/index.html","before":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Portofolio</title>\n  <link rel=\"stylesheet\" href=\"css/styles.css\">\n  <link rel=\"stylesheet\" href=\"css/mediaqueries.css\">\n</head>\n<body>\n  <nav id=\"desktop-nav\">\n    <div class=\"logo\">Gilang Ramadhan</div>\n    <div>\n      <ul class=\"nav-links\">\n        <li><a href=\"#about\">About</a></li>\n        <li><a href=\"#experience\">Experience</a></li>\n        <li><a href=\"#projects\">Projects</a></li>\n        <li><a href=\"#contact\">contact</a></li>\n      </ul>\n    </div>\n  </nav>\n  <nav id=\"hamburger-nav\">\n    <div class=\"logo\">Gilang Ramadhan</div>\n    <div class=\"hamburger-menu\">\n      <div class=\"hamburger-icon\" onclick=\"toggleMenu()\">\n        <span></span>\n        <span></span>\n        <span></span>\n      </div>\n      <div class=\"menu-links\">\n        <li><a href=\"#about\" onclick=\"toggleMenu()\">About</a></li>\n        <li><a href=\"#experience\" onclick=\"toggleMenu()\">Experience</a></li>\n        <li><a href=\"#projects\" onclick=\"toggleMenu()\">Projects</a></li>\n        <li><a href=\"#contact\" onclick=\"toggleMenu()\">contact</a></li>\n      </div>\n    </div>\n  </nav>\n  <section id=\"profile\">\n    <div class=\"section__pic-container\">\n      <img src=\"./images/profile.png\" alt=\"Gilang ramadhan Profile picture\">\n    </div>\n    <div class=\"section__text\">\n      <p class=\"section__text__p1\">Hello, Saya</p>\n      <h1 class=\"title\">Gilang Ramadhan</h1>\n      <p class=\"section__text__p2\">Software Engineer</p>\n      <div class=\"btn-container\">\n        <button class=\"btn btn-color-2\" onclick=\"window.open('./images/blank-profile-picture-973460_1280.png')\">\n          Download CV\n        </button>\n        <button class=\"btn btn-color-1\" onclick=\"location.href='./#contact'\">\n          Contact info \n        </button>\n      </div>\n      <div id=\"socials-container\">\n        ","after":"\n      </div>\n    </div>\n  </section>\n  <script src=\"js/script.js\"></script>\n</body>\n</html>","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":1914,"line":54,"character":8,"indentation_size":2}} 
+
+19:57:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:58:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:58:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:59:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+19:59:37 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:59:38 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+19:59:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:00:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:00:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:01:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:01:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:02:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:02:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:03:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:03:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:04:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:04:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:05:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:05:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:06:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:06:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:07:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:07:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:08:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:08:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:09:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:09:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:10:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:10:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:11:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:11:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:12:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:12:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:13:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:13:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:14:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:14:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:15:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:15:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:16:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:16:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:17:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:17:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:18:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:18:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:19:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:19:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:20:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:20:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:21:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:21:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:22:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:22:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:23:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:23:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:24:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:24:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:25:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:25:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:26:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:26:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:27:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:27:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:28:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:28:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:29:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:29:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:30:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:30:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:31:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:31:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:32:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:32:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:33:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:33:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:34:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:34:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:35:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:35:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:36:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:36:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:37:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:37:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:38:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:38:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:39:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:39:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:40:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:40:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:41:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:41:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:42:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:42:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:43:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:43:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:44:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:44:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:45:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:45:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:46:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:46:59 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:47:29 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+20:47:37 GMT+0700 (Western Indonesia Time) [WARN]: assistant is closing 
+

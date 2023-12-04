@@ -1,0 +1,32 @@
+05:48:56 GMT+0700 (Western Indonesia Time) [INFO]: spawning binary with command: /home/gilang/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.53.0/x86_64-unknown-linux-musl/TabNine args: --print-version 
+
+05:48:57 GMT+0700 (Western Indonesia Time) [INFO]: spawning binary with command: /home/gilang/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.53.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.84.2 pluginVersion=3.41.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=MacOS Modern Dark - Xcode Modern vscode-theme-kind=Dark vscode-machine-id=c2d314aa9dbfc6792cf09ef060743aaaa9a0f50e59a72d039f9344eabbbb7a22 vscode-is-new-app-install=true vscode-session-id=0b4851ad-01ba-47cd-bcc3-fd6fc3c6e86f1701470926280 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown vscode-inline-api-enabled=true vscode-code-lens-enabled=true ide-restart-counter=0 
+
+05:48:57 GMT+0700 (Western Indonesia Time) [DEBUG]: capabilities resolved immediately 
+
+05:48:59 GMT+0700 (Western Indonesia Time) [ERROR]: validating /home/gilang/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.53.0/x86_64-unknown-linux-musl/TabNine timeout 
+
+05:49:00 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:49:00 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+05:49:30 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:49:50 GMT+0700 (Western Indonesia Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+05:50:00 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:50:30 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:51:00 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:51:30 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:52:00 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:52:30 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:53:00 GMT+0700 (Western Indonesia Time) [DEBUG]: Updating root paths for project portofolio: ["/home/gilang/Project/portofolio"] 
+
+05:53:12 GMT+0700 (Western Indonesia Time) [WARN]: assistant is closing 
+

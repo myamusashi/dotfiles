@@ -1,0 +1,9 @@
+2023-12-02 05:48:48.329 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-12-02 05:48:48.330 [info] Auto Sync is disabled.
+2023-12-02 05:48:50.317 [info] Deleting non existing profile from backup /home/gilang/.config/Code/User/sync/extensions
+2023-12-02 05:48:50.607 [info] Deleting non existing profile from backup /home/gilang/.config/Code/User/sync/globalState
+2023-12-02 05:48:50.630 [info] Deleting non existing profile from backup /home/gilang/.config/Code/User/sync/keybindings
+2023-12-02 05:48:50.632 [info] Deleting non existing profile from backup /home/gilang/.config/Code/User/sync/profiles
+2023-12-02 05:48:50.632 [info] Deleting non existing profile from backup /home/gilang/.config/Code/User/sync/settings
+2023-12-02 05:48:50.632 [info] Deleting non existing profile from backup /home/gilang/.config/Code/User/sync/snippets
+2023-12-02 05:48:50.640 [info] Deleting non existing profile from backup /home/gilang/.config/Code/User/sync/tasks

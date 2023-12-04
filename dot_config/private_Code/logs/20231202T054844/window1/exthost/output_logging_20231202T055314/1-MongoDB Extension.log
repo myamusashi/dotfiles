@@ -1,0 +1,53 @@
+2023-12-01T22:53:17.599Z extension INFO  Activating extension... [
+  {
+    id: 'mongodb.mongodb-vscode',
+    version: '1.3.1',
+    mode: 'Production',
+    kind: 'UI',
+    extensionPath: '/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1',
+    logPath: '/home/gilang/.config/Code/logs/20231202T054844/window1/exthost/mongodb.mongodb-vscode',
+    workspaceStoragePath: '/home/gilang/.config/Code/User/workspaceStorage/f190336d1f188f5f0a061f770c2e1191/mongodb.mongodb-vscode',
+    globalStoragePath: '/home/gilang/.config/Code/User/globalStorage/mongodb.mongodb-vscode',
+    defaultConnectionSavingLocation: 'Global',
+    buildInfo: {
+      nodeVersion: 'v18.15.0',
+      runtimePlatform: 'linux',
+      runtimeArch: 'x64'
+    }
+  }
+]
+
+2023-12-01T22:53:17.600Z telemetry INFO  SegmentKey was found [ { type: 'string' } ]
+
+2023-12-01T22:53:17.601Z language server controller INFO  Creating MongoDB Language Server... [
+  {
+    extensionPath: '/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1',
+    languageServer: {
+      id: 'mongodbLanguageServer',
+      name: 'MongoDB Language Server',
+      path: '/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/languageServer.js',
+      documentSelector: '[{"pattern":"**/*.mongodb.js"},{"pattern":"**/*.mongodb"}]'
+    }
+  }
+]
+
+2023-12-01T22:53:17.634Z telemetry INFO  Segment analytics activated [ { anonymousId: 'ee47c5c2-cc90-4c8b-9f17-d0181a2406cd' } ]
+
+2023-12-01T22:53:17.688Z language server controller INFO  Starting the language server... []
+
+2023-12-01T22:53:21.202Z language server controller INFO  MongoDBService initialized. Sending default settings... {"extensionPath":"/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1","connectionId":null,"hasConnectionString":false,"hasConnectionOptions":false} []
+
+2023-12-01T23:19:53.883Z extension INFO  Deactivating extension... []
+
+2023-12-01T23:19:53.883Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2023-12-01T23:19:53.885Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2023-12-01T23:19:53.891Z connection controller INFO  Disconnect called, currently connected to [ null ]
+
+2023-12-01T23:19:53.891Z language server controller INFO  Changing MongoDBService active connection... [ { connectionId: null } ]
+
+2023-12-01T23:19:53.905Z language server controller INFO  Deactivating the language server... []
+
+2023-12-01T23:19:53.905Z language server controller INFO  Deactivating the language server... []
+

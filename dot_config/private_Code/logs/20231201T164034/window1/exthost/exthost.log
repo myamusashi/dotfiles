@@ -1,0 +1,867 @@
+2023-12-01 16:40:38.528 [info] Extension host with pid 12108 started
+2023-12-01 16:40:38.832 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-01 16:40:38.966 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-01 16:40:39.216 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-01 16:40:39.498 [info] Eager extensions activated
+2023-12-01 16:40:39.501 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-01 16:40:39.558 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-01 16:40:39.568 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-01 16:41:42.800 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-12-01 16:41:42.902 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-12-01 16:43:46.981 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: '*'
+2023-12-01 16:44:50.447 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-01 16:44:50.575 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-01 16:47:23.506 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-01 16:47:23.561 [info] Extension host with pid 12108 exiting with code 0
+2023-12-01 16:47:26.213 [info] Extension host with pid 14897 started
+2023-12-01 16:47:26.213 [info] Skipping acquiring lock for /home/gilang/.config/Code/User/workspaceStorage/f190336d1f188f5f0a061f770c2e1191.
+2023-12-01 16:47:26.497 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-12-01 16:47:26.599 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-01 16:47:26.655 [info] Eager extensions activated
+2023-12-01 16:47:26.663 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-01 16:47:26.668 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-01 16:47:26.712 [info] ExtensionService#_doActivateExtension ms-edgedevtools.vscode-edge-devtools, startup: false, activationEvent: 'onStartupFinished'
+2023-12-01 16:47:27.099 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-12-01 16:47:27.746 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-12-01 16:47:27.915 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-01 16:47:27.968 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-01 16:47:28.070 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-01 16:47:32.151 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-12-01 16:47:32.452 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: '*'
+2023-12-01 16:47:32.513 [info] ExtensionService#_doActivateExtension fnando.linter, startup: false, activationEvent: 'onStartupFinished'
+2023-12-01 16:47:32.561 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2023-12-01 16:47:32.653 [info] ExtensionService#_doActivateExtension isudox.vscode-jetbrains-keybindings, startup: false, activationEvent: '*'
+2023-12-01 16:47:32.657 [info] ExtensionService#_doActivateExtension mtxr.sqltools, startup: false, activationEvent: '*'
+2023-12-01 16:47:33.048 [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-mysql, startup: false, activationEvent: '*'
+2023-12-01 16:50:07.362 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-12-01 16:50:41.685 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-12-01 16:59:25.683 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2023-12-01 16:59:26.166 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-12-01 16:59:26.395 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onLanguage:plaintext'
+2023-12-01 16:59:28.175 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-12-01 16:59:28.198 [info] ExtensionService#_doActivateExtension Yummygum.city-lights-icon-vsc, startup: false, activationEvent: '*'
+2023-12-01 16:59:28.353 [info] ExtensionService#_doActivateExtension Blackboxapp.blackbox, startup: false, activationEvent: '*'
+2023-12-01 17:31:13.849 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-12-01 17:36:35.541 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:37:35.410 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:37:35.803 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:38:04.583 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:38:23.215 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:38:36.039 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:40:12.602 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:40:13.455 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:40:13.706 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:40:16.474 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:40:16.837 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:40:23.683 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:43:16.323 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:44:22.408 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:46:50.019 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:46:59.013 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:47:24.826 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:54:14.501 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 17:54:26.076 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:04:36.277 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:26:10.833 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:26:11.983 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:27:29.862 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:32:44.730 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:33:42.608 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:36:44.724 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:36:44.950 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:37:41.438 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:37:41.666 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:38:50.880 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:38:59.717 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:39:07.317 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:39:07.317 [error] undefined
+2023-12-01 18:39:08.177 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:39:08.177 [error] undefined
+2023-12-01 18:39:08.824 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:39:08.824 [error] undefined
+2023-12-01 18:39:08.920 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:39:08.920 [error] undefined
+2023-12-01 18:39:09.082 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:39:09.082 [error] undefined
+2023-12-01 18:39:09.178 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:39:09.178 [error] undefined
+2023-12-01 18:39:09.452 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:39:09.452 [error] undefined
+2023-12-01 18:39:09.628 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:39:09.628 [error] undefined
+2023-12-01 18:39:09.779 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:39:09.779 [error] undefined
+2023-12-01 18:40:01.444 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:01.445 [error] undefined
+2023-12-01 18:40:04.035 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:04.035 [error] undefined
+2023-12-01 18:40:22.913 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:22.913 [error] undefined
+2023-12-01 18:40:24.867 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:24.867 [error] undefined
+2023-12-01 18:40:30.578 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:30.578 [error] undefined
+2023-12-01 18:40:31.439 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:31.439 [error] undefined
+2023-12-01 18:40:31.925 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:31.925 [error] undefined
+2023-12-01 18:40:32.114 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:32.114 [error] undefined
+2023-12-01 18:40:32.177 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:32.177 [error] undefined
+2023-12-01 18:40:32.376 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:32.376 [error] undefined
+2023-12-01 18:40:32.472 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:32.472 [error] undefined
+2023-12-01 18:40:32.919 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:32.919 [error] undefined
+2023-12-01 18:40:33.483 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:33.483 [error] undefined
+2023-12-01 18:40:34.145 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:34.145 [error] undefined
+2023-12-01 18:40:34.178 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:34.178 [error] undefined
+2023-12-01 18:40:34.473 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:34.473 [error] undefined
+2023-12-01 18:40:34.899 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:34.899 [error] undefined
+2023-12-01 18:40:34.973 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:34.974 [error] undefined
+2023-12-01 18:40:35.131 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:35.131 [error] undefined
+2023-12-01 18:40:40.302 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:40.302 [error] undefined
+2023-12-01 18:40:50.056 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:50.056 [error] undefined
+2023-12-01 18:40:50.246 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:40:50.470 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:40:55.400 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:55.400 [error] undefined
+2023-12-01 18:40:57.181 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:40:57.181 [error] undefined
+2023-12-01 18:41:05.568 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:41:05.568 [error] undefined
+2023-12-01 18:41:13.211 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:41:13.211 [error] undefined
+2023-12-01 18:41:21.222 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:41:21.222 [error] undefined
+2023-12-01 18:41:21.990 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:41:21.991 [error] undefined
+2023-12-01 18:41:22.020 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:41:22.020 [error] undefined
+2023-12-01 18:41:23.004 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:41:23.004 [error] undefined
+2023-12-01 18:41:23.237 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:41:23.237 [error] undefined
+2023-12-01 18:41:23.287 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:41:23.287 [error] undefined
+2023-12-01 18:43:18.866 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:18.866 [error] undefined
+2023-12-01 18:43:19.442 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:19.442 [error] undefined
+2023-12-01 18:43:20.643 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:20.643 [error] undefined
+2023-12-01 18:43:20.875 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:20.875 [error] undefined
+2023-12-01 18:43:21.742 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:21.742 [error] undefined
+2023-12-01 18:43:22.532 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:22.532 [error] undefined
+2023-12-01 18:43:22.665 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:22.665 [error] undefined
+2023-12-01 18:43:22.733 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:22.733 [error] undefined
+2023-12-01 18:43:23.459 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:23.460 [error] undefined
+2023-12-01 18:43:23.841 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:23.841 [error] undefined
+2023-12-01 18:43:24.212 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:24.212 [error] undefined
+2023-12-01 18:43:25.117 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:25.117 [error] undefined
+2023-12-01 18:43:25.312 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:25.312 [error] undefined
+2023-12-01 18:43:26.505 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:26.505 [error] undefined
+2023-12-01 18:43:28.250 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:28.250 [error] undefined
+2023-12-01 18:43:28.379 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:28.379 [error] undefined
+2023-12-01 18:43:28.439 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:28.439 [error] undefined
+2023-12-01 18:43:29.138 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:29.138 [error] undefined
+2023-12-01 18:43:29.206 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:29.206 [error] undefined
+2023-12-01 18:43:39.199 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:39.200 [error] undefined
+2023-12-01 18:43:39.887 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:39.887 [error] undefined
+2023-12-01 18:43:40.000 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:40.000 [error] undefined
+2023-12-01 18:43:40.262 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:40.262 [error] undefined
+2023-12-01 18:43:40.457 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:40.458 [error] undefined
+2023-12-01 18:43:47.439 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:47.439 [error] undefined
+2023-12-01 18:43:47.741 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:47.741 [error] undefined
+2023-12-01 18:43:47.795 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:47.795 [error] undefined
+2023-12-01 18:43:47.986 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:47.986 [error] undefined
+2023-12-01 18:43:48.411 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:48.411 [error] undefined
+2023-12-01 18:43:54.419 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:54.419 [error] undefined
+2023-12-01 18:43:57.151 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:43:57.151 [error] undefined
+2023-12-01 18:44:17.021 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:48:31.084 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:48:44.457 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:48:46.285 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:49:28.794 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:49:29.489 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:49:33.311 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:49:34.779 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:49:35.498 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:50:57.080 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:53:28.198 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:53:28.198 [error] undefined
+2023-12-01 18:53:33.815 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:53:33.815 [error] undefined
+2023-12-01 18:53:34.886 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:53:34.886 [error] undefined
+2023-12-01 18:53:37.752 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:53:37.752 [error] undefined
+2023-12-01 18:53:41.640 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:53:41.640 [error] undefined
+2023-12-01 18:53:42.232 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 18:53:42.232 [error] undefined
+2023-12-01 18:55:00.905 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:55:29.821 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:55:30.020 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:55:30.643 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:55:42.950 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:56:28.499 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:57:25.357 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:57:41.748 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 18:57:58.104 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:00:19.246 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:02:10.617 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:03:10.635 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:03:22.153 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:05:36.083 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:05:36.083 [error] undefined
+2023-12-01 19:05:37.793 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:05:37.793 [error] undefined
+2023-12-01 19:05:38.094 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:05:38.094 [error] undefined
+2023-12-01 19:05:40.623 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:05:40.623 [error] undefined
+2023-12-01 19:05:41.185 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:05:41.185 [error] undefined
+2023-12-01 19:05:41.292 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:05:41.292 [error] undefined
+2023-12-01 19:05:53.562 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:05:56.244 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:05:56.686 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:08:15.081 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:08:15.081 [error] undefined
+2023-12-01 19:08:17.482 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:08:17.482 [error] undefined
+2023-12-01 19:08:24.928 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:08:24.928 [error] undefined
+2023-12-01 19:08:28.147 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:08:28.147 [error] undefined
+2023-12-01 19:08:35.328 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:08:35.328 [error] undefined
+2023-12-01 19:08:36.895 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:08:36.895 [error] undefined
+2023-12-01 19:08:37.718 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:08:37.718 [error] undefined
+2023-12-01 19:08:38.413 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:08:38.413 [error] undefined
+2023-12-01 19:08:44.704 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:08:44.704 [error] undefined
+2023-12-01 19:08:46.707 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:08:46.707 [error] undefined
+2023-12-01 19:09:00.118 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:09:00.118 [error] undefined
+2023-12-01 19:09:01.189 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:09:01.189 [error] undefined
+2023-12-01 19:09:02.733 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:09:02.733 [error] undefined
+2023-12-01 19:09:19.344 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:09:19.344 [error] undefined
+2023-12-01 19:09:46.738 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:09:46.738 [error] undefined
+2023-12-01 19:09:47.430 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:10:01.707 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:10:01.707 [error] undefined
+2023-12-01 19:10:04.078 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:10:04.078 [error] undefined
+2023-12-01 19:10:04.481 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:10:04.481 [error] undefined
+2023-12-01 19:10:05.351 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:10:05.351 [error] undefined
+2023-12-01 19:13:58.780 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:15:52.869 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:27:12.984 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:39:22.299 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:javascript'
+2023-12-01 19:39:23.787 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:javascript'
+2023-12-01 19:39:31.425 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:39:35.137 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:40:41.010 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:40:42.782 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:40:57.113 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:42:05.113 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:42:16.681 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:42:36.114 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:42:43.457 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:42:44.141 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:42:54.280 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:43:16.586 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:43:17.044 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:44:43.889 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:44:44.212 [error] TypeError: Cannot read properties of undefined (reading 'save')
+	at Timeout.<anonymous> (/home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29/out/extension.js:508:24)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-01 19:47:27.660 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:47:27.660 [error] undefined
+2023-12-01 19:47:29.609 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:47:29.609 [error] undefined
+2023-12-01 19:47:36.376 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:47:36.376 [error] undefined
+2023-12-01 19:47:38.481 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:47:38.481 [error] undefined
+2023-12-01 19:47:54.791 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:47:54.791 [error] undefined
+2023-12-01 19:47:57.440 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:47:57.440 [error] undefined
+2023-12-01 19:47:59.091 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:47:59.091 [error] undefined
+2023-12-01 19:48:09.633 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:48:09.633 [error] undefined
+2023-12-01 19:48:15.083 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:48:15.083 [error] undefined
+2023-12-01 19:48:57.229 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:48:57.229 [error] undefined
+2023-12-01 19:48:58.674 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:48:58.674 [error] undefined
+2023-12-01 19:49:06.630 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:06.630 [error] undefined
+2023-12-01 19:49:08.342 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:08.342 [error] undefined
+2023-12-01 19:49:21.283 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:21.283 [error] undefined
+2023-12-01 19:49:22.209 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:22.209 [error] undefined
+2023-12-01 19:49:22.388 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:22.388 [error] undefined
+2023-12-01 19:49:23.494 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:23.494 [error] undefined
+2023-12-01 19:49:25.245 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:25.245 [error] undefined
+2023-12-01 19:49:25.762 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:25.762 [error] undefined
+2023-12-01 19:49:30.095 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:30.095 [error] undefined
+2023-12-01 19:49:31.822 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:31.823 [error] undefined
+2023-12-01 19:49:36.181 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:36.181 [error] undefined
+2023-12-01 19:49:37.560 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:37.560 [error] undefined
+2023-12-01 19:49:38.713 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:38.713 [error] undefined
+2023-12-01 19:49:39.187 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:39.187 [error] undefined
+2023-12-01 19:49:39.475 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:39.476 [error] undefined
+2023-12-01 19:49:44.578 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:44.578 [error] undefined
+2023-12-01 19:49:45.679 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:45.680 [error] undefined
+2023-12-01 19:49:47.511 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:47.511 [error] undefined
+2023-12-01 19:49:58.594 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:49:58.594 [error] undefined
+2023-12-01 19:50:00.502 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:00.508 [error] undefined
+2023-12-01 19:50:00.650 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:00.650 [error] undefined
+2023-12-01 19:50:00.760 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:00.760 [error] undefined
+2023-12-01 19:50:00.994 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:00.995 [error] undefined
+2023-12-01 19:50:01.699 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:01.699 [error] undefined
+2023-12-01 19:50:02.125 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:02.125 [error] undefined
+2023-12-01 19:50:02.383 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:02.383 [error] undefined
+2023-12-01 19:50:02.596 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:02.596 [error] undefined
+2023-12-01 19:50:02.710 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:02.710 [error] undefined
+2023-12-01 19:50:02.881 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:02.881 [error] undefined
+2023-12-01 19:50:03.037 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:03.037 [error] undefined
+2023-12-01 19:50:28.303 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:28.306 [error] undefined
+2023-12-01 19:50:29.657 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:29.658 [error] undefined
+2023-12-01 19:50:38.776 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:38.776 [error] undefined
+2023-12-01 19:50:40.645 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:40.645 [error] undefined
+2023-12-01 19:50:59.875 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:50:59.875 [error] undefined
+2023-12-01 19:51:00.110 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:51:00.110 [error] undefined
+2023-12-01 19:51:01.118 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:51:01.118 [error] undefined
+2023-12-01 19:51:27.229 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:51:27.229 [error] undefined
+2023-12-01 19:52:15.212 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:52:15.212 [error] undefined
+2023-12-01 19:52:16.359 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:52:16.359 [error] undefined
+2023-12-01 19:52:19.330 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:52:19.330 [error] undefined
+2023-12-01 19:52:21.378 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:52:21.378 [error] undefined
+2023-12-01 19:52:30.698 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:52:30.698 [error] undefined
+2023-12-01 19:52:34.992 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:52:34.992 [error] undefined
+2023-12-01 19:52:52.697 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:52:52.697 [error] undefined
+2023-12-01 19:52:54.541 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:52:54.541 [error] undefined
+2023-12-01 19:53:13.297 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:53:13.297 [error] undefined
+2023-12-01 19:54:22.131 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:54:22.131 [error] undefined
+2023-12-01 19:54:22.842 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:54:22.842 [error] undefined
+2023-12-01 19:54:23.054 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:54:23.054 [error] undefined
+2023-12-01 19:54:23.231 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:54:23.231 [error] undefined
+2023-12-01 19:54:23.268 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:54:23.268 [error] undefined
+2023-12-01 19:54:23.359 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:54:23.359 [error] undefined
+2023-12-01 19:54:24.672 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:54:24.672 [error] undefined
+2023-12-01 19:56:39.525 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:56:39.525 [error] undefined
+2023-12-01 19:56:40.399 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:56:40.399 [error] undefined
+2023-12-01 19:56:41.819 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:56:41.819 [error] undefined
+2023-12-01 19:56:42.870 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:56:42.870 [error] undefined
+2023-12-01 19:57:37.877 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:57:37.877 [error] undefined
+2023-12-01 19:57:39.306 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:57:39.306 [error] undefined
+2023-12-01 19:57:42.043 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:57:42.043 [error] undefined
+2023-12-01 19:57:48.719 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:57:48.719 [error] undefined
+2023-12-01 19:57:53.609 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 19:57:53.609 [error] undefined
+2023-12-01 20:03:06.181 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 20:03:06.181 [error] undefined
+2023-12-01 20:03:08.012 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 20:03:08.012 [error] undefined
+2023-12-01 20:03:32.235 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 20:03:32.235 [error] undefined
+2023-12-01 20:03:39.223 [error] [ecmel.vscode-html-css] provider FAILED
+2023-12-01 20:03:39.224 [error] undefined
+2023-12-01 20:47:37.555 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-01 20:47:37.765 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at h.D [as value] (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1316925)
+	at c.y (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1332842)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1337781)
+	at v.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at v.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at v.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1318937)
+	at v.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-01 20:47:37.775 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at set b [as b] (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/github/dist/extension.js:2:714708)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/github/dist/extension.js:2:715349
+	at h.value (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1408111)
+	at c.y (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1332842)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1337781)
+	at v.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at v.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at v.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1318937)
+	at v.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-01 20:47:37.780 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at Object.dispose (/home/gilang/.vscode/extensions/tabnine.tabnine-vscode-3.41.0/out/extension.js:17:94447)
+	at v.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at v.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at v.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at v.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at /home/gilang/.vscode/extensions/tabnine.tabnine-vscode-3.41.0/out/extension.js:17:33712
+	at Array.forEach (<anonymous>)
+	at m (/home/gilang/.vscode/extensions/tabnine.tabnine-vscode-3.41.0/out/extension.js:17:33697)
+	at Object.dispose (/home/gilang/.vscode/extensions/tabnine.tabnine-vscode-3.41.0/out/extension.js:17:33083)
+	at o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-01 20:47:37.852 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at d (/home/gilang/.vscode/extensions/tabnine.tabnine-vscode-3.41.0/out/extension.js:17:58475)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2023-12-01 20:47:37.912 [error] Error: Channel has been closed
+	at s (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2490)
+	at Object.appendLine (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2608)
+	at x.logOutputMessage (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:649380)
+	at x.error (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:649271)
+	at ChildProcess.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:830260)
+	at ChildProcess.emit (node:events:513:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-12-01 20:47:38.793 [error] Error: Client is not running
+	at A.sendRequest (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5629631)
+	at t.default.activeConnectionChanged (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5475303)
+	at t.default._activeConnectionChanged (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5397835)
+	at EventEmitter.<anonymous> (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5395962)
+	at EventEmitter.emit (node:events:513:28)
+	at t.default.disconnect (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5358028)
+	at t.default.deactivate (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5492762)
+	at t.default.dispose (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5492697)
+	at o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-12-01 20:47:38.793 [error] Error: Starting server failed
+	at A.$start (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5645469)
+	at async A.sendRequest (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5629717)
+	at async t.default.activeConnectionChanged (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5475284)
+	at async t.default._activeConnectionChanged (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5397798)
+2023-12-01 20:47:39.823 [info] Extension host with pid 14897 exiting with code 0

@@ -1,0 +1,138 @@
+2023-12-01 16:40:36.506 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-01 16:40:37.298 [info] Started initializing default profile extensions in extensions installation folder. file:///home/gilang/.vscode/extensions
+2023-12-01 16:40:38.302 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/gilang/.vscode/extensions
+2023-12-01 16:40:40.964 [info] [perf] Render performance baseline is 90ms
+2023-12-01 16:44:50.699 [info] Settings Sync: Updating due to change in sessions
+2023-12-01 16:44:50.701 [info] Settings Sync: Updated current session a907a37c7c14a3fa
+2023-12-01 16:47:19.561 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.settingsSync
+2023-12-01 16:47:24.179 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-01 16:47:26.918 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-01 16:47:26.920 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-01 16:47:26.948 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-01 16:47:26.959 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-01 16:47:26.960 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-01 16:47:26.961 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-01 16:47:26.961 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-01 16:47:26.961 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-01 16:47:26.968 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2023-12-01 16:47:30.134 [info] [perf] Render performance baseline is 160ms
+2023-12-01 16:47:31.810 [warning] [ms-toolsai.vscode-jupyter-cell-tags]: View container 'jupyter-variables' does not exist and all views registered to it will be added to 'Explorer'.
+2023-12-01 16:47:53.930 [error] [Extension Host] (node:14897) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-12-01 16:59:24.495 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by Blackbox AI Code Generation, Code Chat, Code Search (Blackboxapp.blackbox)
+2023-12-01 17:31:13.253 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by Blackbox AI Code Generation, Code Chat, Code Search (Blackboxapp.blackbox)
+2023-12-01 18:39:07.327 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:39:08.829 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:40:01.447 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:40:04.039 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:40:22.927 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:40:24.878 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:40:30.580 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:40:31.929 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:40:33.486 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:40:34.901 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:40:40.305 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:40:50.059 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:40:55.412 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:40:57.191 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:41:05.579 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:41:13.222 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:41:21.224 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:41:23.006 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:43:18.868 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:43:20.646 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:43:21.745 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:43:23.462 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:43:25.121 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:43:26.508 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:43:28.254 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:43:39.203 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:43:40.263 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:43:47.459 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:43:54.420 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:43:57.152 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:53:28.271 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:53:33.822 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:53:34.911 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:53:37.755 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 18:53:41.645 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:05:36.089 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:05:37.798 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:05:40.625 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:08:15.087 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:08:17.485 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:08:24.932 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:08:28.151 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:08:35.335 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:08:36.905 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:08:38.417 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:08:44.711 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:08:46.729 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:09:00.123 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:09:01.193 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:09:02.744 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:09:19.369 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:09:46.740 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:10:01.711 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:10:04.082 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:10:05.355 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:47:27.662 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:47:29.612 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:47:36.384 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:47:38.483 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:47:54.802 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:47:57.466 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:47:59.132 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:48:09.657 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:48:15.107 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:48:57.230 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:48:58.678 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:49:06.642 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:49:08.349 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:49:21.286 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:49:22.395 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:49:23.496 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:49:25.248 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:49:30.097 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:49:31.826 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:49:36.204 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:49:37.562 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:49:38.714 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:49:44.583 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:49:45.689 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:49:47.515 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:49:58.596 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:50:00.521 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:50:01.702 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:50:02.715 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:50:28.308 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:50:29.661 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:50:38.779 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:50:40.652 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:50:59.883 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:51:01.122 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:51:27.239 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:52:15.218 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:52:16.364 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:52:19.336 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:52:21.382 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:52:30.713 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:52:34.998 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:52:52.714 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:52:54.548 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:53:13.324 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:54:22.132 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:54:23.233 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:54:24.676 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:56:39.536 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:56:41.829 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:56:42.914 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:57:37.880 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:57:39.311 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:57:42.079 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:57:48.735 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 19:57:53.630 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 20:03:06.187 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 20:03:08.039 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 20:03:32.248 [error] An unknown error occurred. Please consult the log for more details.
+2023-12-01 20:03:39.226 [error] An unknown error occurred. Please consult the log for more details.

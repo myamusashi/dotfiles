@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portofolio</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/mediaqueries.css">
+</head>
+
+<body>
+    <nav id="desktop-nav">
+        <div class="logo">Gilang Ramadhan</div>
+        <div>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">contact</a></li>
+            </ul>
+        </div>
+    </nav>
+    <nav id="hamburger-nav">
+        <div class="logo">Gilang Ramadhan</div>
+        <div class="hamburger-menu">
+            <div class="hamburger-icon" onclick="toggleMenu()">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class="menu-links">
+                <li><a href="#about" onclick="toggleMenu()">About</a></li>
+                <li><a href="#experience" onclick="toggleMenu()">Experience</a></li>
+                <li><a href="#projects" onclick="toggleMenu()">Projects</a></li>
+                <li><a href="#contact" onclick="toggleMenu()">contact</a></li>
+            </div>
+        </div>
+    </nav>
+    <section id="profile">
+        <div class="section__pic-container">
+            <img src="./images/profile-.png" alt="Gilang ramadhan Profile picture">
+        </div>
+        <div class="section__text">
+            <p class="section__text__p1">Hello, Saya</p>
+            <h1 class="title">Gilang Ramadhan</h1>
+            <p class="section__text__p2">Software Engineer</p>
+            <div class="btn-container">
+                <button class="btn btn-color-2" onclick="window.open('./images/blank-profile-picture-973460_1280.png')">
+            Download CV
+          </button>
+                <button class="btn btn-color-1" onclick="location.href='./#contact'">
+            Contact info
+          </button>
+            </div>
+            <div id="socials-container">
+                <img src="./assets/linkedin.png" alt="My linkedin profile" class="icon" onclick="location.href='https://linkedin.com/'">
+                <img src="./assets/github.png" alt="My github profile" class="icon" onclick="location.href='https://github.com/'">
+            </div>
+        </div>
+    </section>
+    <section id="about">
+        <p class="section__text__p1">Get to know more</p>
+        <h1 class="title">Tentang Saya</p>
+            <div class="section-container">
+                <div class="section__pic-container">
+                    <img src="./assets/about-pic.png" alt="Profile picture" class="about-pic">
+                </div>
+                <div class="about-details-container">
+                    <div class="about-container">
+                        <div class="details-container">
+                            <img src="./assets/experience.png" alt="Experience icon" class="icon" />
+                            <h3>Experience</h3>
+                            <p>2+ Years <br />Frontend development</p>
+                        </div>
+                        <div class="details-container">
+                            <img src="./assets/education.png" alt="Education icon" class="icon" />
+                            <h3>Education</h3>
+                            <p>Lulusan S.kom<br />Universitas Pamulang</p>
+                        </div>
+                    </div>
+                    <div class="text-container">
+                        <p>Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <img src="./assets/arrow.png" alt="arrow icon" class="icon arrow" onclick="location.href='./#experience'">
+    </section>
+    <script src="js/script.js"></script>
+</body>
+
+</html>

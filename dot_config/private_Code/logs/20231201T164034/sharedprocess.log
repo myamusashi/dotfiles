@@ -1,0 +1,732 @@
+2023-12-01 16:40:38.220 [info] Started initializing default profile extensions in extensions installation folder. file:///home/gilang/.vscode/extensions
+2023-12-01 16:40:38.663 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/gilang/.vscode/extensions Unable to create file 'vscode-userdata:/home/gilang/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-12-01 16:40:38.664 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/gilang/.vscode/extensions
+2023-12-01 16:43:41.687 [info] Getting Manifest... ecmel.vscode-html-css
+2023-12-01 16:43:41.706 [info] Installing extension: ecmel.vscode-html-css
+2023-12-01 16:43:46.460 [info] Extension signature is verified: ecmel.vscode-html-css
+2023-12-01 16:43:46.549 [info] Extracted extension to file:///home/gilang/.vscode/extensions/ecmel.vscode-html-css-1.13.1: ecmel.vscode-html-css
+2023-12-01 16:43:46.561 [info] Renamed to /home/gilang/.vscode/extensions/ecmel.vscode-html-css-1.13.1
+2023-12-01 16:43:46.564 [info] Extracting extension completed. ecmel.vscode-html-css
+2023-12-01 16:43:46.585 [info] Extension installed successfully: ecmel.vscode-html-css
+2023-12-01 16:43:46.659 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:44:13.754 [info] Getting Manifest... abusaidm.html-snippets
+2023-12-01 16:44:13.786 [info] Installing extension: abusaidm.html-snippets
+2023-12-01 16:44:16.700 [info] Extension signature is verified: abusaidm.html-snippets
+2023-12-01 16:44:16.721 [info] Extracted extension to file:///home/gilang/.vscode/extensions/abusaidm.html-snippets-0.2.1: abusaidm.html-snippets
+2023-12-01 16:44:16.733 [info] Renamed to /home/gilang/.vscode/extensions/abusaidm.html-snippets-0.2.1
+2023-12-01 16:44:16.735 [info] Extracting extension completed. abusaidm.html-snippets
+2023-12-01 16:44:16.755 [info] Extension installed successfully: abusaidm.html-snippets
+2023-12-01 16:44:16.823 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:44:56.489 [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+2023-12-01 16:44:56.489 [info] Getting Manifest... xabikos.javascriptsnippets
+2023-12-01 16:44:56.490 [info] Getting Manifest... xdebug.php-debug
+2023-12-01 16:44:56.490 [info] Getting Manifest... fnando.linter
+2023-12-01 16:44:56.496 [info] Getting Manifest... johnpapa.winteriscoming
+2023-12-01 16:44:56.496 [info] Getting Manifest... formulahendry.code-runner
+2023-12-01 16:44:56.496 [info] Getting Manifest... formulahendry.theme-ubuntu-style
+2023-12-01 16:44:56.496 [info] Getting Manifest... donjayamanne.python-extension-pack
+2023-12-01 16:44:56.497 [info] Getting Manifest... donjayamanne.githistory
+2023-12-01 16:44:56.500 [info] Getting Manifest... donjayamanne.python-environment-manager
+2023-12-01 16:44:56.501 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-12-01 16:44:56.508 [info] Getting Manifest... yummygum.city-lights-icon-vsc
+2023-12-01 16:44:56.510 [info] Getting Manifest... njpwerner.autodocstring
+2023-12-01 16:44:56.510 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-12-01 16:44:56.511 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-12-01 16:44:56.512 [info] Getting Manifest... codecademy.codecademy-syntax-theme
+2023-12-01 16:44:56.512 [info] Getting Manifest... xdebug.php-pack
+2023-12-01 16:44:56.512 [info] Getting Manifest... wholroyd.jinja
+2023-12-01 16:44:56.513 [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+2023-12-01 16:44:56.513 [info] Getting Manifest... ms-vscode.cpptools-themes
+2023-12-01 16:44:56.513 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-12-01 16:44:56.513 [info] Getting Manifest... sdras.night-owl
+2023-12-01 16:44:56.514 [info] Getting Manifest... blackboxapp.blackbox
+2023-12-01 16:44:56.514 [info] Getting Manifest... mtxr.sqltools-driver-mysql
+2023-12-01 16:44:56.514 [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+2023-12-01 16:44:56.514 [info] Getting Manifest... tabnine.tabnine-vscode
+2023-12-01 16:44:56.515 [info] Getting Manifest... tushortz.python-extended-snippets
+2023-12-01 16:44:56.515 [info] Getting Manifest... kevinrose.vsc-python-indent
+2023-12-01 16:44:56.515 [info] Getting Manifest... danielpinto8zz6.c-cpp-compile-run
+2023-12-01 16:44:56.515 [info] Getting Manifest... rajeshwaran.developer-theme-dark
+2023-12-01 16:44:56.515 [info] Getting Manifest... davidbwaters.macos-modern-theme
+2023-12-01 16:44:56.516 [info] Getting Manifest... liviuschera.noctis
+2023-12-01 16:44:56.516 [info] Getting Manifest... github.github-vscode-theme
+2023-12-01 16:44:56.516 [info] Getting Manifest... ritwickdey.liveserver
+2023-12-01 16:44:56.516 [info] Getting Manifest... isudox.vscode-jetbrains-keybindings
+2023-12-01 16:44:56.516 [info] Getting Manifest... ms-edgedevtools.vscode-edge-devtools
+2023-12-01 16:44:56.517 [info] Getting Manifest... esbenp.prettier-vscode
+2023-12-01 16:44:56.517 [info] Getting Manifest... ms-toolsai.jupyter
+2023-12-01 16:44:56.517 [info] Getting Manifest... janisdd.vscode-edit-csv
+2023-12-01 16:44:56.517 [info] Getting Manifest... jithurjacob.nbpreviewer
+2023-12-01 16:44:56.518 [info] Getting Manifest... mtxr.sqltools
+2023-12-01 16:44:56.518 [info] Getting Manifest... mongodb.mongodb-vscode
+2023-12-01 16:44:56.519 [info] Getting Manifest... zobo.php-intellisense
+2023-12-01 16:44:56.520 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2023-12-01 16:44:56.522 [info] Getting Manifest... cstrap.flask-snippets
+2023-12-01 16:44:56.522 [info] Getting Manifest... tomoki1207.pdf
+2023-12-01 16:44:56.523 [info] Getting Manifest... ms-python.isort
+2023-12-01 16:44:56.523 [info] Getting Manifest... ms-python.vscode-pylance
+2023-12-01 16:44:56.523 [info] Getting Manifest... ms-python.python
+2023-12-01 16:44:56.525 [info] Getting Manifest... ms-vscode.cpptools
+2023-12-01 16:45:01.930 [info] Installing extension: visualstudioexptteam.vscodeintellicode
+2023-12-01 16:45:01.930 [info] Installing the extension without checking dependencies and pack visualstudioexptteam.vscodeintellicode
+2023-12-01 16:45:01.930 [info] Installing extension: ms-toolsai.jupyter-keymap
+2023-12-01 16:45:01.930 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-keymap
+2023-12-01 16:45:01.931 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow
+2023-12-01 16:45:01.931 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-slideshow
+2023-12-01 16:45:01.931 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags
+2023-12-01 16:45:01.931 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-cell-tags
+2023-12-01 16:45:01.932 [info] Installing extension: ms-vscode.cpptools-themes
+2023-12-01 16:45:01.934 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools-themes
+2023-12-01 16:45:01.934 [info] Installing extension: ms-vscode.cpptools-extension-pack
+2023-12-01 16:45:01.934 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools-extension-pack
+2023-12-01 16:45:01.934 [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples
+2023-12-01 16:45:01.935 [info] Installing the extension without checking dependencies and pack visualstudioexptteam.intellicode-api-usage-examples
+2023-12-01 16:45:01.935 [info] Installing extension: ms-toolsai.jupyter-renderers
+2023-12-01 16:45:01.935 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-renderers
+2023-12-01 16:45:01.942 [info] Installing extension: esbenp.prettier-vscode
+2023-12-01 16:45:01.943 [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+2023-12-01 16:45:01.943 [info] Installing extension: ms-python.vscode-pylance
+2023-12-01 16:45:01.945 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2023-12-01 16:45:01.946 [info] Installing extension: ms-python.python
+2023-12-01 16:45:01.946 [info] Installing the extension without checking dependencies and pack ms-python.python
+2023-12-01 16:45:01.946 [info] Installing extension: ritwickdey.liveserver
+2023-12-01 16:45:01.947 [info] Installing the extension without checking dependencies and pack ritwickdey.liveserver
+2023-12-01 16:45:01.947 [info] Installing extension: xdebug.php-pack
+2023-12-01 16:45:01.947 [info] Installing the extension without checking dependencies and pack xdebug.php-pack
+2023-12-01 16:45:01.948 [info] Installing extension: xdebug.php-debug
+2023-12-01 16:45:01.948 [info] Installing the extension without checking dependencies and pack xdebug.php-debug
+2023-12-01 16:45:01.948 [info] Installing extension: ms-vscode.cpptools
+2023-12-01 16:45:01.949 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools
+2023-12-01 16:45:01.949 [info] Installing extension: johnpapa.winteriscoming
+2023-12-01 16:45:01.950 [info] Installing the extension without checking dependencies and pack johnpapa.winteriscoming
+2023-12-01 16:45:01.954 [info] Installing extension: ms-python.isort
+2023-12-01 16:45:01.954 [info] Installing the extension without checking dependencies and pack ms-python.isort
+2023-12-01 16:45:01.955 [info] Installing extension: fnando.linter
+2023-12-01 16:45:01.956 [info] Installing the extension without checking dependencies and pack fnando.linter
+2023-12-01 16:45:01.957 [info] Installing extension: xabikos.javascriptsnippets
+2023-12-01 16:45:01.957 [info] Installing the extension without checking dependencies and pack xabikos.javascriptsnippets
+2023-12-01 16:45:01.957 [info] Installing extension: formulahendry.code-runner
+2023-12-01 16:45:01.959 [info] Installing the extension without checking dependencies and pack formulahendry.code-runner
+2023-12-01 16:45:01.959 [info] Installing extension: donjayamanne.githistory
+2023-12-01 16:45:01.960 [info] Installing the extension without checking dependencies and pack donjayamanne.githistory
+2023-12-01 16:45:01.961 [info] Installing extension: formulahendry.theme-ubuntu-style
+2023-12-01 16:45:01.964 [info] Installing the extension without checking dependencies and pack formulahendry.theme-ubuntu-style
+2023-12-01 16:45:01.964 [info] Installing extension: donjayamanne.python-extension-pack
+2023-12-01 16:45:01.964 [info] Installing the extension without checking dependencies and pack donjayamanne.python-extension-pack
+2023-12-01 16:45:01.964 [info] Installing extension: donjayamanne.python-environment-manager
+2023-12-01 16:45:01.964 [info] Installing the extension without checking dependencies and pack donjayamanne.python-environment-manager
+2023-12-01 16:45:01.965 [info] Installing extension: mtxr.sqltools-driver-mysql
+2023-12-01 16:45:01.965 [info] Installing the extension without checking dependencies and pack mtxr.sqltools-driver-mysql
+2023-12-01 16:45:01.965 [info] Installing extension: mtxr.sqltools
+2023-12-01 16:45:01.965 [info] Installing the extension without checking dependencies and pack mtxr.sqltools
+2023-12-01 16:45:01.966 [info] Installing extension: njpwerner.autodocstring
+2023-12-01 16:45:01.966 [info] Installing the extension without checking dependencies and pack njpwerner.autodocstring
+2023-12-01 16:45:01.966 [info] Installing extension: yummygum.city-lights-icon-vsc
+2023-12-01 16:45:01.966 [info] Installing the extension without checking dependencies and pack yummygum.city-lights-icon-vsc
+2023-12-01 16:45:01.966 [info] Installing extension: wholroyd.jinja
+2023-12-01 16:45:01.967 [info] Installing the extension without checking dependencies and pack wholroyd.jinja
+2023-12-01 16:45:01.967 [info] Installing extension: sdras.night-owl
+2023-12-01 16:45:01.967 [info] Installing the extension without checking dependencies and pack sdras.night-owl
+2023-12-01 16:45:01.967 [info] Installing extension: blackboxapp.blackbox
+2023-12-01 16:45:01.967 [info] Installing the extension without checking dependencies and pack blackboxapp.blackbox
+2023-12-01 16:45:01.968 [info] Installing extension: tabnine.tabnine-vscode
+2023-12-01 16:45:01.968 [info] Installing the extension without checking dependencies and pack tabnine.tabnine-vscode
+2023-12-01 16:45:01.968 [info] Installing extension: rajeshwaran.developer-theme-dark
+2023-12-01 16:45:01.968 [info] Installing the extension without checking dependencies and pack rajeshwaran.developer-theme-dark
+2023-12-01 16:45:01.968 [info] Installing extension: danielpinto8zz6.c-cpp-compile-run
+2023-12-01 16:45:01.969 [info] Installing the extension without checking dependencies and pack danielpinto8zz6.c-cpp-compile-run
+2023-12-01 16:45:01.969 [info] Installing extension: kevinrose.vsc-python-indent
+2023-12-01 16:45:01.969 [info] Installing the extension without checking dependencies and pack kevinrose.vsc-python-indent
+2023-12-01 16:45:01.969 [info] Installing extension: davidbwaters.macos-modern-theme
+2023-12-01 16:45:01.969 [info] Installing the extension without checking dependencies and pack davidbwaters.macos-modern-theme
+2023-12-01 16:45:01.970 [info] Installing extension: github.github-vscode-theme
+2023-12-01 16:45:01.970 [info] Installing the extension without checking dependencies and pack github.github-vscode-theme
+2023-12-01 16:45:01.970 [info] Installing extension: liviuschera.noctis
+2023-12-01 16:45:01.970 [info] Installing the extension without checking dependencies and pack liviuschera.noctis
+2023-12-01 16:45:01.971 [info] Installing extension: isudox.vscode-jetbrains-keybindings
+2023-12-01 16:45:01.971 [info] Installing the extension without checking dependencies and pack isudox.vscode-jetbrains-keybindings
+2023-12-01 16:45:01.972 [info] Installing extension: tushortz.python-extended-snippets
+2023-12-01 16:45:01.973 [info] Installing the extension without checking dependencies and pack tushortz.python-extended-snippets
+2023-12-01 16:45:01.973 [info] Installing extension: ms-toolsai.jupyter
+2023-12-01 16:45:01.974 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter
+2023-12-01 16:45:01.974 [info] Installing extension: codecademy.codecademy-syntax-theme
+2023-12-01 16:45:01.975 [info] Installing the extension without checking dependencies and pack codecademy.codecademy-syntax-theme
+2023-12-01 16:45:01.975 [info] Installing extension: jithurjacob.nbpreviewer
+2023-12-01 16:45:01.976 [info] Installing the extension without checking dependencies and pack jithurjacob.nbpreviewer
+2023-12-01 16:45:01.976 [info] Installing extension: janisdd.vscode-edit-csv
+2023-12-01 16:45:01.977 [info] Installing the extension without checking dependencies and pack janisdd.vscode-edit-csv
+2023-12-01 16:45:01.977 [info] Installing extension: ms-edgedevtools.vscode-edge-devtools
+2023-12-01 16:45:01.979 [info] Installing the extension without checking dependencies and pack ms-edgedevtools.vscode-edge-devtools
+2023-12-01 16:45:01.979 [info] Installing extension: mongodb.mongodb-vscode
+2023-12-01 16:45:01.979 [info] Installing the extension without checking dependencies and pack mongodb.mongodb-vscode
+2023-12-01 16:45:01.980 [info] Installing extension: zobo.php-intellisense
+2023-12-01 16:45:01.980 [info] Installing the extension without checking dependencies and pack zobo.php-intellisense
+2023-12-01 16:45:01.980 [info] Installing extension: tomoki1207.pdf
+2023-12-01 16:45:01.980 [info] Installing the extension without checking dependencies and pack tomoki1207.pdf
+2023-12-01 16:45:01.980 [info] Installing extension: cstrap.flask-snippets
+2023-12-01 16:45:01.981 [info] Installing the extension without checking dependencies and pack cstrap.flask-snippets
+2023-12-01 16:45:01.981 [info] Installing extension: vscode-icons-team.vscode-icons
+2023-12-01 16:45:01.981 [info] Installing the extension without checking dependencies and pack vscode-icons-team.vscode-icons
+2023-12-01 16:45:13.519 [info] Extension signature is verified: ms-toolsai.jupyter-keymap
+2023-12-01 16:45:13.549 [info] Extracted extension to file:///home/gilang/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.2: ms-toolsai.jupyter-keymap
+2023-12-01 16:45:13.560 [info] Renamed to /home/gilang/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.2
+2023-12-01 16:45:13.562 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2023-12-01 16:45:13.591 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-12-01 16:45:13.645 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:45:21.817 [info] Extension signature is verified: ms-vscode.cpptools-extension-pack
+2023-12-01 16:45:21.832 [info] Extracted extension to file:///home/gilang/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.3.0: ms-vscode.cpptools-extension-pack
+2023-12-01 16:45:21.843 [info] Renamed to /home/gilang/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.3.0
+2023-12-01 16:45:21.845 [info] Extracting extension completed. ms-vscode.cpptools-extension-pack
+2023-12-01 16:45:21.857 [info] Extension signature is verified: ms-toolsai.vscode-jupyter-slideshow
+2023-12-01 16:45:21.861 [info] Extension installed successfully: ms-vscode.cpptools-extension-pack
+2023-12-01 16:45:21.920 [info] Extracted extension to file:///home/gilang/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5: ms-toolsai.vscode-jupyter-slideshow
+2023-12-01 16:45:21.929 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:45:21.933 [info] Renamed to /home/gilang/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2023-12-01 16:45:21.937 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-slideshow
+2023-12-01 16:45:21.956 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-12-01 16:45:24.346 [info] Extension signature is verified: ms-vscode.cpptools-themes
+2023-12-01 16:45:24.366 [info] Extracted extension to file:///home/gilang/.vscode/extensions/ms-vscode.cpptools-themes-2.0.0: ms-vscode.cpptools-themes
+2023-12-01 16:45:24.376 [info] Renamed to /home/gilang/.vscode/extensions/ms-vscode.cpptools-themes-2.0.0
+2023-12-01 16:45:24.378 [info] Extracting extension completed. ms-vscode.cpptools-themes
+2023-12-01 16:45:24.400 [info] Extension installed successfully: ms-vscode.cpptools-themes
+2023-12-01 16:45:24.461 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:45:28.884 [info] Extension signature is verified: ms-toolsai.vscode-jupyter-cell-tags
+2023-12-01 16:45:28.968 [info] Extracted extension to file:///home/gilang/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8: ms-toolsai.vscode-jupyter-cell-tags
+2023-12-01 16:45:28.977 [info] Renamed to /home/gilang/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8
+2023-12-01 16:45:28.979 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-12-01 16:45:28.993 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-12-01 16:45:29.060 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:45:31.082 [info] Extension signature is verified: xdebug.php-pack
+2023-12-01 16:45:31.094 [info] Extracted extension to file:///home/gilang/.vscode/extensions/xdebug.php-pack-1.0.3: xdebug.php-pack
+2023-12-01 16:45:31.105 [info] Renamed to /home/gilang/.vscode/extensions/xdebug.php-pack-1.0.3
+2023-12-01 16:45:31.108 [info] Extracting extension completed. xdebug.php-pack
+2023-12-01 16:45:31.124 [info] Extension installed successfully: xdebug.php-pack
+2023-12-01 16:45:31.192 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:45:43.802 [info] Extension signature is verified: wholroyd.jinja
+2023-12-01 16:45:43.899 [info] Extracted extension to file:///home/gilang/.vscode/extensions/wholroyd.jinja-0.0.8: wholroyd.jinja
+2023-12-01 16:45:43.917 [info] Renamed to /home/gilang/.vscode/extensions/wholroyd.jinja-0.0.8
+2023-12-01 16:45:43.944 [info] Extracting extension completed. wholroyd.jinja
+2023-12-01 16:45:43.993 [info] Extension installed successfully: wholroyd.jinja
+2023-12-01 16:45:44.060 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:45:44.121 [info] Extension signature is verified: donjayamanne.python-extension-pack
+2023-12-01 16:45:44.181 [info] Extracted extension to file:///home/gilang/.vscode/extensions/donjayamanne.python-extension-pack-1.7.0: donjayamanne.python-extension-pack
+2023-12-01 16:45:44.217 [info] Renamed to /home/gilang/.vscode/extensions/donjayamanne.python-extension-pack-1.7.0
+2023-12-01 16:45:44.219 [info] Extracting extension completed. donjayamanne.python-extension-pack
+2023-12-01 16:45:44.272 [info] Extension installed successfully: donjayamanne.python-extension-pack
+2023-12-01 16:45:44.340 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:45:44.878 [info] Extension signature is verified: formulahendry.theme-ubuntu-style
+2023-12-01 16:45:44.997 [info] Extracted extension to file:///home/gilang/.vscode/extensions/formulahendry.theme-ubuntu-style-0.0.2: formulahendry.theme-ubuntu-style
+2023-12-01 16:45:45.011 [info] Renamed to /home/gilang/.vscode/extensions/formulahendry.theme-ubuntu-style-0.0.2
+2023-12-01 16:45:45.021 [info] Extracting extension completed. formulahendry.theme-ubuntu-style
+2023-12-01 16:45:45.091 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:45:45.114 [info] Extension installed successfully: formulahendry.theme-ubuntu-style
+2023-12-01 16:45:45.236 [info] Extension signature is verified: isudox.vscode-jetbrains-keybindings
+2023-12-01 16:45:45.325 [info] Extracted extension to file:///home/gilang/.vscode/extensions/isudox.vscode-jetbrains-keybindings-0.1.9: isudox.vscode-jetbrains-keybindings
+2023-12-01 16:45:45.353 [info] Renamed to /home/gilang/.vscode/extensions/isudox.vscode-jetbrains-keybindings-0.1.9
+2023-12-01 16:45:45.382 [info] Extracting extension completed. isudox.vscode-jetbrains-keybindings
+2023-12-01 16:45:45.433 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:45:45.444 [info] Extension installed successfully: isudox.vscode-jetbrains-keybindings
+2023-12-01 16:45:45.816 [info] Extension signature is verified: danielpinto8zz6.c-cpp-compile-run
+2023-12-01 16:45:45.895 [info] Extension signature is verified: xabikos.javascriptsnippets
+2023-12-01 16:45:45.940 [info] Extracted extension to file:///home/gilang/.vscode/extensions/xabikos.javascriptsnippets-1.8.0: xabikos.javascriptsnippets
+2023-12-01 16:45:45.959 [info] Renamed to /home/gilang/.vscode/extensions/xabikos.javascriptsnippets-1.8.0
+2023-12-01 16:45:45.963 [info] Extracting extension completed. xabikos.javascriptsnippets
+2023-12-01 16:45:45.983 [info] Extension installed successfully: xabikos.javascriptsnippets
+2023-12-01 16:45:46.011 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:45:46.216 [info] Extension signature is verified: codecademy.codecademy-syntax-theme
+2023-12-01 16:45:46.264 [info] Extracted extension to file:///home/gilang/.vscode/extensions/codecademy.codecademy-syntax-theme-1.0.0: codecademy.codecademy-syntax-theme
+2023-12-01 16:45:46.267 [info] Extension signature is verified: cstrap.flask-snippets
+2023-12-01 16:45:46.284 [info] Renamed to /home/gilang/.vscode/extensions/codecademy.codecademy-syntax-theme-1.0.0
+2023-12-01 16:45:46.286 [info] Extracting extension completed. codecademy.codecademy-syntax-theme
+2023-12-01 16:45:46.291 [info] Extracted extension to file:///home/gilang/.vscode/extensions/cstrap.flask-snippets-0.1.3: cstrap.flask-snippets
+2023-12-01 16:45:46.304 [info] Extension installed successfully: codecademy.codecademy-syntax-theme
+2023-12-01 16:45:46.310 [info] Renamed to /home/gilang/.vscode/extensions/cstrap.flask-snippets-0.1.3
+2023-12-01 16:45:46.313 [info] Extracting extension completed. cstrap.flask-snippets
+2023-12-01 16:45:46.329 [info] Extension installed successfully: cstrap.flask-snippets
+2023-12-01 16:45:46.371 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:45:46.381 [info] Extracted extension to file:///home/gilang/.vscode/extensions/danielpinto8zz6.c-cpp-compile-run-1.0.50: danielpinto8zz6.c-cpp-compile-run
+2023-12-01 16:45:46.393 [info] Renamed to /home/gilang/.vscode/extensions/danielpinto8zz6.c-cpp-compile-run-1.0.50
+2023-12-01 16:45:46.395 [info] Extracting extension completed. danielpinto8zz6.c-cpp-compile-run
+2023-12-01 16:45:46.418 [info] Extension installed successfully: danielpinto8zz6.c-cpp-compile-run
+2023-12-01 16:45:57.069 [info] Extension signature is verified: github.github-vscode-theme
+2023-12-01 16:45:57.102 [info] Extracted extension to file:///home/gilang/.vscode/extensions/github.github-vscode-theme-6.3.4: github.github-vscode-theme
+2023-12-01 16:45:57.113 [info] Renamed to /home/gilang/.vscode/extensions/github.github-vscode-theme-6.3.4
+2023-12-01 16:45:57.115 [info] Extracting extension completed. github.github-vscode-theme
+2023-12-01 16:45:57.120 [info] Extension signature is verified: njpwerner.autodocstring
+2023-12-01 16:45:57.131 [info] Extension installed successfully: github.github-vscode-theme
+2023-12-01 16:45:57.199 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:45:57.267 [info] Extracted extension to file:///home/gilang/.vscode/extensions/njpwerner.autodocstring-0.6.1: njpwerner.autodocstring
+2023-12-01 16:45:57.282 [info] Renamed to /home/gilang/.vscode/extensions/njpwerner.autodocstring-0.6.1
+2023-12-01 16:45:57.288 [info] Extracting extension completed. njpwerner.autodocstring
+2023-12-01 16:45:57.314 [info] Extension installed successfully: njpwerner.autodocstring
+2023-12-01 16:45:57.375 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:46:14.213 [info] Extension signature is verified: donjayamanne.githistory
+2023-12-01 16:46:14.872 [info] Extracted extension to file:///home/gilang/.vscode/extensions/donjayamanne.githistory-0.6.20: donjayamanne.githistory
+2023-12-01 16:46:14.897 [info] Renamed to /home/gilang/.vscode/extensions/donjayamanne.githistory-0.6.20
+2023-12-01 16:46:14.917 [info] Extracting extension completed. donjayamanne.githistory
+2023-12-01 16:46:14.964 [info] Extension signature is verified: kevinrose.vsc-python-indent
+2023-12-01 16:46:14.984 [info] Extension installed successfully: donjayamanne.githistory
+2023-12-01 16:46:15.095 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:46:15.351 [info] Extension signature is verified: formulahendry.code-runner
+2023-12-01 16:46:15.379 [info] Extension signature is verified: ms-python.isort
+2023-12-01 16:46:15.398 [info] Extracted extension to file:///home/gilang/.vscode/extensions/kevinrose.vsc-python-indent-1.18.0: kevinrose.vsc-python-indent
+2023-12-01 16:46:15.419 [info] Renamed to /home/gilang/.vscode/extensions/kevinrose.vsc-python-indent-1.18.0
+2023-12-01 16:46:15.440 [info] Extracting extension completed. kevinrose.vsc-python-indent
+2023-12-01 16:46:15.516 [info] Extension installed successfully: kevinrose.vsc-python-indent
+2023-12-01 16:46:15.537 [info] Extension signature is verified: janisdd.vscode-edit-csv
+2023-12-01 16:46:15.577 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:46:15.718 [info] Extension signature is verified: mtxr.sqltools
+2023-12-01 16:46:15.762 [info] Extension signature is verified: ms-edgedevtools.vscode-edge-devtools
+2023-12-01 16:46:15.858 [info] Extension signature is verified: mtxr.sqltools-driver-mysql
+2023-12-01 16:46:15.864 [info] Extension signature is verified: tushortz.python-extended-snippets
+2023-12-01 16:46:16.181 [info] Extracted extension to file:///home/gilang/.vscode/extensions/tushortz.python-extended-snippets-0.0.1: tushortz.python-extended-snippets
+2023-12-01 16:46:16.237 [info] Renamed to /home/gilang/.vscode/extensions/tushortz.python-extended-snippets-0.0.1
+2023-12-01 16:46:16.250 [info] Extracting extension completed. tushortz.python-extended-snippets
+2023-12-01 16:46:16.270 [info] Extension installed successfully: tushortz.python-extended-snippets
+2023-12-01 16:46:16.316 [info] Extracted extension to file:///home/gilang/.vscode/extensions/mtxr.sqltools-driver-mysql-0.6.0: mtxr.sqltools-driver-mysql
+2023-12-01 16:46:16.330 [info] Renamed to /home/gilang/.vscode/extensions/mtxr.sqltools-driver-mysql-0.6.0
+2023-12-01 16:46:16.349 [info] Extracting extension completed. mtxr.sqltools-driver-mysql
+2023-12-01 16:46:16.350 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:46:16.403 [info] Extension installed successfully: mtxr.sqltools-driver-mysql
+2023-12-01 16:46:16.563 [info] Extracted extension to file:///home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3: ms-edgedevtools.vscode-edge-devtools
+2023-12-01 16:46:16.580 [info] Renamed to /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3
+2023-12-01 16:46:16.584 [info] Extracting extension completed. ms-edgedevtools.vscode-edge-devtools
+2023-12-01 16:46:16.599 [info] Extracted extension to file:///home/gilang/.vscode/extensions/mtxr.sqltools-0.28.1: mtxr.sqltools
+2023-12-01 16:46:16.622 [info] Extension installed successfully: ms-edgedevtools.vscode-edge-devtools
+2023-12-01 16:46:16.627 [info] Renamed to /home/gilang/.vscode/extensions/mtxr.sqltools-0.28.1
+2023-12-01 16:46:16.636 [info] Extracting extension completed. mtxr.sqltools
+2023-12-01 16:46:16.658 [info] Extension installed successfully: mtxr.sqltools
+2023-12-01 16:46:16.683 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:46:16.796 [info] Extracted extension to file:///home/gilang/.vscode/extensions/janisdd.vscode-edit-csv-0.8.3: janisdd.vscode-edit-csv
+2023-12-01 16:46:16.809 [info] Renamed to /home/gilang/.vscode/extensions/janisdd.vscode-edit-csv-0.8.3
+2023-12-01 16:46:16.813 [info] Extracting extension completed. janisdd.vscode-edit-csv
+2023-12-01 16:46:16.830 [info] Extension installed successfully: janisdd.vscode-edit-csv
+2023-12-01 16:46:16.849 [info] Extracted extension to file:///home/gilang/.vscode/extensions/formulahendry.code-runner-0.12.1: formulahendry.code-runner
+2023-12-01 16:46:16.859 [info] Renamed to /home/gilang/.vscode/extensions/formulahendry.code-runner-0.12.1
+2023-12-01 16:46:16.863 [info] Extracting extension completed. formulahendry.code-runner
+2023-12-01 16:46:16.881 [info] Extension installed successfully: formulahendry.code-runner
+2023-12-01 16:46:16.895 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:46:17.104 [info] Extracted extension to file:///home/gilang/.vscode/extensions/ms-python.isort-2023.10.1: ms-python.isort
+2023-12-01 16:46:17.115 [info] Renamed to /home/gilang/.vscode/extensions/ms-python.isort-2023.10.1
+2023-12-01 16:46:17.118 [info] Extracting extension completed. ms-python.isort
+2023-12-01 16:46:17.140 [info] Extension installed successfully: ms-python.isort
+2023-12-01 16:46:17.208 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:46:43.239 [info] Extension signature is verified: johnpapa.winteriscoming
+2023-12-01 16:46:43.260 [info] Extension signature is verified: fnando.linter
+2023-12-01 16:46:43.369 [info] Extracted extension to file:///home/gilang/.vscode/extensions/fnando.linter-0.0.19: fnando.linter
+2023-12-01 16:46:43.372 [info] Extracted extension to file:///home/gilang/.vscode/extensions/johnpapa.winteriscoming-1.4.4: johnpapa.winteriscoming
+2023-12-01 16:46:43.386 [info] Renamed to /home/gilang/.vscode/extensions/fnando.linter-0.0.19
+2023-12-01 16:46:43.389 [info] Extracting extension completed. fnando.linter
+2023-12-01 16:46:43.395 [info] Renamed to /home/gilang/.vscode/extensions/johnpapa.winteriscoming-1.4.4
+2023-12-01 16:46:43.398 [info] Extracting extension completed. johnpapa.winteriscoming
+2023-12-01 16:46:43.412 [info] Extension installed successfully: fnando.linter
+2023-12-01 16:46:43.428 [info] Extension installed successfully: johnpapa.winteriscoming
+2023-12-01 16:47:03.507 [info] Extension signature is verified: sdras.night-owl
+2023-12-01 16:47:03.903 [info] Extracted extension to file:///home/gilang/.vscode/extensions/sdras.night-owl-2.0.1: sdras.night-owl
+2023-12-01 16:47:03.913 [info] Renamed to /home/gilang/.vscode/extensions/sdras.night-owl-2.0.1
+2023-12-01 16:47:03.914 [info] Extracting extension completed. sdras.night-owl
+2023-12-01 16:47:03.929 [info] Extension installed successfully: sdras.night-owl
+2023-12-01 16:47:03.996 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:47:17.957 [info] Extension signature is verified: visualstudioexptteam.intellicode-api-usage-examples
+2023-12-01 16:47:17.985 [info] Extension signature is verified: tabnine.tabnine-vscode
+2023-12-01 16:47:18.121 [info] Extension signature is verified: xdebug.php-debug
+2023-12-01 16:47:18.264 [info] Extracted extension to file:///home/gilang/.vscode/extensions/tabnine.tabnine-vscode-3.41.0: tabnine.tabnine-vscode
+2023-12-01 16:47:18.278 [info] Renamed to /home/gilang/.vscode/extensions/tabnine.tabnine-vscode-3.41.0
+2023-12-01 16:47:18.283 [info] Extracting extension completed. tabnine.tabnine-vscode
+2023-12-01 16:47:18.302 [info] Extension installed successfully: tabnine.tabnine-vscode
+2023-12-01 16:47:18.342 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:47:18.420 [info] Extracted extension to file:///home/gilang/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.8: visualstudioexptteam.intellicode-api-usage-examples
+2023-12-01 16:47:18.432 [info] Renamed to /home/gilang/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.8
+2023-12-01 16:47:18.436 [info] Extracting extension completed. visualstudioexptteam.intellicode-api-usage-examples
+2023-12-01 16:47:18.453 [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples
+2023-12-01 16:47:19.042 [info] Extracted extension to file:///home/gilang/.vscode/extensions/xdebug.php-debug-1.34.0: xdebug.php-debug
+2023-12-01 16:47:19.060 [info] Renamed to /home/gilang/.vscode/extensions/xdebug.php-debug-1.34.0
+2023-12-01 16:47:19.063 [info] Extracting extension completed. xdebug.php-debug
+2023-12-01 16:47:19.080 [info] Extension installed successfully: xdebug.php-debug
+2023-12-01 16:47:19.148 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:47:26.545 [info] Extension signature is verified: liviuschera.noctis
+2023-12-01 16:47:28.799 [info] Extracted extension to file:///home/gilang/.vscode/extensions/liviuschera.noctis-10.43.1: liviuschera.noctis
+2023-12-01 16:47:28.811 [info] Renamed to /home/gilang/.vscode/extensions/liviuschera.noctis-10.43.1
+2023-12-01 16:47:28.814 [info] Extracting extension completed. liviuschera.noctis
+2023-12-01 16:47:28.852 [info] Extension installed successfully: liviuschera.noctis
+2023-12-01 16:47:28.905 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:47:31.766 [info] Extension signature is verified: rajeshwaran.developer-theme-dark
+2023-12-01 16:47:32.315 [info] Extension signature is verified: vscode-icons-team.vscode-icons
+2023-12-01 16:47:34.635 [info] Extracted extension to file:///home/gilang/.vscode/extensions/rajeshwaran.developer-theme-dark-5.0.0: rajeshwaran.developer-theme-dark
+2023-12-01 16:47:34.644 [info] Renamed to /home/gilang/.vscode/extensions/rajeshwaran.developer-theme-dark-5.0.0
+2023-12-01 16:47:34.646 [info] Extracting extension completed. rajeshwaran.developer-theme-dark
+2023-12-01 16:47:34.662 [info] Extension installed successfully: rajeshwaran.developer-theme-dark
+2023-12-01 16:47:34.728 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:47:35.076 [info] Extracted extension to file:///home/gilang/.vscode/extensions/vscode-icons-team.vscode-icons-12.6.0: vscode-icons-team.vscode-icons
+2023-12-01 16:47:35.087 [info] Renamed to /home/gilang/.vscode/extensions/vscode-icons-team.vscode-icons-12.6.0
+2023-12-01 16:47:35.092 [info] Extracting extension completed. vscode-icons-team.vscode-icons
+2023-12-01 16:47:35.113 [info] Extension installed successfully: vscode-icons-team.vscode-icons
+2023-12-01 16:47:35.183 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:49:27.430 [info] Extension signature is verified: esbenp.prettier-vscode
+2023-12-01 16:49:27.548 [info] Extracted extension to file:///home/gilang/.vscode/extensions/esbenp.prettier-vscode-10.1.0: esbenp.prettier-vscode
+2023-12-01 16:49:27.608 [info] Renamed to /home/gilang/.vscode/extensions/esbenp.prettier-vscode-10.1.0
+2023-12-01 16:49:27.617 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-12-01 16:49:27.650 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-12-01 16:49:27.717 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:51:13.016 [info] Extension signature is verified: tomoki1207.pdf
+2023-12-01 16:51:13.469 [info] Extracted extension to file:///home/gilang/.vscode/extensions/tomoki1207.pdf-1.2.2: tomoki1207.pdf
+2023-12-01 16:51:13.481 [info] Renamed to /home/gilang/.vscode/extensions/tomoki1207.pdf-1.2.2
+2023-12-01 16:51:13.483 [info] Extracting extension completed. tomoki1207.pdf
+2023-12-01 16:51:13.498 [info] Extension installed successfully: tomoki1207.pdf
+2023-12-01 16:51:13.569 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:51:50.139 [info] Extension signature is verified: ritwickdey.liveserver
+2023-12-01 16:51:53.732 [info] Extension signature is verified: mongodb.mongodb-vscode
+2023-12-01 16:51:54.312 [info] Extracted extension to file:///home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1: mongodb.mongodb-vscode
+2023-12-01 16:51:54.428 [info] Renamed to /home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1
+2023-12-01 16:51:54.430 [info] Extracting extension completed. mongodb.mongodb-vscode
+2023-12-01 16:51:54.445 [info] Extension installed successfully: mongodb.mongodb-vscode
+2023-12-01 16:51:54.513 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:51:55.600 [info] Extracted extension to file:///home/gilang/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2023-12-01 16:51:55.612 [info] Renamed to /home/gilang/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2023-12-01 16:51:55.613 [info] Extracting extension completed. ritwickdey.liveserver
+2023-12-01 16:51:55.628 [info] Extension installed successfully: ritwickdey.liveserver
+2023-12-01 16:51:55.695 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:51:57.845 [info] Extension signature is verified: donjayamanne.python-environment-manager
+2023-12-01 16:51:58.222 [info] Extracted extension to file:///home/gilang/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4: donjayamanne.python-environment-manager
+2023-12-01 16:51:58.233 [info] Renamed to /home/gilang/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4
+2023-12-01 16:51:58.247 [info] Extracting extension completed. donjayamanne.python-environment-manager
+2023-12-01 16:51:58.264 [info] Extension installed successfully: donjayamanne.python-environment-manager
+2023-12-01 16:51:58.332 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:52:13.742 [info] Extension signature is verified: zobo.php-intellisense
+2023-12-01 16:52:18.602 [info] Extension signature is verified: ms-toolsai.jupyter-renderers
+2023-12-01 16:52:19.208 [info] Extracted extension to file:///home/gilang/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.17: ms-toolsai.jupyter-renderers
+2023-12-01 16:52:19.313 [info] Renamed to /home/gilang/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.17
+2023-12-01 16:52:19.315 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-12-01 16:52:19.366 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-12-01 16:52:19.410 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:52:20.095 [info] Extracted extension to file:///home/gilang/.vscode/extensions/zobo.php-intellisense-1.3.3: zobo.php-intellisense
+2023-12-01 16:52:20.107 [info] Renamed to /home/gilang/.vscode/extensions/zobo.php-intellisense-1.3.3
+2023-12-01 16:52:20.110 [info] Extracting extension completed. zobo.php-intellisense
+2023-12-01 16:52:20.126 [info] Extension installed successfully: zobo.php-intellisense
+2023-12-01 16:52:20.193 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:52:28.913 [info] Extension signature is verified: ms-toolsai.jupyter
+2023-12-01 16:52:29.046 [info] Extension signature is verified: jithurjacob.nbpreviewer
+2023-12-01 16:52:29.789 [info] Extracted extension to file:///home/gilang/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64: ms-toolsai.jupyter
+2023-12-01 16:52:29.812 [info] Renamed to /home/gilang/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64
+2023-12-01 16:52:29.826 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-12-01 16:52:29.867 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-12-01 16:52:29.933 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:52:34.167 [info] Extracted extension to file:///home/gilang/.vscode/extensions/jithurjacob.nbpreviewer-1.2.2: jithurjacob.nbpreviewer
+2023-12-01 16:52:34.267 [info] Renamed to /home/gilang/.vscode/extensions/jithurjacob.nbpreviewer-1.2.2
+2023-12-01 16:52:34.272 [info] Extracting extension completed. jithurjacob.nbpreviewer
+2023-12-01 16:52:34.299 [info] Extension installed successfully: jithurjacob.nbpreviewer
+2023-12-01 16:52:34.365 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:53:43.499 [info] Extension signature is verified: yummygum.city-lights-icon-vsc
+2023-12-01 16:53:44.064 [info] Extracted extension to file:///home/gilang/.vscode/extensions/yummygum.city-lights-icon-vsc-1.1.3: yummygum.city-lights-icon-vsc
+2023-12-01 16:53:44.075 [info] Renamed to /home/gilang/.vscode/extensions/yummygum.city-lights-icon-vsc-1.1.3
+2023-12-01 16:53:44.077 [info] Extracting extension completed. yummygum.city-lights-icon-vsc
+2023-12-01 16:53:44.101 [info] Extension installed successfully: yummygum.city-lights-icon-vsc
+2023-12-01 16:53:44.161 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:54:10.040 [info] Extension signature is verified: blackboxapp.blackbox
+2023-12-01 16:54:16.013 [info] Extension signature is verified: ms-python.python
+2023-12-01 16:54:23.577 [info] Extracted extension to file:///home/gilang/.vscode/extensions/ms-python.python-2023.20.0: ms-python.python
+2023-12-01 16:54:23.631 [info] Renamed to /home/gilang/.vscode/extensions/ms-python.python-2023.20.0
+2023-12-01 16:54:23.642 [info] Extracting extension completed. ms-python.python
+2023-12-01 16:54:23.715 [info] Extension installed successfully: ms-python.python
+2023-12-01 16:54:23.754 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:54:23.959 [info] Extracted extension to file:///home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29: blackboxapp.blackbox
+2023-12-01 16:54:24.011 [info] Renamed to /home/gilang/.vscode/extensions/blackboxapp.blackbox-1.2.29
+2023-12-01 16:54:24.013 [info] Extracting extension completed. blackboxapp.blackbox
+2023-12-01 16:54:24.041 [info] Extension installed successfully: blackboxapp.blackbox
+2023-12-01 16:54:24.104 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:54:27.436 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-12-01 16:54:36.134 [info] Extracted extension to file:///home/gilang/.vscode/extensions/ms-python.vscode-pylance-2023.11.10: ms-python.vscode-pylance
+2023-12-01 16:54:36.229 [info] Renamed to /home/gilang/.vscode/extensions/ms-python.vscode-pylance-2023.11.10
+2023-12-01 16:54:36.233 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-12-01 16:54:36.266 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-12-01 16:54:36.325 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:55:29.911 [info] Extension signature is verified: davidbwaters.macos-modern-theme
+2023-12-01 16:55:30.690 [info] Extracted extension to file:///home/gilang/.vscode/extensions/davidbwaters.macos-modern-theme-2.3.19: davidbwaters.macos-modern-theme
+2023-12-01 16:55:30.721 [info] Renamed to /home/gilang/.vscode/extensions/davidbwaters.macos-modern-theme-2.3.19
+2023-12-01 16:55:30.726 [info] Extracting extension completed. davidbwaters.macos-modern-theme
+2023-12-01 16:55:30.743 [info] Extension installed successfully: davidbwaters.macos-modern-theme
+2023-12-01 16:55:30.815 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:59:17.101 [info] Extension signature is verified: visualstudioexptteam.vscodeintellicode
+2023-12-01 16:59:17.111 [info] Extension signature is verified: ms-vscode.cpptools
+2023-12-01 16:59:21.933 [info] Extracted extension to file:///home/gilang/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.30: visualstudioexptteam.vscodeintellicode
+2023-12-01 16:59:21.992 [info] Renamed to /home/gilang/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.30
+2023-12-01 16:59:21.996 [info] Extracting extension completed. visualstudioexptteam.vscodeintellicode
+2023-12-01 16:59:22.013 [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+2023-12-01 16:59:22.083 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 16:59:23.484 [info] Extracted extension to file:///home/gilang/.vscode/extensions/ms-vscode.cpptools-1.18.5-linux-x64: ms-vscode.cpptools
+2023-12-01 16:59:23.510 [info] Renamed to /home/gilang/.vscode/extensions/ms-vscode.cpptools-1.18.5-linux-x64
+2023-12-01 16:59:23.547 [info] Extracting extension completed. ms-vscode.cpptools
+2023-12-01 16:59:23.610 [info] Extension installed successfully: ms-vscode.cpptools
+2023-12-01 16:59:23.748 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-01 17:31:03.124 [info] Getting Manifest... pkief.material-icon-theme
+2023-12-01 17:31:03.142 [info] Installing extension: pkief.material-icon-theme
+2023-12-01 17:31:12.096 [info] Extension signature is verified: pkief.material-icon-theme
+2023-12-01 17:31:12.957 [info] Extracted extension to file:///home/gilang/.vscode/extensions/pkief.material-icon-theme-4.32.0: pkief.material-icon-theme
+2023-12-01 17:31:13.010 [info] Renamed to /home/gilang/.vscode/extensions/pkief.material-icon-theme-4.32.0
+2023-12-01 17:31:13.019 [info] Extracting extension completed. pkief.material-icon-theme
+2023-12-01 17:31:13.058 [info] Extension installed successfully: pkief.material-icon-theme
+2023-12-01 17:31:13.157 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/gilang/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
