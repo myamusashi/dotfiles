@@ -1,0 +1,25 @@
+#!/bin/bash
+
+wall=$(find $HOME/Pictures/wallpaper/ -type f  -name "wallhaven-*.png" | shuf -n 1)
+
+# swww kill
+swww init
+
+# swww img $wall
+
+# You can also specify outputs:
+# swww img -o wallpaper1 $wall
+
+# Control how smoothly the transition will happen and/or it's frame rate
+# For the step, smaller values = more smooth. Default = 20
+# For the frame rate, default is 30.
+swww img $wall --transition-type wipe --transition-angle 30 --transition-step 60 --transition-fps 60
+
+# There are also many different transition effects:
+# swww img <path/to/img> --transition-type center
+
+# Note you may also control the above by setting up the SWWW_TRANSITION_FPS,
+# SWWW_TRANSITION_STEP, and SWWW_TRANSITION environment variables.
+
+# To see all options, run
+rm -rf $HOME/.cache/swww/

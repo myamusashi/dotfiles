@@ -10,6 +10,7 @@ if [[ "$DIR" == "powermenus" ]]; then
 		lock=""
 		suspend="鈴"
 		logout=""
+    hibernate=""
 	ddir="$HOME/.config/rofi/"
 else
 
@@ -23,6 +24,7 @@ else
 		lock=""
 		suspend="鈴"
 		logout=""
+    hibernate=""
 
 	else
 		shutdown="襤Shutdown"
@@ -30,6 +32,7 @@ else
 		lock=" Lock"
 		suspend="鈴Sleep"
 		logout=" Logout"
+    hibernate=" Hibernate"
 	fi
 	ddir="$HOME/.config/rofi/"
 fi
@@ -49,7 +52,7 @@ show_msg() {
 }
 
 # Variable passed to rofi
-options="$lock\n$suspend\n$logout\n$reboot\n$shutdown"
+options="$lock\n$suspend\n$logout\n$reboot\n$shutdown\n$hibernate"
 
 chosen="$(echo -e "$options" | $rofi_command -p "UP - $uptime" -dmenu -selected-row 0)"
 case $chosen in
@@ -74,7 +77,7 @@ case $chosen in
         fi
         ;;
     $lock)
-        swaylock -c 000000 --ring-color b4befe --ring-ver-color b4befe --key-hl-color 000000 --inside-color b4befe --inside-ver-color b4befe --inside-clear-color a6e3a1 --ring-clear-color a6e3a1 --ring-wrong-color f38ba8 --inside-wrong-color f38ba8 --bs-hl-color f38ba8 --text-caps-lock-color 000000
+        swaylock 
         ;;
     $suspend)
 		ans=$(rdialog &)
@@ -97,6 +100,16 @@ case $chosen in
 			exit
         else
 			show_msg
+        fi
+        ;;
+    $hibernate)
+    ans=$(rdialog &)
+    if [[ $ans == "yes" ]] || [[ $ans == "YES" ]] || [[ $ans == "y" ]]; then
+      systemctl hibernate
+		elif [[ $ans == "no" ]] || [[ $ans == "NO" ]] || [[ $ans == "n" ]]; then
+      exit
+        else
+      show_msg
         fi
         ;;
 esac

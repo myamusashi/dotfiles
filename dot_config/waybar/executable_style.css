@@ -70,39 +70,44 @@
 @define-color rosewater #f4dbd6;
 
 * {
-    border: none;
-    border-radius: 6px;
+    /* border: none; */
+    /* border-radius: 10px; */
     /* `otf-font-awesome` is required to be installed for icons */
-    font-family: "JetBrainsMono Bold", "Roboto Mono Medium", Helvetica, Arial, sans-serif;
+    font-family: "JetBrainsMono Bold";
     /* Recommended font sizes: 720p: ~14px, 1080p: ~18px */
-    font-size: 15px;
+    font-size: 16px;
     min-height: 0;
 }
 
 /* icons start at U+E900 in Jetbrains mono in gucharmap */
 
 window#waybar {
-    background-color: rgba(50, 50, 50, 0.9);
-    background-color: @bgcolor;
+ /*  background-color: rgba(50, 50, 50, 0.9); */  
+  /*  background-color: @bgcolor; */
     /* border-bottom: 0px solid rgba(100, 114, 125, 0.5); */
-    color: #ffffff;
-    transition-property: background-color;
+  background-color: #181926;
+   color: #DADAE8; 
+    transition-property: background-color; 
     transition-duration: .5s;
-    border-radius: 0;
+    /* border-radius: 10px; */
+    opacity: 1;
+}
+
+#waybar {
+  opacity: 0;
 }
 
 window#waybar.hidden {
     opacity: 0.2;
 }
 
-/*
+
 window#waybar.empty {
     background-color: transparent;
 }
 window#waybar.solo {
     background-color: #FFFFFF;
 }
-*/
 
 window#waybar.termite {
     background-color: #3F3F3F;
@@ -114,7 +119,7 @@ window#waybar.chromium {
 }
 
 #workspaces button {
-    padding: 0 0 0 0;
+    padding: 0 0 0 1;
     margin: 4px 0 6px 0;
     color: #ffffff;
     min-width: 36px;
@@ -126,12 +131,12 @@ window#waybar.chromium {
 #workspaces button.active {
     padding: 0 0 0 0;
     margin: 4px 0 6px 0;
-    background-color: #ddddff;
-    color: #000000;
+    /* background-color: #ddddff; */
+    color: #ddddff;
     min-width: 36px;
     /* Use box-shadow instead of border so the text isn't offset */
-/*    box-shadow: inset 0 -3px transparent;*/
-    /* border-radius: 0px; */
+   /* box-shadow: inset 0 -3px transparent; */
+   /*  border-radius: 0px; */
 }
 
 /* https://github.com/Alexays/Waybar/wiki/FAQ#the-workspace-buttons-have-a-strange-hover-effect */
@@ -171,13 +176,7 @@ window#waybar.chromium {
 #custom-pacman,
 #mpd,
 #notification
-#language {
-    padding: 1px 6px 0px 6px;
-    margin: 4px 3px 5px 3px;
-    color: @fgcolor;
-    /* background-color: #bbccdd; */
-    background-color:transparent;
-}
+
 
 #window,
 #workspaces {
@@ -186,25 +185,53 @@ window#waybar.chromium {
 }
 
 /* If workspaces is the leftmost module, omit left margin */
-.modules-left > widget:first-child > #workspaces {
-    margin-left: 0;
-}
+/* .modules-left > widget:first-child > #workspaces { */
+/*     margin-left: 0; */
+/* } */
 
-/* If workspaces is the rightmost module, omit right margin */
-.modules-right > widget:last-child > #workspaces {
-    margin-right: 0;
-}
+/* If workspaces is the rightmost module, omit right margin */ 
+/* .modules-right > widget:last-child > #workspaces { */
+/*     margin-right: 0; */
+/* } */
+
+/* .modules-left, .modules-center, .modules-right { */
+/* 	background: #181926; */
+/*   	border: 0.5px solid @overlay0; */ 
+/* 	padding-top: 2px; */
+/* 	padding-bottom: 2px; */
+/* 	padding-right: 5px; */
+/* 	padding-left: 5px; */
+/* 	border-radius: 20px; */
+/* }  */
+
+/* .modules-left, .modules-right { */
+/*   border: 1px solid @blue; */ 
+/*   background: #181926; */
+/* 	padding-top: 2px; */
+/* 	padding-bottom: 2px; */
+/* 	padding-right: 5px; */
+/* 	padding-left: 5px; */
+/*   border-radius: 20px; */
+/* }  */
+
+/* .modules-center { */
+/*   background: #181926; */
+/*   border-radius: 50px; */
+/* } */
 
 #clock {
+  color: #cad3f5;
+  border-width: 10px;
+  border-radius: 15px;
 }
 
 #battery {
-    color: @accent5;
+    color: #8aadf4;
 }
 
 #battery.charging {
-    color: #ffffff;
-    background-color: #26A65B;
+  color: rgb(166, 218, 149);
+  border-radius: 0;
 } 
 
 @keyframes blink {
@@ -234,12 +261,16 @@ label:focus {
 }
 
 #memory {
-    color: #9b59b6;
+    color: #85c1dc;
     /*background-color: #9b59b6;*/
 }
 
+#disk {
+  color: #ee99a0;
+}
+
 #backlight {
-    color: @accent2;
+    color: #e5c890;
 }
 
 #custom-notification {
@@ -267,14 +298,6 @@ label:focus {
     color: @accent6;
 }
 
-#custom-waylandvsxorg {
-    color: @accent5;
-}
-
-#custom-pacman {
-    color: @accent2;
-}
-
 #custom-media {
     background-color: #66cc99;
     color: #2a5c45;
@@ -282,16 +305,16 @@ label:focus {
 }
 
 #custom-media.custom-spotify {
-    background-color: #a3ffb4 ;
+  border-radius: 10px;
 }
 
 #custom-media.custom-vlc {
     background-color: #ffa000;
+    border-radius: 15px;
 }
 
 #temperature {
     color: @accent6;
-    /* background-color: #f0932b; */
 }
 
 #custom-weather.severe {
@@ -322,6 +345,10 @@ label:focus {
     color: #dbd9d8;
 }
 
+.custom-changewallpaper {
+  color: red;
+}
+
 #bluetooth {
   color: #26e81c;
 }
@@ -335,8 +362,8 @@ label:focus {
 }
 
 #bluetooth.off {
-  background-color: #0a0202;
-  color: white;
+  color: #d20f39;
+  color: #cad3f5;
 }
 
 #bluetooth.connected {
@@ -344,11 +371,14 @@ label:focus {
 }
 
 #temperature.critical {
-    background-color: @critical;
+    color: @critical;
 }
 
 #tray {
-    background-color: #505050; 
+  border-color: #4c4f69;
+  border-style: solid;
+  border-radius: 7px;
+  border-width: 5px;
 }
 
 #idle_inhibitor {
@@ -360,40 +390,22 @@ label:focus {
     color: #2d3436;
 }
 
-#mpd {
-    background-color: #66cc99;
-    color: #2a5c45;
+
+#keyboard-state {
+  background: transparent;
 }
 
-#mpd.disconnected {
-    background-color: #f53c3c;
+#keyboard-state label.numlock {
+  color: #43eb34;
 }
-
-#mpd.stopped {
-    background-color: #90b1b1;
+#keyboard-state label.numlock.locked {
+  color: #eb3434
 }
-
-#mpd.paused {
-    background-color: #51a37a;
+#keyboard-state label.capslock {
+  color: #43eb34;
 }
-
-keyboard-state > label {
-    background: rgba(0, 0, 0, 0.2);
-}
-
-#custom-language {
-    /* background: #bbccdd;
-    color: #333333;
-    padding: 0 5px;
-    margin: 4px 3px 6px 3px; */
-    color: @accent5;
-    min-width: 16px;
-}
-
-#custom-separator {
-    color: #606060;
-    margin: 0 1px;
-    padding-bottom: 5px;
+#keyboard-state label.capslock.locked {
+  color: #eb3434;
 }
 
 .custom-spotify {
@@ -408,4 +420,5 @@ keyboard-state > label {
     margin: 4px 0 6px 0;
     min-width: 36px;
     font-size: 22px;
+    color: #2770e6;
 }
