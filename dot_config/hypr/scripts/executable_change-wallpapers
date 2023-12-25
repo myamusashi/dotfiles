@@ -1,6 +1,6 @@
 #!/bin/bash
 
-wall=$(find $HOME/Pictures/wallpaper/ -type f  -name "wallhaven-*.png" | shuf -n 1)
+wall=$(find $HOME/Pictures/wallpaper/ -type f  -name "*.png" | shuf -n 1)
 
 # swww kill
 swww init
@@ -13,7 +13,8 @@ swww init
 # Control how smoothly the transition will happen and/or it's frame rate
 # For the step, smaller values = more smooth. Default = 20
 # For the frame rate, default is 30.
-swww img $wall --transition-type wipe --transition-angle 30 --transition-step 60 --transition-fps 60
+swww img $wall --outputs "eDP-1" --transition-bezier 1,.01,0,1.05 --transition-duration 2.1 --transition-type grow  --transition-step 255 --transition-pos top-right --transition-fps 60
+swww img $wall --outputs "HDMI-A-2" --transition-bezier 1,.01,0,1.05 --transition-duration 2.1 --transition-type grow  --transition-step 255 --transition-pos top-right --transition-fps 60
 
 # There are also many different transition effects:
 # swww img <path/to/img> --transition-type center

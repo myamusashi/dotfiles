@@ -64,7 +64,7 @@
     frame_width = 3
 
     # Defines color of the frame around the notification window.
-    frame_color = "#aaaaaa"
+    frame_color = "#8AADF4"
 
     # Define a color for the separator.
     # possible values are:
@@ -72,7 +72,7 @@
     #  * foreground: use the same color as the foreground;
     #  * frame: use the same color as the frame;
     #  * anything else will be interpreted as a X color.
-    separator_color = auto
+    separator_color = frame
 
     # Sort messages by urgency.
     sort = yes
@@ -274,26 +274,26 @@
 [urgency_low]
     # IMPORTANT: colors have to be defined in quotation marks.
     # Otherwise the "#" and following would be interpreted as a comment.
-    background = "#2b2b2b"
-    foreground = "#ffffff"
+    background = "#24273A"
+    foreground = "#CAD3F5"
     timeout = 5
     # Icon for notifications with low urgency, uncomment to enable
-    icon = /home/brodie/.config/dunst/normal.png
+    icon = /home/gilang/.config/dunst/normal.png
 
 [urgency_normal]
-    background = "#2b2b2b"
-    foreground = "#ffffff"
+    background = "#24273A"
+    foreground = "#CAD3F5"
     timeout = 5
     # Icon for notifications with normal urgency, uncomment to enable
-    icon = /home/brodie/.config/dunst/normal.png
+    icon = /home/gilang/.config/dunst/normal.png
 
 [urgency_critical]
-    background = "#900000"
-    foreground = "#ffffff"
-    frame_color = "#ff0000"
+    background = "#24273A"
+    foreground = "#CAD3F5"
+    frame_color = "#F5A97F"
     timeout = 5
     # Icon for notifications with critical urgency, uncomment to enable
-    icon = /home/brodie/.config/dunst/critical.png
+    icon = /home/gilang/.config/dunst/critical.png
 
 # Every section that isn't one of the above is interpreted as a rules to
 # override settings for certain messages.
