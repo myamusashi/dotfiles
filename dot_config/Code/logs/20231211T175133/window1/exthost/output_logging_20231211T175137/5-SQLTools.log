@@ -1,0 +1,53 @@
+[1702291902414] INFO  (ext): SQLTools is starting
+[1702291902419] INFO  (ext): initializing language client...
+[1702291902428] INFO  (ext): Registering client for languages [{"scheme":"sqltools"},{"language":"sql","scheme":"untitled"},{"language":"sql","scheme":"file"},{"language":"sql","scheme":"sqltools"}]
+    ns: "lc"
+[1702291902431] INFO  (ext): loading plugins...
+[1702291902431] INFO  (ext): registering Formatter Plugin.
+    plugin: {
+      "name": "Formatter Plugin"
+    }
+[1702291902432] INFO  (ext): registering Connection Manager Plugin.
+    plugin: {
+      "name": "Connection Manager Plugin"
+    }
+[1702291902432] INFO  (ext): registering CodeLens Plugin.
+    plugin: {
+      "name": "CodeLens Plugin",
+      "registeredLanguages": []
+    }
+[1702291902434] INFO  (ext): registering Dependency Manager Plugin.
+    plugin: {
+      "name": "Dependency Manager Plugin",
+      "installingDrivers": []
+    }
+[1702291902441] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1702291902442] INFO  (ext): registering History Manager Plugin.
+    plugin: {
+      "name": "History Manager Plugin"
+    }
+[1702291902443] INFO  (ext): registering Bookmarks Manager Plugin.
+    plugin: {
+      "name": "Bookmarks Manager Plugin"
+    }
+[1702291902448] INFO  (ext): registering Authentication Provider Plugin.
+    plugin: {
+      "name": "Authentication Provider Plugin",
+      "isRegistered": false
+    }
+[1702291902448] INFO  (ext): registering Object Drop-in Provider (plugin).
+    plugin: {
+      "type": "plugin",
+      "name": "Object Drop-in Provider",
+      "isRegistered": false
+    }
+[1702291902450] INFO  (ext): SQLTools activation completed. 36.092917 ms
+[1702291902450] INFO  (ext): Formatter Plugin registered!
+[1702291902450] INFO  (ext): CodeLens Plugin registered!
+[1702291902450] INFO  (ext): Dependency Manager Plugin registered!
+[1702291902452] INFO  (ext): Connection Manager Plugin registered!
+[1702291902452] INFO  (ext): History Manager Plugin registered!
+[1702291902452] INFO  (ext): Bookmarks Manager Plugin registered!
+[1702291902452] INFO  (ext): Authentication Provider Plugin registered!
+[1702291902452] INFO  (ext): Object Drop-in Provider (plugin) registered!

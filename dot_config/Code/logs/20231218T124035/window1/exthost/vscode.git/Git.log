@@ -1,0 +1,27 @@
+2023-12-18 12:40:52.443 [info] Log level: Info
+2023-12-18 12:40:52.443 [info] Validating found git in: "git"
+2023-12-18 12:40:52.443 [info] Using git "2.43.0" from "git"
+2023-12-18 12:40:52.443 [info] > git rev-parse --show-toplevel [52ms]
+2023-12-18 12:40:52.443 [info] > git rev-parse --git-dir --git-common-dir [31ms]
+2023-12-18 12:40:52.443 [info] Open repository: /home/gilang/Project/portofolio
+2023-12-18 12:40:52.443 [info] > git rev-parse --show-toplevel [58ms]
+2023-12-18 12:40:52.443 [info] > git config --get commit.template [95ms]
+2023-12-18 12:40:52.443 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [64ms]
+2023-12-18 12:40:52.443 [info] > git rev-parse --show-toplevel [132ms]
+2023-12-18 12:40:52.443 [info] > git status -z -uall [84ms]
+2023-12-18 12:40:52.443 [info] > git rev-parse --show-toplevel [114ms]
+2023-12-18 12:40:52.443 [info] > git config --get commit.template [1239ms]
+2023-12-18 12:40:52.443 [info] > git fetch [1745ms]
+2023-12-18 12:40:52.475 [info] > git rev-parse --show-toplevel [823ms]
+2023-12-18 12:40:53.819 [info] > git check-ignore -v -z --stdin [237ms]
+2023-12-18 12:40:54.096 [info] > git config --get commit.template [1622ms]
+2023-12-18 12:40:54.410 [info] > git rev-parse --show-toplevel [618ms]
+2023-12-18 12:40:54.574 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [862ms]
+2023-12-18 12:40:54.711 [info] > git show --textconv :index.html [256ms]
+2023-12-18 12:40:54.711 [info] > git show --textconv :css/styles.css [180ms]
+2023-12-18 12:40:54.712 [info] > git ls-files --stage -- /home/gilang/Project/portofolio/css/styles.css [140ms]
+2023-12-18 12:40:54.750 [info] > git ls-files --stage -- /home/gilang/Project/portofolio/index.html [256ms]
+2023-12-18 12:40:54.896 [info] > git cat-file -s fb04bf16def6debfa0933ffca6e83b09cf19b5d2 [122ms]
+2023-12-18 12:40:54.909 [info] > git cat-file -s 1e46d43c366b0b644a7fbfb07de7dd27f2477492 [172ms]
+2023-12-18 12:40:54.910 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [214ms]
+2023-12-18 12:40:55.011 [info] > git status -z -uall [61ms]

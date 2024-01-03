@@ -1,6 +1,6 @@
 lvim.format_on_save = true
 
-lvim.colorscheme = "aurora"
+lvim.colorscheme = "catppuccin"
 vim.o.background = "dark"
 
 vim.opt.number = true
@@ -15,6 +15,8 @@ lvim.use_icons = false
 vim.opt.guifont = "Hack Nerd Font Mono:h10"
 lvim.use_icons = true
 vim.opt.termguicolors = true
+vim.o.autoindent = true
+vim.o.shiftwidth = 4
 
 -- Fold
 vim.o.foldcolumn = '1'

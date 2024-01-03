@@ -1,0 +1,144 @@
+2023-12-18 12:40:40.227 [info] Extension host with pid 10901 started
+2023-12-18 12:40:40.228 [info] Skipping acquiring lock for /home/gilang/.config/Code/User/workspaceStorage/f190336d1f188f5f0a061f770c2e1191.
+2023-12-18 12:40:40.969 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onLanguage:plaintext'
+2023-12-18 12:40:44.376 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-18 12:40:44.421 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-12-18 12:40:44.639 [info] ExtensionService#_doActivateExtension mohd-akram.vscode-html-format, startup: false, activationEvent: 'onLanguage:html'
+2023-12-18 12:40:44.685 [info] ExtensionService#_doActivateExtension ms-edgedevtools.vscode-edge-devtools, startup: false, activationEvent: 'onLanguage:html'
+2023-12-18 12:40:44.892 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-12-18 12:40:45.458 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-18 12:40:45.475 [info] ExtensionService#_doActivateExtension Blackboxapp.blackbox, startup: true, activationEvent: '*'
+2023-12-18 12:40:46.751 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-12-18 12:40:46.849 [info] ExtensionService#_doActivateExtension isudox.vscode-jetbrains-keybindings, startup: true, activationEvent: '*'
+2023-12-18 12:40:46.861 [info] ExtensionService#_doActivateExtension mtxr.sqltools, startup: true, activationEvent: '*'
+2023-12-18 12:40:46.946 [info] ExtensionService#_doActivateExtension Yummygum.city-lights-icon-vsc, startup: true, activationEvent: '*'
+2023-12-18 12:40:48.259 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-18 12:40:48.407 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-18 12:40:48.925 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-12-18 12:40:49.128 [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-mysql, startup: true, activationEvent: '*'
+2023-12-18 12:40:49.783 [info] Eager extensions activated
+2023-12-18 12:40:50.435 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-18 12:40:50.448 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-18 12:40:50.522 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-12-18 12:40:50.757 [info] ExtensionService#_doActivateExtension fnando.linter, startup: false, activationEvent: 'onStartupFinished'
+2023-12-18 12:40:50.796 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2023-12-18 12:40:51.106 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-12-18 12:40:51.175 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-12-18 12:40:51.277 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-12-18 12:40:51.444 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2023-12-18 12:40:55.023 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-18 12:40:55.205 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-18 12:40:57.842 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-18 12:40:57.939 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at h.D [as value] (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1316925)
+	at c.y (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1332842)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1337781)
+	at v.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at v.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at v.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1318937)
+	at v.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-18 12:40:57.942 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at set b [as b] (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/github/dist/extension.js:2:714708)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/github/dist/extension.js:2:715349
+	at h.value (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1408111)
+	at c.y (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1332842)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1337781)
+	at v.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at v.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at v.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1318937)
+	at v.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-18 12:40:58.058 [error] Error: Channel has been closed
+	at s (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2490)
+	at Object.appendLine (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2608)
+	at x.logOutputMessage (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:649380)
+	at x.error (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:649271)
+	at ChildProcess.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:830260)
+	at ChildProcess.emit (node:events:513:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-12-18 12:40:58.425 [error] Error: Channel has been closed
+	at s (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2490)
+	at Object.appendLine (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2608)
+	at Object.log (/home/gilang/.vscode/extensions/tabnine.tabnine-vscode-3.41.0/out/extension.js:17:152023)
+	at Object.debug (/home/gilang/.vscode/extensions/tabnine.tabnine-vscode-3.41.0/out/extension.js:17:152197)
+	at u (/home/gilang/.vscode/extensions/tabnine.tabnine-vscode-3.41.0/out/extension.js:17:5642)
+	at Timeout._onTimeout (/home/gilang/.vscode/extensions/tabnine.tabnine-vscode-3.41.0/out/extension.js:17:5936)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2023-12-18 12:40:58.943 [error] Error: Client is not running
+	at A.sendRequest (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5629631)
+	at t.default.activeConnectionChanged (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5475303)
+	at t.default._activeConnectionChanged (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5397835)
+	at EventEmitter.<anonymous> (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5395962)
+	at EventEmitter.emit (node:events:513:28)
+	at t.default.disconnect (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5358028)
+	at t.default.deactivate (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5492762)
+	at t.default.dispose (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5492697)
+	at o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-12-18 12:40:58.944 [error] Error: Starting server failed
+	at A.$start (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5645469)
+	at async A.sendRequest (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5629717)
+	at async t.default.activeConnectionChanged (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5475284)
+	at async t.default._activeConnectionChanged (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5397798)
+2023-12-18 12:41:02.930 [info] Extension host with pid 10901 exiting with code 0

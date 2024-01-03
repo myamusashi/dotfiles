@@ -1,0 +1,428 @@
+2023-12-11 17:51:37.209 [info] Extension host with pid 32538 started
+2023-12-11 17:51:37.210 [info] Skipping acquiring lock for /home/gilang/.config/Code/User/workspaceStorage/f190336d1f188f5f0a061f770c2e1191.
+2023-12-11 17:51:37.630 [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode, startup: false, activationEvent: 'onLanguage:plaintext'
+2023-12-11 17:51:39.996 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-11 17:51:40.065 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-12-11 17:51:40.135 [info] ExtensionService#_doActivateExtension mohd-akram.vscode-html-format, startup: false, activationEvent: 'onLanguage:html'
+2023-12-11 17:51:40.151 [info] ExtensionService#_doActivateExtension ms-edgedevtools.vscode-edge-devtools, startup: false, activationEvent: 'onLanguage:html'
+2023-12-11 17:51:40.253 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-12-11 17:51:40.655 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-11 17:51:40.672 [info] ExtensionService#_doActivateExtension Blackboxapp.blackbox, startup: true, activationEvent: '*'
+2023-12-11 17:51:41.545 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-12-11 17:51:41.600 [info] ExtensionService#_doActivateExtension isudox.vscode-jetbrains-keybindings, startup: true, activationEvent: '*'
+2023-12-11 17:51:41.612 [info] ExtensionService#_doActivateExtension mtxr.sqltools, startup: true, activationEvent: '*'
+2023-12-11 17:51:41.651 [info] ExtensionService#_doActivateExtension Yummygum.city-lights-icon-vsc, startup: true, activationEvent: '*'
+2023-12-11 17:51:41.969 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-12-11 17:51:42.472 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-11 17:51:42.567 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-11 17:51:43.098 [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-mysql, startup: true, activationEvent: '*'
+2023-12-11 17:51:43.368 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-11 17:51:43.454 [error] Canceled: Canceled
+	at Object.P [as $6] (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at n.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at h.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8028)
+	at o.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-11 17:51:43.454 [error] Canceled: Canceled
+	at Object.P [as $6] (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at n.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at h.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8028)
+	at o.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-11 17:51:43.455 [error] Canceled: Canceled
+	at Object.P [as $6] (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at n.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at h.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8028)
+	at o.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-11 17:51:43.455 [error] Canceled: Canceled
+	at Object.P [as $6] (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at n.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at h.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8028)
+	at o.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-11 17:51:43.456 [error] Canceled: Canceled
+	at Object.P [as $6] (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at n.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at h.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8028)
+	at o.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-11 17:51:43.457 [error] Canceled: Canceled
+	at Object.P [as $6] (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at n.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at h.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8028)
+	at o.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-11 17:51:43.457 [error] Canceled: Canceled
+	at Object.P [as $6] (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at n.dispose (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at h.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8028)
+	at o.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-11 17:51:43.463 [info] Eager extensions activated
+2023-12-11 17:51:43.467 [error] Activating extension vscode.debug-auto-launch failed due to an error:
+2023-12-11 17:51:43.467 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at h.db (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:10098)
+	at Object.actualActivateExtension (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7315)
+	at v.n (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6218)
+	at v.m (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6179)
+	at v.l (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5636)
+	at new v (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5563)
+	at k (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5116)
+	at k.j (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5071)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4038
+	at Array.map (<anonymous>)
+	at k.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4026)
+	at k.activateById (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:3938)
+	at h.$ (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8586)
+	at h.jb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:13373)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:14035
+2023-12-11 17:51:43.468 [error] Activating extension vscode.merge-conflict failed due to an error:
+2023-12-11 17:51:43.468 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at h.db (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:10098)
+	at Object.actualActivateExtension (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7315)
+	at v.n (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6218)
+	at v.m (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6179)
+	at v.l (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5636)
+	at new v (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5563)
+	at k (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5116)
+	at k.j (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5071)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4038
+	at Array.map (<anonymous>)
+	at k.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4026)
+	at k.activateById (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:3938)
+	at h.$ (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8586)
+	at h.jb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:13373)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:14035
+2023-12-11 17:51:43.469 [error] Activating extension esbenp.prettier-vscode failed due to an error:
+2023-12-11 17:51:43.469 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at h.db (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:10098)
+	at Object.actualActivateExtension (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7315)
+	at v.n (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6218)
+	at v.m (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6179)
+	at v.l (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5636)
+	at new v (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5563)
+	at k (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5116)
+	at k.j (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5071)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4038
+	at Array.map (<anonymous>)
+	at k.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4026)
+	at k.activateById (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:3938)
+	at h.$ (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8586)
+	at h.jb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:13373)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:14035
+2023-12-11 17:51:43.472 [error] Activating extension fnando.linter failed due to an error:
+2023-12-11 17:51:43.472 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at h.db (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:10098)
+	at Object.actualActivateExtension (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7315)
+	at v.n (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6218)
+	at v.m (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6179)
+	at v.l (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5636)
+	at new v (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5563)
+	at k (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5116)
+	at k.j (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5071)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4038
+	at Array.map (<anonymous>)
+	at k.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4026)
+	at k.activateById (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:3938)
+	at h.$ (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8586)
+	at h.jb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:13373)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:14035
+2023-12-11 17:51:43.472 [error] Activating extension formulahendry.code-runner failed due to an error:
+2023-12-11 17:51:43.472 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at h.db (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:10098)
+	at Object.actualActivateExtension (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7315)
+	at v.n (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6218)
+	at v.m (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6179)
+	at v.l (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5636)
+	at new v (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5563)
+	at k (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5116)
+	at k.j (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5071)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4038
+	at Array.map (<anonymous>)
+	at k.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4026)
+	at k.activateById (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:3938)
+	at h.$ (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8586)
+	at h.jb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:13373)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:14035
+2023-12-11 17:51:43.473 [error] Activating extension PKief.material-icon-theme failed due to an error:
+2023-12-11 17:51:43.473 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at h.db (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:10098)
+	at Object.actualActivateExtension (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7315)
+	at v.n (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6218)
+	at v.m (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6179)
+	at v.l (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5636)
+	at new v (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5563)
+	at k (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5116)
+	at k.j (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5071)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4038
+	at Array.map (<anonymous>)
+	at k.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4026)
+	at k.activateById (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:3938)
+	at h.$ (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8586)
+	at h.jb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:13373)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:14035
+2023-12-11 17:51:43.474 [error] Activating extension ritwickdey.LiveServer failed due to an error:
+2023-12-11 17:51:43.474 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at h.db (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:10098)
+	at Object.actualActivateExtension (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7315)
+	at v.n (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6218)
+	at v.m (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6179)
+	at v.l (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5636)
+	at new v (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5563)
+	at k (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5116)
+	at k.j (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5071)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4038
+	at Array.map (<anonymous>)
+	at k.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4026)
+	at k.activateById (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:3938)
+	at h.$ (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8586)
+	at h.jb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:13373)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:14035
+2023-12-11 17:51:43.475 [error] Activating extension TabNine.tabnine-vscode failed due to an error:
+2023-12-11 17:51:43.475 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at h.db (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:10098)
+	at Object.actualActivateExtension (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7315)
+	at v.n (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6218)
+	at v.m (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6179)
+	at v.l (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5636)
+	at new v (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5563)
+	at k (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5116)
+	at k.j (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5071)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4038
+	at Array.map (<anonymous>)
+	at k.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4026)
+	at k.activateById (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:3938)
+	at h.$ (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8586)
+	at h.jb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:13373)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:14035
+2023-12-11 17:51:43.479 [error] Activating extension vscode-icons-team.vscode-icons failed due to an error:
+2023-12-11 17:51:43.479 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at h.db (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:10098)
+	at Object.actualActivateExtension (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7315)
+	at v.n (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6218)
+	at v.m (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:6179)
+	at v.l (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5636)
+	at new v (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5563)
+	at k (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5116)
+	at k.j (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:5071)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4038
+	at Array.map (<anonymous>)
+	at k.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:4026)
+	at k.activateById (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:3938)
+	at h.$ (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8586)
+	at h.jb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:13373)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:14035
+2023-12-11 17:51:43.570 [error] Canceled: Canceled
+	at new f (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at g.setState (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1322812)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1324699
+	at <anonymous> setContext undefined
+2023-12-11 17:51:43.624 [error] Error: Channel has been closed
+	at s (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2490)
+	at Object.append (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2566)
+	at Socket.<anonymous> (/home/gilang/.vscode/extensions/mtxr.sqltools-0.28.1/dist/extension.js:1:551091)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-12-11 17:51:43.638 [error] Error: Channel has been closed
+	at s (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2490)
+	at Object.append (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2566)
+	at Socket.<anonymous> (/home/gilang/.vscode/extensions/mtxr.sqltools-0.28.1/dist/extension.js:1:551091)
+	at Socket.emit (node:events:513:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-12-11 17:51:44.480 [error] Error: Client is not running
+	at A.sendRequest (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5629631)
+	at t.default.activeConnectionChanged (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5475303)
+	at t.default._activeConnectionChanged (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5397835)
+	at EventEmitter.<anonymous> (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5395962)
+	at EventEmitter.emit (node:events:513:28)
+	at t.default.disconnect (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5358028)
+	at t.default.deactivate (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5492762)
+	at t.default.dispose (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5492697)
+	at o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-12-11 17:51:44.480 [error] Canceled (FileSystemError): Canceled
+	at y.e (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.createDirectory (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+	at async /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2313
+	at async c.o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:1915)
+2023-12-11 17:51:44.480 [error] Canceled (FileSystemError): Canceled
+	at y.e (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.createDirectory (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+	at async /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2313
+	at async c.o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:1915)
+2023-12-11 17:51:44.480 [error] Canceled (FileSystemError): Canceled
+	at y.e (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.createDirectory (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+	at async /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2313
+	at async c.o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:1915)
+2023-12-11 17:51:44.481 [error] Canceled (FileSystemError): Canceled
+	at y.e (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.createDirectory (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+	at async /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2313
+	at async c.o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:1915)
+2023-12-11 17:51:44.481 [error] Canceled (FileSystemError): Canceled
+	at y.e (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.createDirectory (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+	at async /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2313
+	at async c.o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:1915)
+2023-12-11 17:51:44.481 [error] Canceled (FileSystemError): Canceled
+	at y.e (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.createDirectory (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+	at async /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2313
+	at async c.o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:1915)
+2023-12-11 17:51:44.481 [error] Canceled (FileSystemError): Canceled
+	at y.e (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.createDirectory (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+	at async /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2313
+	at async c.o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:1915)
+2023-12-11 17:51:44.481 [error] Canceled (FileSystemError): Canceled
+	at y.e (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.createDirectory (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+	at async /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2313
+	at async c.o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:1915)
+2023-12-11 17:51:44.481 [error] Canceled (FileSystemError): Canceled
+	at y.e (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.createDirectory (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+	at async /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2313
+	at async c.o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:1915)
+2023-12-11 17:51:44.481 [error] Canceled (FileSystemError): Canceled
+	at y.e (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.createDirectory (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+	at async /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2313
+	at async c.o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:1915)
+2023-12-11 17:51:44.481 [error] Canceled (FileSystemError): Canceled
+	at y.e (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.createDirectory (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+	at async /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2313
+	at async c.o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:1915)
+2023-12-11 17:51:44.481 [error] Canceled (FileSystemError): Canceled
+	at y.e (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.createDirectory (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+	at async /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2313
+	at async c.o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:1915)
+2023-12-11 17:51:44.481 [error] Canceled (FileSystemError): Canceled
+	at y.e (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.createDirectory (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+	at async /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2313
+	at async c.o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:1915)
+2023-12-11 17:51:44.482 [error] Canceled (FileSystemError): Canceled
+	at y.e (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.createDirectory (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+	at async /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2313
+	at async c.o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:1915)
+2023-12-11 17:51:44.482 [error] Canceled (FileSystemError): Canceled
+	at y.e (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:27845)
+	at Object.createDirectory (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:24937)
+	at async /var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2313
+	at async c.o (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:1915)
+2023-12-11 17:51:44.482 [error] Error: Starting server failed
+	at A.$start (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5645469)
+	at async A.sendRequest (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5629717)
+	at async t.default.activeConnectionChanged (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5475284)
+	at async t.default._activeConnectionChanged (/home/gilang/.vscode/extensions/mongodb.mongodb-vscode-1.3.1/dist/extension.js:2:5397798)
+2023-12-11 17:51:44.571 [error] Error: Channel has been closed
+	at n (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2880)
+	at Object.trace (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:3145)
+	at /var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1326011
+	at async Promise.all (index 0)
+	at async g.M (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/extensions/git/dist/main.js:2:1325523)
+	at async Promise.all (index 2)
+2023-12-11 17:51:44.637 [error] Error: Channel has been closed
+	at s (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2490)
+	at Object.append (/var/lib/snapd/snap/code/146/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2566)
+	at Writable.write [as _write] (/home/gilang/.vscode/extensions/mtxr.sqltools-0.28.1/dist/extension.js:1:62908)
+	at writeOrBuffer (node:internal/streams/writable:392:12)
+	at _write (node:internal/streams/writable:333:10)
+	at Writable.write (node:internal/streams/writable:337:10)
+	at Object.write (/home/gilang/.vscode/extensions/mtxr.sqltools-0.28.1/dist/extension.js:1:373885)
+	at [pino.write] (/home/gilang/.vscode/extensions/mtxr.sqltools-0.28.1/dist/extension.js:1:367438)
+	at Pino.LOG [as info] (/home/gilang/.vscode/extensions/mtxr.sqltools-0.28.1/dist/extension.js:1:376687)
+	at SQLToolsLanguageClient.registerBaseNotifications (/home/gilang/.vscode/extensions/mtxr.sqltools-0.28.1/dist/extension.js:1:20089)
+2023-12-11 17:51:44.918 [info] Extension host with pid 32538 exiting with code 0

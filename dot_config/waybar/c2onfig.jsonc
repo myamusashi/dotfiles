@@ -1,264 +1,265 @@
 [
-  {
-    "layer": "bottom",
-    "position": "top",
-    "height": 15,
-    "gtk-layer-shell": true,
-    "modules-left": [
-      "custom/wmname",
-      "hyprland/workspaces",
-      "wlr/workspaces",
-    ],
-    "modules-center": [
-      "clock",
-      "custom/weather"
-    ],
-    "modules-right": [
-      "pulseaudio",
-    ],
-    "hyprland/workspaces": {
-      "all-outputs": true,
-      "format": "{icon}",
-      "format-icons": {
-        "1": "I",
-        "2": "II",
-        "3": "III",
-        "4": "IV",
-        "5": "V",
-        "6": "VI",
-        "7": "VII",
-        "8": "VIII",
-        "9": "IX",
-        "10": "X",
-        "urgent": "",
-        "active": "",
-        "default": ""
-      }
-    },
-    "custom/wmname": {
-      "format": "",
-      "tooltip": false,
-      "on-scroll-down": "/usr/local/bin/hyprctl dispatch workspace m+1",
-      "on-scroll-up": "/usr/local/bin/hyprctl dispatch workspace m-1",
-      "on-click-right": "sh $HOME/.config/rofi/powermenu.sh",
-      "on-click-middle": "bash $HOME/.config/waybar/scripts/wofi"
-    },
-    "wlr/workspaces": {
-      "sort-by-name": true
-    },
-    "clock": {
-      "timezone": "Asia/Jakarta",
-      "format": "{:%H:%M:%S}",
-      "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-      "format-alt": "{:%H:%M:%S %a %Y-%m-%d}",
-      "interval": 1
-    },
-    "custom/weather": {
-      "exec": "python3 ~/.config/waybar/scripts/weather.py",
-      "restart-interval": 100,
-      "return-type": "json",
-      "on-click": "xdg-open https://weather.com/en-IN/weather/today/l/5cf75b1f778e8c154ed0390dd5263691ed4a85fa1ca33d8aa1488c3ada96dc4a"
-    },
-    "pulseaudio": {
-      "format": "{icon}  {volume}%",
-      "format-bluetooth": "{icon}  {volume}%",
-      "format-muted": "",
-      "format-icons": {
-        "headphone": " ",
-        "hands-free": " ",
-        "headset": " ",
-        "phone": "",
-        "portable": "",
-        "car": "",
-        "default": [
-          "",
-          ""
-        ]
-      },
-      "scroll-step": 1,
-      "on-click-right": "pavucontrol",
-      "ignored-sinks": []
-    },
-  },
-  {
-    "height": 15,
-    "name": "bottom",
-    "layer": "top",
-    "margin": "0px 0px 0px 0px",
-    "position": "bottom",
-    "modules-right": [
-      "backlight",
-      "battery",
-      "bluetooth",
-      "custom/change-wallpaper",
-      "network",
-      "tray"
-    ],
-    "modules-center": [
-      "custom/spotify"
-    ],
-    "modules-left": [
-      "keyboard-state",
-      "temperature",
-      "cpu",
-      "memory",
-      "disk"
-    ],
-    "custom/spotify": {
-      "exec": "/usr/bin/python3 /home/gilang/script/mediaplayer.py --player spotify",
-      "format": " {}",
-      "return-type": "json",
-      "on-click": "playerctl play-pause --player spotify",
-      "on-click-right": "playerctl next --player spotify",
-      "on-click-middle": "playerctl previous --player spotify",
-      "on-scroll-up": "~/script/spotifyvolume-control.sh up",
-      "on-scroll-down": "~/script/spotifyvolume-control.sh down",
-      "max-length": 60,
-      "escape": true
-    },
-    "tray": {
-      "icon-size": 21,
-      "spacing": 6
-    },
-    "keyboard-state": {
-      "interval": 1,
-      "numlock": false,
-      "capslock": true,
-      "format": {
-        "capslock": " {icon}"
-      },
-      "format-icons": {
-        "locked": "",
-        "unlocked": ""
-      },
-      "spacing": 6
-    },
-    "cpu": {
-      "format": "{usage}% 󰍛",
-      "interval": 5,
-      "format-alt-click": "click",
-      "format-alt": "{icon0}{icon1}{icon2}{icon3} {usage:>2}% 󰍛",
-      "format-icons": [
-        "▁",
-        "▂",
-        "▃",
-        "▄",
-        "▅",
-        "▆",
-        "▇",
-        "█"
-      ],
-      "on-click-right": "gnome-system-monitor",
-    },
-    "memory": {
-      "interval": 1,
-      "format": "{icon} {percentage}%",
-      "format-alt": "{icon} {used:0.1f}G/{total:0.1f}G",
-      "format-alt-click": "click",
-      "tooltip": true,
-      "tooltip-format": "{used:0.1f}GB/{total:0.1f}G",
-      "on-click-right": "kitty --title btop sh -c 'btop'",
-      "format-icons": [
-        "龍",
-      ]
-    },
-    "temperature": {
-      // "thermal-zone": 2,
-      // "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
-      "critical-threshold": 80,
-      // "format-critical": "{temperatureC}°C {icon}",
-      "format": "{icon}&#8239;{temperatureC}°C",
-      "format-icons": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    },
-    "custom/change-wallpaper": {
-      "on-click-right": "bash $HOME/.config/hypr/scripts/change-wallpapers",
-      "format": "{icon}",
-      "format-icons": "者",
-    },
-    "backlight": {
-      // "device": "acpi_video1",
-      "format": "{icon} {percent}%",
-      "format-icons": [
-        "",
-        "",
-        ""
-      ],
-      "states": {
-        "low": 0,
-        "mid": 50,
-        "high": 75
-      }
-    },
-    "battery": {
-      "states": {
-        "good": 95,
-        "warning": 30,
-        "critical": 15
-      },
-      "format": "{capacity}% {icon}",
-      "format-charging": "{capacity}% {icon}",
-      "format-plugged": "{capacity}% {icon} ",
-      "format-icons": {
-        "default": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+    {
+        "layer": "bottom",
+        "position": "top",
+        "height": 15,
+        "gtk-layer-shell": true,
+        "modules-left": [
+            "custom/wmname",
+            "hyprland/workspaces",
+            "wlr/workspaces",
+            "custom/uptime"
         ],
-        "charging": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+        "modules-center": [
+            "custom/spotify"
         ],
-        "plugged": ""
-      }
+        "modules-right": [
+            "network"
+            // "pulseaudio",
+        ],
+        "hyprland/workspaces": {
+            "all-outputs": true,
+            "format": "{icon}",
+            "format-icons": {
+                "1": "I",
+                "2": "II",
+                "3": "III",
+                "4": "IV",
+                "5": "V",
+                "6": "VI",
+                "7": "VII",
+                "8": "VIII",
+                "9": "IX",
+                "10": "X",
+                "urgent": "",
+                "active": "",
+                "default": ""
+            }
+        },
+        "custom/wmname": {
+            "format": "",
+            "tooltip": false,
+            "on-scroll-down": "/usr/local/bin/hyprctl dispatch workspace m+1",
+            "on-scroll-up": "/usr/local/bin/hyprctl dispatch workspace m-1",
+            "on-click-right": "sh $HOME/.config/rofi/powermenu.sh",
+            "on-click-middle": "bash $HOME/.config/waybar/scripts/wofi"
+        },
+        "wlr/workspaces": {
+            "sort-by-name": true
+        },
+        "custom/spotify": {
+            "exec": "/usr/bin/python3 /home/gilang/script/mediaplayer.py --player spotify",
+            "format": " {}",
+            "return-type": "json",
+            "on-click": "playerctl play-pause --player spotify",
+            "on-click-right": "playerctl next --player spotify",
+            "on-click-middle": "playerctl previous --player spotify",
+            "on-scroll-up": "~/script/spotifyvolume-control.sh up",
+            "on-scroll-down": "~/script/spotifyvolume-control.sh down",
+            "max-length": 100,
+            "escape": true
+        },
+        "network": {
+            // "interface": "wlp2*", // (Optional) To force the use of this interface
+            "format-wifi": "󰤨   ({signalStrength}%)",
+            "format-ethernet": "󱘖 ",
+            "tooltip-format": "󱘖  {ipaddr}",
+            "format-linked": "󱘖  {ifname} (No IP)",
+            "format-disconnected": " ",
+            "format-alt": "  {bandwidthUpBytes}   {bandwidthDownBytes}",
+            "on-click-right": "nm-connection-editor",
+            "interval": 5
+        },
+        "pulseaudio": {
+            "format": "{icon}  {volume}%",
+            "format-bluetooth": "{icon}  {volume}%",
+            "format-muted": "",
+            "format-icons": {
+                "headphone": " ",
+                "hands-free": " ",
+                "headset": " ",
+                "phone": "",
+                "portable": "",
+                "car": "",
+                "default": [
+                    "",
+                    ""
+                ]
+            },
+            "scroll-step": 1,
+            "on-click-right": "pavucontrol",
+            "ignored-sinks": []
+        },
     },
-    "battery#bat2": {
-      "bat": "BAT2"
-    },
-    "network": {
-      // "interface": "wlp2*", // (Optional) To force the use of this interface
-      "format-wifi": "󰤨   ({signalStrength}%)",
-      "format-ethernet": "󱘖 ",
-      "tooltip-format": "󱘖  {ipaddr}",
-      "format-linked": "󱘖  {ifname} (No IP)",
-      "format-disconnected": " ",
-      "format-alt": "  {bandwidthUpBytes}   {bandwidthDownBytes}",
-      "on-click-right": "nm-connection-editor",
-      "interval": 5
-    },
-    "bluetooth": {
-      "format": " {status}",
-      "format-alt": " connected {device_alias} - {device_battery_percentage}%",
-      "format-disable": "",
-      "format-connected": " {num_connections} connected",
-      "tooltip-format": "{controller_alias}\t{controller_address}",
-      "tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{device_enumerate}",
-      "format-connected-battery": " connect - {device_battery_percentage}%",
-      "tooltip-format-enumerate-connected": "{device_alias}\t{device_address}"
-    },
-    "disk": {
-      "interval": 1,
-      //"format": "󰋊",
-      "path": "/",
-      //"format-alt-click": "click",
-      "format": "{percentage_used}% 󰋊",
-      //"tooltip": true,
-      "tooltip-format": "{used} used out of {total} on {path} ({percentage_used}%)",
-    },
-  }
+    {
+        "height": 15,
+        "name": "bottom",
+        "layer": "top",
+        "margin": "0px 0px 0px 0px",
+        "position": "bottom",
+        "modules-right": [
+            "backlight",
+            "battery",
+            "bluetooth",
+            "custom/change-wallpaper",
+            "tray"
+        ],
+        "modules-center": [
+            "clock",
+            "custom/weather"
+        ],
+        "modules-left": [
+            "keyboard-state",
+            "temperature",
+            "cpu",
+            "memory",
+            "disk"
+        ],
+        "tray": {
+            "icon-size": 21,
+            "spacing": 6
+        },
+        "keyboard-state": {
+            "interval": 1,
+            "numlock": false,
+            "capslock": true,
+            "format": {
+                "capslock": " {icon}"
+            },
+            "format-icons": {
+                "locked": "",
+                "unlocked": ""
+            },
+            "spacing": 6
+        },
+        "cpu": {
+            "format": "{usage}% 󰍛",
+            "interval": 5,
+            "format-alt-click": "click",
+            "format-alt": "{icon0}{icon1}{icon2}{icon3} {usage:>2}% 󰍛",
+            "format-icons": [
+                "▁",
+                "▂",
+                "▃",
+                "▄",
+                "▅",
+                "▆",
+                "▇",
+                "█"
+            ],
+            "on-click-right": "gnome-system-monitor",
+        },
+        "memory": {
+            "interval": 5,
+            "format": "{icon}  {percentage}%",
+            "format-alt": "{icon}  {used:0.1f}G/{total:0.1f}G",
+            "format-alt-click": "click",
+            "tooltip": true,
+            "tooltip-format": "{used:0.1f}GB/{total:0.1f}G",
+            "on-click-right": "kitty --title btop sh -c 'btop'",
+            "format-icons": [
+                "",
+            ]
+        },
+        "custom/weather": {
+            "exec": "python3 ~/.config/waybar/scripts/weather.py",
+            "restart-interval": 100,
+            "return-type": "json",
+            "on-click": "xdg-open https://weather.com/en-IN/weather/today/l/5cf75b1f778e8c154ed0390dd5263691ed4a85fa1ca33d8aa1488c3ada96dc4a"
+        },
+        "clock": {
+            "timezone": "Asia/Jakarta",
+            "format": "{:%H:%M:%S}",
+            "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+            "format-alt": "{:%H:%M:%S %a %Y-%m-%d}",
+            "interval": 1
+        },
+        "temperature": {
+            // "thermal-zone": 2,
+            // "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
+            "critical-threshold": 80,
+            // "format-critical": "{temperatureC}°C {icon}",
+            "format": "{icon}&#8239;{temperatureC}°C",
+            "format-icons": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "custom/change-wallpaper": {
+            "on-click-right": "bash $HOME/.config/hypr/scripts/change-wallpapers",
+            "format": "{icon}",
+            "format-icons": "者",
+        },
+        "backlight": {
+            // "device": "acpi_video1",
+            "format": "{icon} {percent}%",
+            "format-icons": [
+                "",
+                "",
+                ""
+            ],
+            "states": {
+                "low": 0,
+                "mid": 50,
+                "high": 75
+            }
+        },
+        "battery": {
+            "states": {
+                "good": 95,
+                "warning": 30,
+                "critical": 15
+            },
+            "format": "{capacity}% {icon}",
+            "format-charging": "{capacity}% {icon}",
+            "format-plugged": "{capacity}% {icon} ",
+            "format-icons": {
+                "default": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "charging": [
+                    "ﴆ ",
+                    "ﴇ ",
+                    "ﴈ ",
+                    "ﴉ ",
+                    "ﴋ ",
+                    "ﴍ ",
+                    "ﴅ "
+                ],
+                "plugged": ""
+            }
+        },
+        "battery#bat2": {
+            "bat": "BAT2"
+        },
+        "bluetooth": {
+            "format": " {status}",
+            "format-alt": " connected {device_alias} - {device_battery_percentage}%",
+            "format-disable": "",
+            "format-connected": " {num_connections} connected",
+            "tooltip-format": "{controller_alias}\t{controller_address}",
+            "tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{device_enumerate}",
+            "format-connected-battery": " connect - {device_battery_percentage}%",
+            "tooltip-format-enumerate-connected": "{device_alias}\t{device_address}"
+        },
+        "disk": {
+            "interval": 1,
+            //"format": "󰋊",
+            "path": "/",
+            //"format-alt-click": "click",
+            "format": "{percentage_used}% 󰋊",
+            //"tooltip": true,
+            "tooltip-format": "{used} used out of {total} on {path} ({percentage_used}%)",
+        },
+    }
 ]

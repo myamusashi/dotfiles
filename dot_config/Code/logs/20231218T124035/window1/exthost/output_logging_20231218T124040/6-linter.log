@@ -1,0 +1,173 @@
+available linters: [
+  "brakeman",
+  "cargo-clippy",
+  "credo",
+  "dart",
+  "erb_lint",
+  "eslint",
+  "gherkin-lint",
+  "hadolint",
+  "language-tool",
+  "luacheck",
+  "markdownlint",
+  "php-code-sniffer",
+  "proselint",
+  "pylint",
+  "reek",
+  "rubocop",
+  "ruby",
+  "shellcheck",
+  "sqlfluff",
+  "stylelint",
+  "swiftlint",
+  "textlint",
+  "vale",
+  "yamllint"
+]
+onchange delay: 300
+Language id: css
+Matching linters: [
+  "stylelint"
+]
+Reading from cache? false
+running linters on change is enabled
+Linter config: {
+  "capabilities": [
+    "fix-all"
+  ],
+  "command": [
+    "stylelint",
+    "--formatter",
+    "json",
+    [
+      "$fixAll",
+      "--fix"
+    ],
+    [
+      "$config",
+      "--config",
+      "$config"
+    ],
+    "--stdin-filename",
+    "$file",
+    "--stdin"
+  ],
+  "configFiles": [
+    "stylelint.config.js",
+    ".stylelintrc.json",
+    ".stylelintrc.yml",
+    ".stylelintrc.yaml",
+    ".stylelintrc.js"
+  ],
+  "enabled": true,
+  "languages": [
+    "css",
+    "css-in-js",
+    "html",
+    "less",
+    "markdown",
+    "sass",
+    "scss",
+    "sugarss"
+  ],
+  "name": "stylelint",
+  "url": "https://stylelint.io"
+}
+Args: {
+  "$rootDir": "/home/gilang/Project/portofolio",
+  "$file": "/home/gilang/Project/portofolio/css/styles.css",
+  "$extension": ".css",
+  "$extensionBare": "css",
+  "$config": "",
+  "$debug": false,
+  "$lint": true,
+  "$language": "css",
+  "$shebang": ""
+}
+{
+  "rootDir": "/home/gilang/Project/portofolio",
+  "configFile": "",
+  "command": [
+    "stylelint",
+    "--formatter",
+    "json",
+    "--stdin-filename",
+    "/home/gilang/Project/portofolio/css/styles.css",
+    "--stdin"
+  ]
+}
+Searched for any of stylelint; couldn't be found within $PATH: [
+  "/home/gilang/clone/fzf/bin",
+  "/usr/local/sbin",
+  "/usr/local/bin",
+  "/usr/bin",
+  "/usr/bin/site_perl",
+  "/usr/bin/vendor_perl",
+  "/usr/bin/core_perl",
+  "/var/lib/snapd/snap/bin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/clone/fzf/bin",
+  "/home/gilang/.local/bin",
+  "/usr/local/sbin",
+  "/home/gilang/.local/bin",
+  "/usr/local/bin",
+  "/home/gilang/.local/bin",
+  "/usr/bin",
+  "/home/gilang/.local/bin",
+  "/usr/bin/site_perl",
+  "/home/gilang/.local/bin",
+  "/usr/bin/vendor_perl",
+  "/home/gilang/.local/bin",
+  "/usr/bin/core_perl",
+  "/home/gilang/.local/bin",
+  "/var/lib/snapd/snap/bin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/clone/fzf/bin",
+  "/home/gilang/.local/bin",
+  "/usr/local/sbin",
+  "/home/gilang/.local/bin",
+  "/usr/local/bin",
+  "/home/gilang/.local/bin",
+  "/usr/bin",
+  "/home/gilang/.local/bin",
+  "/usr/bin/site_perl",
+  "/home/gilang/.local/bin",
+  "/usr/bin/vendor_perl",
+  "/home/gilang/.local/bin",
+  "/usr/bin/core_perl",
+  "/home/gilang/.local/bin",
+  "/var/lib/snapd/snap/bin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/clone/fzf/bin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/usr/local/sbin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/usr/local/bin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/usr/bin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/usr/bin/site_perl",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/usr/bin/vendor_perl",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/usr/bin/core_perl",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/home/gilang/.local/bin",
+  "/var/lib/snapd/snap/bin"
+]
+stylelint's command took 35ms

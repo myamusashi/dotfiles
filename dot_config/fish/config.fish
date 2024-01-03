@@ -1,5 +1,5 @@
 clear
-neofetch
+rxfetch
 
 # Shortcut
 alias update="sudo pacman -Syu"
@@ -10,8 +10,10 @@ set --erase fish_greeting
 set -x PATH $PATH $HOME/.local/bin:$PATH
 set -x EDITOR 'lvim'
 set -x OPENER 'rifle'
-set -x OPENAI_API_KEY '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'
+set -x OPENAI_API_KEY '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'
 set -x GTK_THEME 'Catppuccin-Frappe-Standard-Lavender-dark:dark'
+set -x GDK_BACKEND wayland
+set -x QT_QPA_PLATFORM wayland-egl
 
 function fish_greeting                                                 
    

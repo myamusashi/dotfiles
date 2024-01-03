@@ -1,0 +1,10 @@
+12:40:54 GMT+0700 (Western Indonesia Time) [INFO]: spawning binary with command: /home/gilang/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.53.0/x86_64-unknown-linux-musl/TabNine args: --print-version 
+
+12:40:54 GMT+0700 (Western Indonesia Time) [INFO]: spawning binary with command: /home/gilang/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.53.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.84.2 pluginVersion=3.41.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=MacOS Modern Dark - Xcode Modern vscode-theme-kind=Dark vscode-machine-id=c2d314aa9dbfc6792cf09ef060743aaaa9a0f50e59a72d039f9344eabbbb7a22 vscode-is-new-app-install=false vscode-session-id=eaac78ef-90e3-4527-afd3-9e6e0b90350d1702878037547 vscode-language=en vscode-app-name=Visual Studio Code vscode-beta-channel-enabled=false vscode-status-customization=unknown vscode-inline-api-enabled=true vscode-code-lens-enabled=true ide-restart-counter=0 
+
+12:40:55 GMT+0700 (Western Indonesia Time) [DEBUG]: capabilities resolved immediately 
+
+12:40:56 GMT+0700 (Western Indonesia Time) [ERROR]: validating /home/gilang/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.53.0/x86_64-unknown-linux-musl/TabNine timeout 
+
+12:40:57 GMT+0700 (Western Indonesia Time) [WARN]: assistant is closing 
+

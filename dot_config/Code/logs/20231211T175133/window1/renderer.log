@@ -1,0 +1,12 @@
+2023-12-11 17:51:35.338 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-11 17:51:36.546 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by Blackbox AI Code Generation, Code Chat, Code Search (Blackboxapp.blackbox)
+2023-12-11 17:51:40.221 [error] [Extension Host] (node:32538) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-12-11 17:51:40.479 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-11 17:51:40.480 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-11 17:51:40.480 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-11 17:51:40.480 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-11 17:51:40.481 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-11 17:51:40.483 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-11 17:51:40.484 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-12-11 17:51:40.484 [error] [Extension Host] Failed to load message bundle for file /home/gilang/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
