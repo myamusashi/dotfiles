@@ -1,5 +1,10 @@
 install packages
-sudo pacman -S --needed $(comm -12 <(pacman -Slq | sort) <(sort install.txt)) (using bash shell)
+<p>
+  sudo pacman -S --needed $(comm -12 <(pacman -Slq | sort) <(sort install.txt)) (using bash shell)
+</p>
+
 
 install aur packages
-yay -S --needed - < aur.txt
+<p>
+  yay -S --needed - < aur.txt
+</p>
