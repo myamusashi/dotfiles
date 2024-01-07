@@ -70,45 +70,31 @@
 @define-color rosewater #f4dbd6;
 
 * {
-    /* border: none; */
-    /* border-radius: 10px; */
-    /* `otf-font-awesome` is required to be installed for icons */
+    all: unset;
     font-family: "JetBrainsMono Bold";
-    /* Recommended font sizes: 720p: ~14px, 1080p: ~18px */
     font-size: 16px;
     min-height: 0;
     margin-right: 6px;
     margin-left: 6px;
 }
 
-/* icons start at U+E900 in Jetbrains mono in gucharmap */
-
 window#waybar {
- /*  background-color: rgba(50, 50, 50, 0.9); */  
-  /*  background-color: @bgcolor; */
-    /* border-bottom: 0px solid rgba(100, 114, 125, 0.5); */
-  background-color: #181926;
-   color: #DADAE8; 
+    background-color: #181926;
     transition-property: background-color; 
     transition-duration: .5s;
-    /* border-radius: 10px; */
     opacity: 1;
 }
 
 #waybar {
-  opacity: 0;
+    opacity: 0;
 }
 
 window#waybar.hidden {
     opacity: 0.2;
 }
 
-
 window#waybar.empty {
-    background-color: transparent;
-}
-window#waybar.solo {
-    background-color: #FFFFFF;
+    background-color: #181926;
 }
 
 window#waybar.termite {
@@ -120,46 +106,44 @@ window#waybar.chromium {
     border: none;
 }
 
+#workspaces {
+    background-color: #313244;
+}
+
 #workspaces button {
-    padding: 0 0 0 1;
-    margin: 4px 0 6px 0;
-    color: #ffffff;
-    min-width: 40px;
-    /* Use box-shadow instead of border so the text isn't offset */
-/*     box-shadow: inset 0 -3px transparent; */
-    /* border-radius: 2rem;  */
+    color: #9399b2;
+    padding: 0 0.5em;
+    margin: 0.15em;
 }
 
 #workspaces button.active {
-    padding: 0 0 0 0;
-    margin: 4px 0 6px 0;
-    /* background-color: #ddddff; */
-    color: #ddddff;
-    min-width: 36px;
-    /* Use box-shadow instead of border so the text isn't offset */
-   /* box-shadow: inset 0 -3px transparent; */
-   /*  border-radius: 0px; */
+    color: #89b4fa;
+    min-width: 24px;
 }
 
-/* https://github.com/Alexays/Waybar/wiki/FAQ#the-workspace-buttons-have-a-strange-hover-effect */
 #workspaces button:hover {
-    background: rgba(0, 0, 0, 0.2);
-    /* box-shadow: inset 0 -3px #ffffff; */
+    color: #f38ba8;
+}
+
+#workspaces button.empty {
+    color: #6e738d;
 }
 
 #workspaces button.focused {
-    background-color: #bbccdd;
     color: #323232;
-    /* box-shadow: inset 0 -3px #ffffff; */
 }
 
 #workspaces button.urgent {
     background-color: #eb4d4b;
+    border-radius: 50px;
+}
+
+#window {
+    color: #fab387;
 }
 
 #mode {
     background-color: #64727D;
-    border-bottom: 3px solid #ffffff;
 }
 
 #clock,
@@ -170,10 +154,6 @@ window#waybar.chromium {
 #backlight,
 #network,
 #pulseaudio,
-#custom-media,
-#tray,
-#mode,
-#idle_inhibitor,
 #custom-power,
 #custom-pacman,
 #mpd,
@@ -347,10 +327,6 @@ label:focus {
     color: #dbd9d8;
 }
 
-.custom-changewallpaper {
-  color: red;
-}
-
 #bluetooth {
   color: #26e81c;
 }
@@ -381,7 +357,7 @@ label:focus {
   border-style: solid;
   border-radius: 6px;
   border-width: 2px;
-  background-color: #4c4f69;
+  background-color: #414559;
 }
 
 #idle_inhibitor {
@@ -418,12 +394,23 @@ label:focus {
     color: #191414;
 }
 
+@keyframes color-change-icon {
+    0%   {color:#313244;}
+    25%  {color:#45475a;}
+    50%  {color:#585b70;}
+    75%  {color:#6c7086;}
+    100% {color:#555555;}
+}
+
 #custom-wmname {
     padding: 0 0 0 0;
     margin: 4px 0 6px 0;
     min-width: 36px;
     font-size: 22px;
-    color: #2770e6;
+    animation: color-change-icon;
+    animation-duration: 5s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
 }
 
 #pulseaudio-slider slider, #pulseaudio-slider trough {

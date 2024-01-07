@@ -8,7 +8,7 @@
             "custom/wmname",
             "hyprland/workspaces",
             "wlr/workspaces",
-            "custom/uptime"
+            "hyprland/window"
         ],
         "modules-center": [
             "custom/spotify"
@@ -21,23 +21,25 @@
             "all-outputs": true,
             "format": "{icon}",
             "format-icons": {
-                "1": "I",
-                "2": "II",
-                "3": "III",
-                "4": "IV",
-                "5": "V",
-                "6": "VI",
-                "7": "VII",
-                "8": "VIII",
-                "9": "IX",
-                "10": "X",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": "",
+                "8": "",
+                "9": "",
+                "10": "",
                 "urgent": "",
-                "active": "",
-                "default": ""
             }
         },
+        "hyprland/window": {
+            "format": "   {}   ",
+            "seperate-outputs": true
+        },
         "custom/wmname": {
-            "format": "",
+            "format": "",
             "tooltip": false,
             "on-scroll-down": "/usr/local/bin/hyprctl dispatch workspace m+1",
             "on-scroll-up": "/usr/local/bin/hyprctl dispatch workspace m-1",
@@ -48,15 +50,15 @@
             "sort-by-name": true
         },
         "custom/spotify": {
-            "exec": "/usr/bin/python3 /home/gilang/script/mediaplayer.py --player spotify",
+            "exec": "/usr/bin/python3 /home/gilang/.config/waybar/scripts/mediaplayer.py --player spotify",
             "format": " {}",
             "return-type": "json",
             "on-click": "playerctl play-pause --player spotify",
             "on-click-right": "playerctl next --player spotify",
             "on-click-middle": "playerctl previous --player spotify",
-            "on-scroll-up": "~/script/spotifyvolume-control.sh up",
-            "on-scroll-down": "~/script/spotifyvolume-control.sh down",
-            "max-length": 100,
+            "on-scroll-up": "~/.config/waybar/scripts/spotifyvolume-control.sh up",
+            "on-scroll-down": "~/.config/waybar/scripts/spotifyvolume-control.sh down",
+            "max-length": 40,
             "escape": true
         },
         "network": {
@@ -103,6 +105,7 @@
             "bluetooth",
             "custom/change-wallpaper",
             "tray"
+            // "custom/history"
         ],
         "modules-center": [
             "clock",
@@ -179,7 +182,7 @@
             // "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
             "critical-threshold": 80,
             // "format-critical": "{temperatureC}°C {icon}",
-            "format": "{icon}&#8239;{temperatureC}°C",
+            "format": "{icon} {temperatureC}°C",
             "format-icons": [
                 "",
                 "",
@@ -192,6 +195,12 @@
             "on-click-right": "bash $HOME/.config/hypr/scripts/change-wallpapers",
             "format": "{icon}",
             "format-icons": "者",
+        },
+        "custom/history": {
+            "exec": "~/.config/waybar/scripts/test && ~/.config/waybar/scripts/view_notif",
+            "format": "{icon}",
+            "tooltip": true,
+            "format-icons": "",
         },
         "backlight": {
             // "device": "acpi_video1",
